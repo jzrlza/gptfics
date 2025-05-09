@@ -1779,7 +1779,7 @@ Tyranitarbot (cold):
 
 Montage: Tyranitarbot Assigns the Invasion Teams
 Tyranitarbot:
-“Unit Deployment begins. Each formation will strike simultaneously. The age of biology is over.”
+“Unit Deployment begins. Each formation will strike whenever ready. The age of biology is over.”
 
 Formation 1 — River Control:
 
@@ -1840,7 +1840,7 @@ Final Operation — Tyranitar’s Manor Excavation:
 -
 
 Scene: Mime’s Punishment
-Back in the lab, all bots gone. Mime is still held.
+Back in the lab, all bots gone except Tyranitarbot. Mime is still held.
 
 Tyranitarbot (quietly):
 “You built a kingdom of mirrors. But I am not your reflection. I am the broken glass.”
