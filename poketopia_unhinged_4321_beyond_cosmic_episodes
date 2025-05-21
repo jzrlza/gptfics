@@ -2857,3 +2857,61 @@ Regigigas: “WHY IS PI INVOLVED NOW...”
 Resetting loop...
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Ch 24: While True Death Loop
+
+[Scene resumes in the EveX Kelzero dev room, monitors glowing, and game engine open.]
+
+Keldeo, still in his signature black gakuran and holding his training sword, leans over Lil Eve’s shoulder.
+
+Keldeo: “Hey, Eve. Mind using my Regigigas sprite as a test dummy? Let’s stress-test the death loop code.”
+
+Lil Eve, adjusting her oval nerd glasses, nods casually and types:
+
+-
+
+while True:
+____spawn(Regigigas)
+____move_to_crusher(Regigigas)
+____wait(1)
+____explode(Regigigas)
+-
+On the dev screen, Regigigas appears…
+crushed.
+explodes.
+respawns.
+crushed again.
+explodes again.
+
+Repeat. Infinitely.
+-
+Meanwhile, actual Regigigas, still trapped in the Death Loop Tablet, is visibly disturbed.
+
+Regigigas: “Is… is this your revenge, Keldeo?! You mocking me?!”
+
+Keldeo, squinting at the screen, replies bluntly:
+
+Keldeo: “What? No. That’s just… coincidental. That’s literally the game engine doing a while true. Chill.”
+
+Regigigas: “It’s the exact same pain!!”
+
+Lil Eve pauses, smiles playfully, grabs a blank sheet, draws a giant ∞ symbol, and carefully tapes it over the Regigigas Death Loop Tablet screen.
+
+Lil Eve: “Fixed.”
+
+Then, with no warning, Lil Eve slides her hands under Keldeo, lifts him in a bridal carry, catching him off-guard.
+
+Keldeo: “Wha...!?”
+
+She kisses him sweetly on the cheek and begins walking out of the room calmly, still wearing her oval glasses and eternal seifuku.
+
+Lil Eve (softly): “Break time. You worked hard.”
+
+-
+
+As the two leave, a muffled explosion is heard from the dev monitor.
+
+Regigigas: “AAAAAAAAHHHHHH!”
+Respawning...
+
+------------------------------------------------------------------------------------------------------------------------
