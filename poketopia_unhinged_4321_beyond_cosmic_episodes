@@ -2768,3 +2768,92 @@ Alolan Ninetales: “Why not both?”
 She throws a snowball at the fourth wall.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Ch 23: Math and Code Duel
+
+[Scene continues in the training room, where Regigigas just suffered another ridiculous death in the Death Loop Tablet.]
+
+Alolan Ninetales adjusts her new square-rimmed glasses, still dazzling in her eternal blue frilly sundress. She raises a paw with the elegance of a pompous academic.
+
+Alolan Ninetales: “You see, back when I was a young Alolan Vulpix on the original Alolan islands—about 2 gigayears ago…”
+
+Regigigas immediately flails and dies again on screen.
+
+Regigigas: “NOOOO STOP CALLING IT THAT—URKGHGH–”
+
+The screen flashes:
+Resetting loop. 2,096,434,268.6967 years remaining…
+
+Meanwhile, Lil Eve, still in her eternal seifuku uniform and stylish oval nerd glasses, is sitting peacefully in front of her glowing terminal, coding game logic using mathematical formulas.
+
+Alolan Ninetales notices.
+
+Alolan Ninetales: “A fellow math user?! I challenge you to a math duel, nerd-to-nerd!”
+
+Lil Eve (smiling shyly): “Okay… but this is gonna be a breather after that 80-line bug.”
+
+-
+
+Math Duel Begins
+First Challenge: Trigonometry
+
+Alolan Ninetales grins smugly and draws a perfect triangle.
+
+Alolan Ninetales:
+Right triangle with sides:
+- a = 9
+- b = 9
+- hypotenuse = √18
+She cackles like she just summoned a legendary Pokémon with Pythagoras’ ghost.
+
+Lil Eve calmly draws on her 2D grid instead:
+
+Lil Eve:
+Let point A = (6, 9)
+Let point B = (-6, -9)
+Distance formula:  
+√[(6 - (-6))² + (9 - (-9))²] = √[(12)² + (18)²] = √(144 + 324) = √468 = 6√13
+Lil Eve: “So the distance between A and B is 6√13.”
+
+Alolan Ninetales gasps.
+
+-
+
+Second Challenge: Sigma Notation
+
+Alolan Ninetales scribbles wildly:
+
+Alolan Ninetales:
+∑ (x^9) from x = 1 to 9
+Then she freezes.
+
+Alolan Ninetales: “...uh... does anyone want to expand that?”
+
+Lil Eve spins in her chair and opens her code editor:
+total = 0
+for x in range(1, 10):
+    total += x**9
+print(total)
+
+Terminal Output: 220008135489
+
+Lil Eve: “And that’s the sum. Easy.”
+
+-
+
+Alolan Ninetales collapses into a dignified sitting pose, defeated but admiring.
+
+Alolan Ninetales: “You win. Teach me, Lil Eve. How do you apply math in real life?”
+
+Lil Eve (softly):
+
+“We upgraded. Your era’s math teaching was stuck in chalkboard purgatory. Ours lets us build games with math.”
+
+Alolan Ninetales (nodding): “No wonder I failed to understand Sigma properly back in the day… I thought he was just a boss from Megaman X…”
+
+They both laugh as the screen behind them shows Regigigas dying again, this time getting flattened by a π-shaped meteor.
+
+Regigigas: “WHY IS PI INVOLVED NOW—”
+Resetting loop...
+
+------------------------------------------------------------------------------------------------------------------------
