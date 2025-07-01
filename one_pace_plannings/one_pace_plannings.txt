@@ -13,7 +13,7 @@ maximum episodes digestable per day = 3 runs = 18 episodes (9 hours)
 
 Punk Hazard
 https://pixeldrain.net/l/JhEhtVpm
-Progress : 0/22
+Progress : 4/22
 (11 hours approx. based on life autonomy, it may take 1.22 days)
 
 Dressrosa
