@@ -16,10 +16,10 @@
 --Crustle
 --Alolan Ninetales
 --Mamoswine
-Gengar
-Wigglytuff
-Eldegoss
-Machamp
+--Gengar
+--Wigglytuff
+--Eldegoss
+--Machamp
 Gardevoir
 Blastoise
 Sylveon
