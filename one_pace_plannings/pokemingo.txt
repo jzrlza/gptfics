@@ -11,11 +11,11 @@
 --Venusaur
 --Charizard
 --Snorlax
-Mr.Mime
-Cramorant
-Crustle
-Alolan Ninetales
-Mamoswine
+--Mr.Mime
+--Cramorant
+--Crustle
+--Alolan Ninetales
+--Mamoswine
 Gengar
 Wigglytuff
 Machamp
