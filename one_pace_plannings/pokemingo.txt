@@ -1,32 +1,30 @@
 
-Mime
-Cramorant
-
-Greedent
-Blissey
-
+--Pikachu
 --Cinderace
 --Zeraora
 --Garchomp 
-Gengar
-Wigglytuff
 --Absol
---Pikachu
-Machamp
 --Lucario
-Gardevoir
 --Talonflame
-Mamoswine
-Alolan Ninetales
 --Slowbro
 --Greninja
 --Venusaur
-Blastoise
 --Charizard
 --Snorlax
+Mr.Mime
+Cramorant
 Crustle
+Alolan Ninetales
+Mamoswine
+Gengar
+Wigglytuff
+Machamp
+Gardevoir
+Blastoise
 Sylveon
 Eldegoss
+Greedent
+Blissey
 
 Decidueye
 Tsareena
