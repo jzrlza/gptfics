@@ -19,6 +19,7 @@ Gold Ship
 
 Daiwa Scarlet
 - Memorables = S1, S2, S3
+- Cameo = S3.5
 
 Vodka
 - Memorables = S1, S2, S3
