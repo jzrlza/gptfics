@@ -107,12 +107,14 @@ Satono Diamond
 ===Bourbon's Team===
 Mihono Bourbon
 - Memorables = S2, S3
+- OVA only = S1
 
 Rice Shower
 - Memorables = S2, S2.5, S3
 - Barely = S3.5
+- OVA only = S1
 
-===Team BNW===
+===Team BNW=== (S1 OVA focus EP14-16, which not many knew existed)
 Biwa Hayahide
 - Almost Memorables = S2
 - Barely = S1
@@ -136,9 +138,18 @@ Meisho Doto
 - Memorables = S2.5
 - Almost Memorables = S1, S2, S3
 
+Eishin Flash
+- OVA only = S1
+
+Ines Fujin
+- OVA only = S1
+
 Curren Chan
 - Memorables = S2.5
 - Cameo = S3, S3.5
+
+Smart Falcon
+- OVA only = S1
 
 King Halo
 - Memorables = S1
@@ -148,6 +159,7 @@ King Halo
 Sakura Bakushin O
 - Memorables = S3
 - Barely = S2
+- OVA only = S1
 
 Seiun Sky
 - Almost Memorables = S1
@@ -166,6 +178,10 @@ Narita Top Road
 Admire Vega
 - Memorables = S2.5
 - Cameo = S3.5
+- OVA only = S1
+
+Air Shakar
+- OVA only = S1
 
 Manhattan Cafe
 - Memorables = S3.5
@@ -173,6 +189,7 @@ Manhattan Cafe
 
 Agnes Tachyon
 - Memorables = S3.5
+- OVA only = S1
 
 Jungle Pocket
 - Memorables = S3.5
@@ -213,3 +230,9 @@ Sweep Tosho
 Nishino Flower
 - Cameo = S3
 
+Gold City
+- Barely = S2
+- OVA only = S1
+
+Sun Visor
+- Almost Memorable = S1
