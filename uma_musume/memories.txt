@@ -112,6 +112,14 @@ Rice Shower
 - Memorables = S2, S2.5, S3
 - Barely = S3.5
 
+===Team BNW===
+Biwa Hayahide
+- Almost Memorables = S2
+- Barely = S1
+
+Winning Ticket
+- Almost Memorable = S2
+- Barely = S1, S3
 
 ===Unknown Team===
 Haru Urara
@@ -123,10 +131,6 @@ Haru Urara
 Meisho Doto
 - Memorables = S2.5
 - Almost Memorables = S1, S2, S3
-
-Biwa Hayahide
-- Almost Memorables = S2
-- Barely = S1
 
 Curren Chan
 - Memorables = S2.5
@@ -171,10 +175,6 @@ Jungle Pocket
 Mayano Top Gun
 - Barely = S2
 - Cameo = S3
-
-Winning Ticket
-- Almost Memorable = S2
-- Barely = S1, S3
 
 Tamamo Cross
 - Almost Memorables = S1
