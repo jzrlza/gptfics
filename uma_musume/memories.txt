@@ -169,6 +169,7 @@ Admire Vega
 
 Manhattan Cafe
 - Memorables = S3.5
+- OVA only = S1
 
 Agnes Tachyon
 - Memorables = S3.5
