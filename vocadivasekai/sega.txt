@@ -9,8 +9,8 @@ Sanic Mobian-Vocaloid equivalents :
 
 Sonic - Miku
 Tails - Rin
-Amy - Kaito
 Knuckles - Luka
+Amy - Kaito
 Cream - Len
 Rouge - Meiko
 Shadow - Teto
