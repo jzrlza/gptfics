@@ -14,13 +14,14 @@ Knuckles - Luka
 Cream - Len
 Rouge - Meiko
 Shadow - Teto
-Silver - Haku
-Blaze - Neru
+Silver - Neru
+Blaze - Haku
 Big - Iroha
 Jet - Gumi
 Wave - Gakupo
-Storm - Oliver
+Storm - Lily
 Vector - Big Al
-Espio - V Flower
+Espio - Oliver
 Charmy - SeeU
-Tikal - IA
+Whisper - IA
+Tangle - V Flower
