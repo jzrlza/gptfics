@@ -9,10 +9,10 @@ Sanic Mobian-Vocaloid equivalents :
 
 Sonic - Miku
 Tails - Rin
-Knuckles - Luka
+Knuckles - Meiko
 Amy - Kaito
 Cream - Len
-Rouge - Meiko
+Rouge - Luka
 Shadow - Teto
 Silver - Neru
 Blaze - Haku
