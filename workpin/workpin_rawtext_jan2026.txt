@@ -41,62 +41,62 @@ TEST CASES
 Here are the test cases for the Home.jsx component (frontend page for general users):
 
 ## **1. UI & Rendering Tests**
-- [ ] **TC-UI-01**: Verify page loads without errors
+- [/] **TC-UI-01**: Verify page loads without errors
 - [ ] **TC-UI-02**: Verify Navbar component renders with user information
-- [ ] **TC-UI-03**: Verify banner image displays correctly
-- [ ] **TC-UI-04**: Verify page title shows "ลงทะเบียน" for new registration mode
+- [/] **TC-UI-03**: Verify banner image displays correctly
+- [/] **TC-UI-04**: Verify page title shows "ลงทะเบียน" for new registration mode
 - [ ] **TC-UI-05**: Verify page title shows "แก้ไขการลงทะเบียน" for edit mode (when `id` exists in URL)
-- [ ] **TC-UI-06**: Verify loading state displays when `pageLoading` is true
-- [ ] **TC-UI-07**: Verify form fields render with correct labels
-- [ ] **TC-UI-08**: Verify Modal component renders when `modal.isOpen` is true
+- [/] **TC-UI-06**: Verify loading state displays when `pageLoading` is true
+- [/] **TC-UI-07**: Verify form fields render with correct labels
+- [/] **TC-UI-08**: Verify Modal component renders when `modal.isOpen` is true
 
 ## **2. Form Interaction Tests**
 ### **Dropdown Behavior**
-- [ ] **TC-FORM-01**: Division dropdown loads options from API on mount
-- [ ] **TC-FORM-02**: Department dropdown is disabled when no division is selected
-- [ ] **TC-FORM-03**: Employee dropdown is disabled when no department is selected
-- [ ] **TC-FORM-04**: Selecting a division populates department dropdown
-- [ ] **TC-FORM-05**: Selecting a department populates employee dropdown
-- [ ] **TC-FORM-06**: Selecting an employee auto-fills name and emp_id fields
-- [ ] **TC-FORM-07**: Changing division clears department, employee, and form name/ID fields
-- [ ] **TC-FORM-08**: Changing department clears employee and form name/ID fields
-- [ ] **TC-FORM-09**: Show selected employee hint appears when employee is selected
+- [/] **TC-FORM-01**: Division dropdown loads options from API on mount
+- [/] **TC-FORM-02**: Department dropdown is disabled when no division is selected
+- [/] **TC-FORM-03**: Employee dropdown is disabled when no department is selected
+- [/] **TC-FORM-04**: Selecting a division populates department dropdown
+- [/] **TC-FORM-05**: Selecting a department populates employee dropdown
+- [/] **TC-FORM-06**: Selecting an employee auto-fills name and emp_id fields
+- [/] **TC-FORM-07**: Changing division clears department, employee, and form name/ID fields
+- [/] **TC-FORM-08**: Changing department clears employee and form name/ID fields
+- [/] **TC-FORM-09**: Show selected employee hint appears when employee is selected
 
 ### **Form Validation**
-- [ ] **TC-VALID-01**: Submit button is disabled when loading
-- [ ] **TC-VALID-02**: Form shows error when submitting without employee selected
-- [ ] **TC-VALID-03**: All dropdowns have "required" attribute
-- [ ] **TC-VALID-04**: Table number field accepts any text input
+- [/] **TC-VALID-01**: Submit button is disabled when loading
+- [/] **TC-VALID-02**: Form shows error when submitting without employee selected
+- [/] **TC-VALID-03**: All dropdowns have "required" attribute
+- [/] **TC-VALID-04**: Table number field accepts any text input
 
 ## **3. API Integration Tests**
 ### **Data Fetching**
-- [ ] **TC-API-01**: Verify divisions are fetched on component mount
-- [ ] **TC-API-02**: Verify departments are fetched when division is selected
-- [ ] **TC-API-03**: Verify employees are fetched when department is selected
+- [/] **TC-API-01**: Verify divisions are fetched on component mount
+- [/] **TC-API-02**: Verify departments are fetched when division is selected
+- [/] **TC-API-03**: Verify employees are fetched when department is selected
 - [ ] **TC-API-04**: Verify register data is fetched when in edit mode (`id` exists)
 - [ ] **TC-API-05**: Verify employee info is fetched when editing existing registration
 - [ ] **TC-API-06**: Handle API errors gracefully with error modal
 - [ ] **TC-API-07**: Backend health check runs on component mount
 
 ### **Data Submission**
-- [ ] **TC-SUBMIT-01**: Submit form creates POST request to `/api/registers` for new registration
+- [/] **TC-SUBMIT-01**: Submit form creates POST request to `/api/registers` for new registration
 - [ ] **TC-SUBMIT-02**: Submit form creates PUT request to `/api/registers/${id}` for edit mode
-- [ ] **TC-SUBMIT-03**: Success modal shows after successful submission
-- [ ] **TC-SUBMIT-04**: Error modal shows on submission failure
-- [ ] **TC-SUBMIT-05**: Loading state shows during submission
+- [/] **TC-SUBMIT-03**: Success modal shows after successful submission
+- [/] **TC-SUBMIT-04**: Error modal shows on submission failure
+- [/] **TC-SUBMIT-05**: Loading state shows during submission
 
 ## **4. State Management Tests**
-- [ ] **TC-STATE-01**: Form clears after successful submission (success modal closed)
-- [ ] **TC-STATE-02**: Modal closes when close button is clicked
+- [/] **TC-STATE-01**: Form clears after successful submission (success modal closed)
+- [/] **TC-STATE-02**: Modal closes when close button is clicked
 - [ ] **TC-STATE-03**: Page transitions to edit mode when URL contains `id` parameter
 - [ ] **TC-STATE-04**: Form pre-populates with existing data in edit mode
-- [ ] **TC-STATE-05**: Hierarchical selection state resets when division changes
+- [/] **TC-STATE-05**: Hierarchical selection state resets when division changes
 
 ## **5. User Flow Tests**
 ### **New Registration Flow**
-- [ ] **TC-FLOW-01**: User can select division → department → employee → enter table number → submit
-- [ ] **TC-FLOW-02**: After successful submission, form resets to initial state
-- [ ] **TC-FLOW-03**: Success message shows correct Thai text for new registration
+- [/] **TC-FLOW-01**: User can select division → department → employee → enter table number → submit
+- [/] **TC-FLOW-02**: After successful submission, form resets to initial state
+- [/] **TC-FLOW-03**: Success message shows correct Thai text for new registration
 
 ### **Edit Registration Flow**
 - [ ] **TC-FLOW-04**: Form loads existing data when accessing with edit URL
@@ -126,7 +126,7 @@ Here are the test cases for the Home.jsx component (frontend page for general us
 - [ ] **TC-EDGE-02**: Department dropdown empty for selected division
 - [ ] **TC-EDGE-03**: Employee dropdown empty for selected department
 - [ ] **TC-EDGE-04**: Very long employee names render correctly
-- [ ] **TC-EDGE-05**: Special characters in table number field
+- [BLOCKED] **TC-EDGE-05**: Special characters in table number field     
 - [ ] **TC-EDGE-06**: Network failure during form submission
 - [ ] **TC-EDGE-07**: Component unmounts during API call
 - [ ] **TC-EDGE-08**: Edit mode with non-existent `id` parameter
