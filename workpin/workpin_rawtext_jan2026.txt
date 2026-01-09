@@ -33,3 +33,401 @@ backend มีหน้าจอตามรายละเอียดข้า
 ---------
 mysqldump -u [USERNAME] -p -h [HOST] --port=[PORT] --no-data [DATABASE_NAME] > schema_export.sql
 ---------
+
+
+TEST CASES
+
+[
+Here are the test cases for the Home.jsx component (frontend page for general users):
+
+## **1. UI & Rendering Tests**
+- [ ] **TC-UI-01**: Verify page loads without errors
+- [ ] **TC-UI-02**: Verify Navbar component renders with user information
+- [ ] **TC-UI-03**: Verify banner image displays correctly
+- [ ] **TC-UI-04**: Verify page title shows "ลงทะเบียน" for new registration mode
+- [ ] **TC-UI-05**: Verify page title shows "แก้ไขการลงทะเบียน" for edit mode (when `id` exists in URL)
+- [ ] **TC-UI-06**: Verify loading state displays when `pageLoading` is true
+- [ ] **TC-UI-07**: Verify form fields render with correct labels
+- [ ] **TC-UI-08**: Verify Modal component renders when `modal.isOpen` is true
+
+## **2. Form Interaction Tests**
+### **Dropdown Behavior**
+- [ ] **TC-FORM-01**: Division dropdown loads options from API on mount
+- [ ] **TC-FORM-02**: Department dropdown is disabled when no division is selected
+- [ ] **TC-FORM-03**: Employee dropdown is disabled when no department is selected
+- [ ] **TC-FORM-04**: Selecting a division populates department dropdown
+- [ ] **TC-FORM-05**: Selecting a department populates employee dropdown
+- [ ] **TC-FORM-06**: Selecting an employee auto-fills name and emp_id fields
+- [ ] **TC-FORM-07**: Changing division clears department, employee, and form name/ID fields
+- [ ] **TC-FORM-08**: Changing department clears employee and form name/ID fields
+- [ ] **TC-FORM-09**: Show selected employee hint appears when employee is selected
+
+### **Form Validation**
+- [ ] **TC-VALID-01**: Submit button is disabled when loading
+- [ ] **TC-VALID-02**: Form shows error when submitting without employee selected
+- [ ] **TC-VALID-03**: All dropdowns have "required" attribute
+- [ ] **TC-VALID-04**: Table number field accepts any text input
+
+## **3. API Integration Tests**
+### **Data Fetching**
+- [ ] **TC-API-01**: Verify divisions are fetched on component mount
+- [ ] **TC-API-02**: Verify departments are fetched when division is selected
+- [ ] **TC-API-03**: Verify employees are fetched when department is selected
+- [ ] **TC-API-04**: Verify register data is fetched when in edit mode (`id` exists)
+- [ ] **TC-API-05**: Verify employee info is fetched when editing existing registration
+- [ ] **TC-API-06**: Handle API errors gracefully with error modal
+- [ ] **TC-API-07**: Backend health check runs on component mount
+
+### **Data Submission**
+- [ ] **TC-SUBMIT-01**: Submit form creates POST request to `/api/registers` for new registration
+- [ ] **TC-SUBMIT-02**: Submit form creates PUT request to `/api/registers/${id}` for edit mode
+- [ ] **TC-SUBMIT-03**: Success modal shows after successful submission
+- [ ] **TC-SUBMIT-04**: Error modal shows on submission failure
+- [ ] **TC-SUBMIT-05**: Loading state shows during submission
+
+## **4. State Management Tests**
+- [ ] **TC-STATE-01**: Form clears after successful submission (success modal closed)
+- [ ] **TC-STATE-02**: Modal closes when close button is clicked
+- [ ] **TC-STATE-03**: Page transitions to edit mode when URL contains `id` parameter
+- [ ] **TC-STATE-04**: Form pre-populates with existing data in edit mode
+- [ ] **TC-STATE-05**: Hierarchical selection state resets when division changes
+
+## **5. User Flow Tests**
+### **New Registration Flow**
+- [ ] **TC-FLOW-01**: User can select division → department → employee → enter table number → submit
+- [ ] **TC-FLOW-02**: After successful submission, form resets to initial state
+- [ ] **TC-FLOW-03**: Success message shows correct Thai text for new registration
+
+### **Edit Registration Flow**
+- [ ] **TC-FLOW-04**: Form loads existing data when accessing with edit URL
+- [ ] **TC-FLOW-05**: Hierarchical dropdowns pre-select based on existing employee data
+- [ ] **TC-FLOW-06**: Success message shows correct Thai text for edit mode
+
+## **6. Error Handling Tests**
+- [ ] **TC-ERROR-01**: Show error modal when division fetch fails
+- [ ] **TC-ERROR-02**: Show error modal when department fetch fails
+- [ ] **TC-ERROR-03**: Show error modal when employee fetch fails
+- [ ] **TC-ERROR-04**: Show error modal when register data fetch fails in edit mode
+- [ ] **TC-ERROR-05**: Show error modal when submission fails
+- [ ] **TC-ERROR-06**: Error modal displays appropriate Thai error messages
+
+## **7. Navigation & Authentication Tests**
+- [ ] **TC-AUTH-01**: Logout button calls `onLogout` prop and navigates to `/login`
+- [ ] **TC-AUTH-02**: User information displays in Navbar
+
+## **8. Responsive & Accessibility Tests**
+- [ ] **TC-ACC-01**: All form elements have proper labels
+- [ ] **TC-ACC-02**: Form is keyboard navigable
+- [ ] **TC-ACC-03**: Error messages are announced to screen readers
+- [ ] **TC-ACC-04**: Banner image has alt text
+
+## **9. Edge Cases**
+- [ ] **TC-EDGE-01**: Division dropdown empty (API returns empty array)
+- [ ] **TC-EDGE-02**: Department dropdown empty for selected division
+- [ ] **TC-EDGE-03**: Employee dropdown empty for selected department
+- [ ] **TC-EDGE-04**: Very long employee names render correctly
+- [ ] **TC-EDGE-05**: Special characters in table number field
+- [ ] **TC-EDGE-06**: Network failure during form submission
+- [ ] **TC-EDGE-07**: Component unmounts during API call
+- [ ] **TC-EDGE-08**: Edit mode with non-existent `id` parameter
+
+## **10. Performance Tests**
+- [ ] **TC-PERF-01**: No unnecessary API calls on re-renders
+- [ ] **TC-PERF-02**: Form responds quickly to user interactions
+- [ ] **TC-PERF-03**: Modal opens/closes without lag
+
+## **Test Data Requirements**
+- Test divisions data (multiple entries)
+- Test departments data (linked to divisions)
+- Test employees data (linked to departments)
+- Test registration data for edit mode
+- Mock API responses for success/failure scenarios
+- User object with typical properties
+
+These test cases cover the functional requirements, user interactions, error scenarios, and edge cases for the Home.jsx component. They can be implemented using testing frameworks like Jest with React Testing Library.
+]
+
+
+ [
+# **Frontend Pages (Remembered):**
+1. `AttendeeInput.jsx` - Attendance registration form
+2. `AttendRegisterList.jsx` - Attendance list with export
+3. `EmployeeInput.jsx` - Employee form (create/edit)
+4. `EmployeeList.jsx` - Employee list with Excel import
+
+# **Comprehensive Test Cases List:**
+
+## **A. FORM VALIDATION TEST CASES**
+
+### **AttendeeInput.jsx**
+1. **Empty form submission** - Should show "กรุณาเลือกพนักงาน"
+2. **Division → Department → Employee flow**
+   - Select division → departments should load
+   - Select department → employees should load
+   - Select employee → name should auto-fill
+3. **Backwards navigation**
+   - Select employee → change division → employee/department should clear
+   - Select department → change division → department should clear
+4. **Table number validation**
+   - Invalid characters (letters, special chars)
+   - Very long table numbers
+   - Duplicate table numbers (if business rule)
+
+### **EmployeeInput.jsx**
+1. **Required field validation**
+   - Empty name submission
+   - No position selected
+   - Division selected but no department
+2. **Division → Department dependency**
+   - Department dropdown disabled when no division selected
+   - Departments filtered by selected division
+3. **Edit mode data loading**
+   - Existing employee data loads correctly
+   - Division/Department cascade loads properly
+
+## **B. API INTERACTION TEST CASES**
+
+### **All Pages**
+1. **Network failure scenarios**
+   - Server offline during form submission
+   - Slow network (timeout handling)
+   - Invalid API response format
+2. **HTTP error handling**
+   - 401 Unauthorized (token expired)
+   - 403 Forbidden
+   - 404 Not found (editing deleted items)
+   - 500 Internal server error
+   - 429 Rate limiting
+3. **Concurrent operations**
+   - Submit form while already submitting
+   - Multiple rapid page changes
+   - Edit while data is being refreshed
+
+### **Specific API Scenarios**
+4. **Empty data states**
+   - No employees in department
+   - No departments in division
+   - Empty search results
+5. **Large dataset handling**
+   - Departments with 100+ employees
+   - Excel import with 1000+ rows
+   - Pagination with 100+ pages
+
+## **C. DATA INTEGRITY TEST CASES**
+
+### **EmployeeList.jsx (Excel Import)**
+1. **File validation**
+   - Non-Excel file upload (.txt, .pdf, .jpg)
+   - Corrupted Excel file
+   - Empty Excel file
+   - Very large Excel file (>50MB)
+2. **Excel data scenarios**
+   - Missing columns in Excel
+   - Extra columns in Excel
+   - Different column order
+   - Mixed data types in columns
+   - Special characters in names
+   - Unicode/Thai characters
+3. **Data matching failures**
+   - Division name misspelled
+   - Department not in selected division
+   - Position name variations (with spaces, abbreviations)
+   - Duplicate employee names
+4. **Import confirmation flow**
+   - Cancel during test import
+   - Cancel during real import
+   - Navigate away during import
+   - Browser refresh during import
+
+### **AttendRegisterList.jsx (Excel Export)**
+1. **Export scenarios**
+   - Export with 0 registrations
+   - Export with 1000+ registrations
+   - Export while data is changing
+2. **File download issues**
+   - Browser download blocked
+   - Insufficient disk space
+   - File name conflicts
+   - Download interrupted
+
+## **D. USER INTERACTION TEST CASES**
+
+### **Navigation & Flow**
+1. **Page navigation**
+   - Browser back/forward buttons
+   - Direct URL access (deep linking)
+   - Refresh during form editing
+   - Multiple tab management
+2. **Form abandonment**
+   - Fill form → navigate away → warning
+   - Browser close without saving
+   - Session timeout during editing
+3. **Modal interactions**
+   - Multiple modals stacking
+   - Modal with scrollable content
+   - Keyboard navigation in modals
+   - Escape key to close modal
+
+### **Search & Filter**
+1. **Search functionality**
+   - Empty search → show all
+   - Special characters in search
+   - Very long search strings
+   - Search with leading/trailing spaces
+2. **Pagination edge cases**
+   - Page 0 or negative page
+   - Page beyond total pages
+   - Change page size dynamically
+   - Pagination with 0 items
+
+## **E. STATE MANAGEMENT TEST CASES**
+
+### **Component State**
+1. **Loading states**
+   - Loading → error transition
+   - Multiple simultaneous loads
+   - Loading indicators for all async operations
+2. **Form state persistence**
+   - Form data survives component re-renders
+   - Proper cleanup on unmount
+   - State reset after successful submission
+3. **Selection states**
+   - Radio button/checkbox groups
+   - Multi-select scenarios
+   - Default/initial selections
+
+### **Data Synchronization**
+1. **Real-time updates**
+   - List updates after add/edit/delete
+   - Data consistency across tabs
+   - Stale data detection
+2. **Optimistic updates**
+   - Add/delete with immediate UI update
+   - Rollback on API failure
+   - Conflict resolution
+
+## **F. ACCESSIBILITY TEST CASES**
+
+1. **Keyboard navigation**
+   - Tab order through forms
+   - Enter to submit forms
+   - Escape to close modals
+   - Arrow keys in dropdowns
+2. **Screen reader support**
+   - Form labels association
+   - Error message announcements
+   - Loading state announcements
+3. **Visual impairments**
+   - High contrast mode
+   - Zoom to 200%
+   - Font size adjustments
+   - Color blindness scenarios
+
+## **G. PERFORMANCE TEST CASES**
+
+1. **Large lists**
+   - 1000+ employees in dropdown
+   - Virtual scrolling not implemented
+   - Search performance with large datasets
+2. **Memory leaks**
+   - Component unmount cleanup
+   - Event listener removal
+   - API request cancellation
+3. **Bundle size impact**
+   - Excel library impact on initial load
+   - Lazy loading opportunities
+   - Code splitting possibilities
+
+## **H. BROWSER COMPATIBILITY**
+
+1. **Different browsers**
+   - Chrome/Firefox/Safari/Edge
+   - Mobile browsers
+   - Older browser versions
+2. **Browser features**
+   - LocalStorage availability
+   - Blob API support
+   - FileReader API support
+   - URL.createObjectURL support
+
+## **I. SECURITY TEST CASES**
+
+1. **Input sanitization**
+   - XSS injection attempts
+   - SQL injection patterns in search
+   - Path traversal in file uploads
+2. **Authorization bypass**
+   - Direct API calls without auth
+   - Access other users' data
+   - Privilege escalation attempts
+3. **Data exposure**
+   - Sensitive data in logs
+   - Error messages revealing internals
+   - Browser cache of sensitive data
+
+## **J. EDGE CASE SCENARIOS**
+
+1. **Date/Time handling**
+   - Different timezones
+   - Daylight saving transitions
+   - Invalid date formats
+2. **Number handling**
+   - Very large numbers (ID overflow)
+   - Decimal numbers where integers expected
+   - Negative numbers where positive expected
+3. **Text handling**
+   - Emojis in names
+   - Right-to-left text
+   - Zero-width characters
+   - Extremely long strings (1000+ chars)
+
+## **K. INTEGRATION TEST CASES**
+
+1. **Database consistency**
+   - Foreign key constraint violations
+   - Unique constraint violations
+   - Transaction rollback scenarios
+2. **Session management**
+   - Multiple simultaneous logins
+   - Token refresh mechanism
+   - Logout from all devices
+3. **File system operations**
+   - Disk full during export
+   - File permission issues
+   - Concurrent file operations
+
+## **Priority Order for Testing:**
+
+**CRITICAL (Fix Immediately):**
+1. Form validation preventing data corruption
+2. API error handling preventing app crashes
+3. Excel import data integrity issues
+4. Authentication/authorization bypasses
+
+**HIGH (Next Sprint):**
+1. Large dataset performance issues
+2. Concurrent operation race conditions
+3. State synchronization problems
+4. Critical accessibility issues
+
+**MEDIUM (Future Sprints):**
+1. Browser compatibility issues
+2. Edge case scenarios
+3. Performance optimizations
+4. Advanced UX improvements
+
+**LOW (Technical Debt):**
+1. Code maintainability improvements
+2. Test coverage gaps
+3. Documentation updates
+4. Minor UI polish items
+
+---
+
+**Key Areas Needing Immediate Attention Based on Code Review:**
+1. **EmployeeList.jsx**: Excel import lacks proper error boundaries
+2. **AttendeeInput.jsx**: Missing validation for duplicate registrations
+3. **All Forms**: No optimistic updates for better UX
+4. **Modals**: Missing focus trapping for accessibility
+5. **Search**: No debouncing causing performance issues
+ ]
