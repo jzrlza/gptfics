@@ -44,3 +44,22 @@ looks like this
 [ 3   -1
   -5   2  ]
 
+7. (x,y,z)=(2t,-t,-t)       when t∈R
+
+8. for (4,2) -> (2,1) λ=2
+for (1,3) λ=1
+
+
+16. N = 5+3+2 = 10
+red prob = 5/10 = 0.5
+non red prob = 1-0.5 = 0.5 = 50% chance
+
+17. dices
+2+6
+3+5
+4+4
+3+5
+6+2
+N=5   2 outcomes out of 5
+2/5=0.4=40% chance
+
