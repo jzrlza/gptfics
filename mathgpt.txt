@@ -4,7 +4,7 @@ Check these answers for me from previous generated questions:
 1.2 BA เป็นไปไม่ได้เพราะมิติ 3x2 -> 2x4 ได้ แต่ 2x4 -> 3x2 ไม่ได้
 เลข axb -> cxd, b=c เท่านั้นจึงจะได้
 
-2. (1,2,3) and (2,4,6) are 2 3d vectors those are dependant vectors to each other but both are independant of (1,1,1), this vector points at 45 degree of basic 3 axises
+2. (1,2,3) and (2,4,6) are 2 3d vectors those are dependant vectors to each other but both are independant of (1,1,1), XXX No more ANGLE MENTION XXXX
 (help translate to thai for me)
 
 3. this is how I do
@@ -17,6 +17,7 @@ huh?
 x+y+z=3
 huhhhh?
 INCONSISTENT, no answer
+XXXXXXX WRONG XXXXXXX
 
 4. Row 1 vs row 2
 (2,4,6)=2(1,2,3)
@@ -32,7 +33,8 @@ a=k b=1 c=2 d=k
 det(A) = (k^2)-2
 0≠(k^2)-2
 2≠k^2
-k≠√(2) --> this is the condition for inverse to exists
+k≠√(2) XXXXX WRONG XXXX
+k≠±√(2) --> this is the condition for inverse to exists
 
 6. make sure det(A)≠0
 det(A) = ad-bc
@@ -44,7 +46,9 @@ looks like this
 [ 3   -1
   -5   2  ]
 
-7. (x,y,z)=(2t,-t,-t)       when t∈R
+7. x+y+z = 0
+  2x+2+2z=0
+(x,y,z)=(2t,-t,-t)       when t∈R
 
 8. for (4,2) -> (2,1) λ=2
 for (1,3) λ=1
@@ -62,4 +66,7 @@ non red prob = 1-0.5 = 0.5 = 50% chance
 6+2
 N=5   2 outcomes out of 5
 2/5=0.4=40% chance
-
+XXX WRONG XXX
+N=6x6 = 36 outcomes
+8 occurs in 5 outcomes (from previous wrong ones)
+chance = 5/36
