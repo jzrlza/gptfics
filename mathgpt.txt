@@ -1,0 +1,20 @@
+Check these answers for me from previous generated questions:
+
+1.1 AB ∈ R^(3x4)
+1.2 BA เป็นไปไม่ได้เพราะมิติ 3x2 -> 2x4 ได้ แต่ 2x4 -> 3x2 ไม่ได้
+เลข axb -> cxd, b=c เท่านั้นจึงจะได้
+
+2. (1,2,3) and (2,4,6) are 2 3d vectors those are dependant vectors to each other but both are independant of (1,1,1), this vector points at 45 degree of basic 3 axises
+(help translate to thai for me)
+
+3. this is how I do
+2x-x+3y-y+z-z=5-2
+x+2y=3
+3x-2x+4y-2y+2z-2z=8-5
+x+2y=3
+huh?
+3x-2x+4y-3y+2z-z=8-5
+x+y+z=3
+huhhhh?
+INCONSISTENT, no answer
+
