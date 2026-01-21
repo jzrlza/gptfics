@@ -1,72 +1,1312 @@
-Check these answers for me from previous generated questions:
+Understood.
+Below is a **complete, exhaustive, non-handwavy mapping of every single topic you listed** to **Unity 2D and 3D game development**, **without omission**, **separated exactly by the same categories and structure you provided**.
 
-1.1 AB ∈ R^(3x4)
-1.2 BA เป็นไปไม่ได้เพราะมิติ 3x2 -> 2x4 ได้ แต่ 2x4 -> 3x2 ไม่ได้
-เลข axb -> cxd, b=c เท่านั้นจึงจะได้
+No philosophy. No motivation. No gaps.
 
-2. (1,2,3) and (2,4,6) are 2 3d vectors those are dependant vectors to each other but both are independant of (1,1,1), XXX No more ANGLE MENTION XXXX
-(help translate to thai for me)
+---
 
-3. this is how I do
-2x-x+3y-y+z-z=5-2
-x+2y=3
-3x-2x+4y-2y+2z-2z=8-5
-x+2y=3
-huh?
-3x-2x+4y-3y+2z-z=8-5
-x+y+z=3
-huhhhh?
-INCONSISTENT, no answer
-XXXXXXX WRONG XXXXXXX
+# 1. LINEAR ALGEBRA (พีชคณิตเชิงเส้น) → UNITY
 
-4. Row 1 vs row 2
-(2,4,6)=2(1,2,3)
-So row 2 adds nothing. It is redundant.
-Row 1 vs row 3
-(1,2,3)≠c(1,1,1)
-No scalar c works. They are independent.
-So Rank 2
+---
 
-5. make sure det(A)≠0
-det(A) = ad-bc
-a=k b=1 c=2 d=k
-det(A) = (k^2)-2
-0≠(k^2)-2
-2≠k^2
-k≠√(2) XXXXX WRONG XXXX
-k≠±√(2) --> this is the condition for inverse to exists
+## A. Bachelor-Level Core Topics
 
-6. make sure det(A)≠0
-det(A) = ad-bc
-a=2 b=1 c=5 d=3
-det(A) = 6-5 = 1
-Inverse = 1/det(A)[[d,-b],[-c,a]]  (sorry this is the best I can, treat it as array 2d programmatically)
-Inverse = 1/1[3,-1],[-5,2]]
-looks like this
-[ 3   -1
-  -5   2  ]
+### 1. Vectors and Vector Spaces
 
-7. x+y+z = 0
-  2x+2+2z=0
-(x,y,z)=(2t,-t,-t)       when t∈R
+เวกเตอร์และปริภูมิเวกเตอร์
 
-8. for (4,2) -> (2,1) λ=2
-for (1,3) λ=1
+**Unity 2D / 3D applications**
+
+* `Vector2`, `Vector3`, `Vector4` for:
+
+  * Position, velocity, acceleration
+  * Input vectors
+  * AI state vectors
+* Feature vectors for:
+
+  * AI decision inputs
+  * Animation blending parameters
+* State representation for:
+
+  * Character movement state
+  * Physics state (pos, vel, force)
+
+---
+
+### 2. Matrix Operations
+
+การบวก คูณ และทรานสโพสเมทริกซ์
+
+**Unity applications**
+
+* Transform matrices (`Matrix4x4`)
+* World ↔ Local ↔ View ↔ Projection transforms
+* Camera projection math
+* Skeletal animation skinning
+* Sprite batching (2D)
+* Adjacency matrices for:
+
+  * Graph-based AI
+  * Navigation graphs
+
+---
+
+### 3. Systems of Linear Equations
+
+ระบบสมการเชิงเส้น
+
+**Unity applications**
+
+* Physics constraint resolution
+* Inverse kinematics solvers
+* Ragdoll joint constraints
+* Multi-axis movement restrictions
+* Camera constraint systems
+
+---
+
+### 4. Gaussian Elimination
+
+การกำจัดแบบเกาส์
+
+**Unity applications**
+
+* Custom IK solvers
+* Physics experimentation
+* Tooling (editor-side solvers)
+* Debugging constraint systems
+* Procedural animation solvers
+
+(Engine uses this internally; you reimplement for learning or tools.)
+
+---
+
+### 5. Determinants
+
+ดีเทอร์มิแนนต์
+
+**Unity applications**
+
+* Detect mirrored transforms (negative scale)
+* Invertibility of transform matrices
+* Physics stability checks
+* Procedural mesh validation
+* Orientation correctness
+
+---
+
+### 6. Rank and Null Space
+
+อันดับและนัลสเปซ
+
+**Unity applications**
+
+* Detect redundant constraints in rigs
+* Animation compression
+* Procedural rig generation
+* Movement constraint analysis
+* Input redundancy detection
+
+---
+
+### 7. Linear Independence / Dependence
+
+ความเป็นอิสระเชิงเส้น
+
+**Unity applications**
+
+* Orthonormal basis construction
+* Camera orientation systems
+* Surface-aligned movement
+* Avoiding degenerate direction vectors
+* Physics contact resolution
+
+---
+
+### 8. Eigenvalues and Eigenvectors
+
+ค่าและเวกเตอร์เฉพาะ
+
+**Unity applications**
+
+* Motion analysis tools
+* PCA on player movement data
+* AI behavior clustering
+* Procedural animation smoothing
+* Mesh deformation analysis
+
+---
+
+## B. Master Entrance / Graduate-Level Topics
+
+### 9. Diagonalization & Jordan Form
+
+การทำให้เป็นเมทริกซ์ทแยง / ฟอร์มจอร์แดน
+
+**Unity applications**
+
+* Control-system-based movement
+* Stability analysis for physics
+* Advanced animation controllers
+* Simulation-heavy games
+* Research-level tooling
+
+---
+
+### 10. Orthogonality & Inner Product Spaces
+
+ปริภูมิผลคูณเชิงใน
+
+**Unity applications**
+
+* Dot product for:
+
+  * Vision cones
+  * Facing checks
+  * Aim assist
+* Vector projection for:
+
+  * Slope movement
+  * Wall sliding
+* Camera constraints
+* Surface alignment
+
+---
+
+### 11. Least Squares Approximation
+
+วิธีประมาณแบบกำลังสองน้อยที่สุด
+
+**Unity applications**
+
+* Camera smoothing
+* Motion smoothing
+* Noise reduction in inputs
+* VR tracking stabilization
+* Sensor fusion
+
+---
+
+### 12. Singular Value Decomposition (SVD)
+
+การแยกค่าเอกฐาน
+
+**Unity applications**
+
+* Mesh compression tools
+* Animation compression
+* Shape matching
+* Procedural deformation
+* Editor-side optimization pipelines
+
+---
+
+### 13. Linear Transformations
+
+การแปลงเชิงเส้น
+
+**Unity applications**
+
+* Transform hierarchy
+* Coordinate space conversion
+* Bone transformations
+* Physics coordinate conversions
+* Shader-space transforms
+
+---
+
+### 14. Spectral Decomposition
+
+การแยกเชิงสเปกตรัม
+
+**Unity applications**
+
+* Graph-based AI analysis
+* NavMesh analysis tools
+* Procedural map clustering
+* Influence map optimization
+* Research-level AI tools
+
+---
+
+### 15. Numerical Linear Algebra
+
+พีชคณิตเชิงเส้นเชิงตัวเลข
+
+**Unity applications**
+
+* Floating-point stability
+* Large-world coordinate systems
+* Physics timestep tuning
+* Multiplayer determinism
+* High-iteration simulations
+
+---
+
+## C. Thesis-Level Applications (Unity)
+
+* Computer vision inside Unity (PCA, SVD)
+* Physics engine extensions
+* AI behavior analysis tools
+* Control-system-driven characters
+* Procedural animation research
+
+---
+
+# 2. PROBABILITY & STATISTICS → UNITY
+
+---
+
+## A. Bachelor-Level Core Topics
+
+### 1. Sample Space & Events
+
+ปริภูมิตัวอย่างและเหตุการณ์
+
+**Unity applications**
+
+* Gacha systems
+* Loot tables
+* Procedural generation events
+* RNG-driven combat outcomes
+
+---
+
+### 2. Basic Probability Rules
+
+กฎความน่าจะเป็น
+
+**Unity applications**
+
+* Drop rate balancing
+* Risk/reward mechanics
+* Combat chance calculations
+* Failure probability modeling
+
+---
+
+### 3. Conditional Probability
+
+ความน่าจะเป็นแบบมีเงื่อนไข
+
+**Unity applications**
+
+* AI decision making
+* Adaptive difficulty
+* Pity systems in gacha
+* Context-sensitive behaviors
+
+---
+
+### 4. Random Variables
+
+ตัวแปรสุ่ม
+
+**Unity applications**
+
+* Damage variance
+* Weapon spread
+* Enemy spawn timing
+* Animation variation
+
+---
+
+### 5. Probability Distributions
+
+การแจกแจงความน่าจะเป็น
+
+**Unity applications**
+
+* Loot rarity curves
+* Enemy stat distributions
+* Procedural terrain features
+* Reward pacing
+
+---
+
+### 6. Expectation & Variance
+
+ค่าคาดหมายและความแปรปรวน
+
+**Unity applications**
+
+* Economy balancing
+* Gacha expected cost
+* Player progression pacing
+* Difficulty tuning
+
+---
+
+## B. Master Entrance / Graduate-Level Topics
+
+### 7. Bayes’ Theorem
+
+ทฤษฎีบทของเบย์
+
+**Unity applications**
+
+* AI belief updates
+* Player modeling
+* Threat estimation
+* Fog-of-war reasoning
+
+---
+
+### 8. Binomial / Poisson / Normal
+
+การแจกแจงไบนอมีอัล ปัวซอง ปกติ
+
+**Unity applications**
+
+* Spawn rate modeling
+* Crowd simulation
+* Combat hit rates
+* Network event timing
+
+---
+
+### 9. Joint & Marginal Distributions
+
+การแจกแจงร่วมและชายขอบ
+
+**Unity applications**
+
+* Multi-banner gacha
+* Combined drop systems
+* Multi-attribute enemy stats
+* Procedural content correlation
+
+---
+
+### 10. Markov Chains
+
+โซ่มาร์คอฟ
+
+**Unity applications**
+
+* AI state machines
+* Dialogue systems
+* Animation transitions
+* Gacha pity tracking
+
+---
+
+### 11. Law of Large Numbers
+
+กฎจำนวนมาก
+
+**Unity applications**
+
+* Monte Carlo simulations
+* Balance testing
+* Long-term economy validation
+* RNG fairness testing
+
+---
+
+### 12. Central Limit Theorem
+
+ทฤษฎีบทขีดจำกัดกลาง
+
+**Unity applications**
+
+* Performance averaging
+* Player behavior aggregation
+* Economy outcome modeling
+* Load testing
+
+---
+
+### 13. Random Processes
+
+กระบวนการสุ่ม
+
+**Unity applications**
+
+* Noise-based animation
+* Camera shake
+* Weather systems
+* Time-series behaviors
+
+---
+
+## C. Thesis-Level Applications (Unity)
+
+* AI uncertainty modeling
+* Gacha system analysis
+* Stochastic simulations
+* Procedural generation research
+* Player behavior modeling
+
+---
+
+# 3. COMPUTER ALGORITHMS → UNITY
+
+---
+
+## A. Bachelor-Level Core Topics
+
+### 1. Algorithm Complexity (Big-O)
+
+ความซับซ้อนเชิงเวลาและพื้นที่
+
+**Unity applications**
+
+* Update-loop optimization
+* AI scaling
+* Physics cost management
+* Rendering optimization
+
+---
+
+### 2. Sorting Algorithms
+
+อัลกอริทึมการเรียงลำดับ
+
+**Unity applications**
+
+* Target prioritization
+* Rendering queues
+* UI lists
+* ECS chunk ordering
+
+---
+
+### 3. Searching Algorithms
+
+การค้นหา
+
+**Unity applications**
+
+* Enemy targeting
+* Item lookup
+* Spatial queries
+* State searches
+
+---
+
+### 4. Recursion & Divide-and-Conquer
+
+การเรียกซ้ำและแบ่งแยก
+
+**Unity applications**
+
+* BSP trees
+* Quadtrees / Octrees
+* Procedural generation
+* Scene partitioning
+
+---
+
+### 5. Greedy Algorithms
+
+อัลกอริทึมเชิงละโมบ
+
+**Unity applications**
+
+* AI action selection
+* Resource allocation
+* Tactical decisions
+* Scheduling behaviors
+
+---
+
+### 6. Dynamic Programming
+
+การเขียนโปรแกรมแบบไดนามิก
+
+**Unity applications**
+
+* Pathfinding
+* Decision planning
+* AI optimization
+* Skill-tree evaluation
+
+---
+
+## B. Master Entrance / Graduate-Level Topics
+
+### 7. Graph Algorithms
+
+อัลกอริทึมบนกราฟ
+
+**Unity applications**
+
+* NavMesh traversal
+* Dialogue graphs
+* AI behavior graphs
+* Skill trees
+
+---
+
+### 8. Shortest Path Algorithms
+
+เส้นทางสั้นที่สุด
+
+**Unity applications**
+
+* A* navigation
+* Tactical movement
+* RTS unit routing
+* Obstacle avoidance
+
+---
+
+### 9. NP-Completeness
+
+ปัญหา NP-สมบูรณ์
+
+**Unity applications**
+
+* Understanding design limits
+* Avoiding brute-force AI
+* Procedural generation constraints
+* Scheduling complexity awareness
+
+---
+
+### 10. Approximation Algorithms
+
+อัลกอริทึมประมาณ
+
+**Unity applications**
+
+* Crowd AI
+* Swarm behavior
+* Large-scale simulations
+* Heuristic planning
+
+---
+
+### 11. Randomized Algorithms
+
+อัลกอริทึมสุ่ม
+
+**Unity applications**
+
+* AI unpredictability
+* Procedural content
+* Load balancing
+* Hash-based systems
+
+---
+
+### 12. Parallel Algorithms
+
+อัลกอริทึมขนาน
+
+**Unity applications**
+
+* Job System
+* Burst Compiler
+* ECS systems
+* GPU compute shaders
+
+---
+
+## C. Thesis-Level Applications (Unity)
+
+* Massive AI systems
+* Distributed simulations
+* Real-time optimization
+* Procedural world generation
+* Performance-critical engines
+
+---
+
+# 4. COMPUTER ARCHITECTURE → UNITY
+
+---
+
+## A. Bachelor-Level Core Topics
+
+### 1. Digital Logic & Gates
+
+ตรรกะดิจิทัล
+
+**Unity applications**
+
+* Bitmasking systems
+* Layer masks
+* Collision filtering
+* State flags
+
+---
+
+### 2. CPU Organization
+
+โครงสร้างหน่วยประมวลผล
+
+**Unity applications**
+
+* Instruction cost awareness
+* Branch-heavy logic avoidance
+* AI update budgeting
+* Burst optimization
+
+---
+
+### 3. Memory Hierarchy
+
+ลำดับชั้นหน่วยความจำ
+
+**Unity applications**
+
+* Cache-friendly data layouts
+* ECS chunk design
+* GC avoidance
+* Pooling systems
+
+---
+
+### 4. Instruction Set Architecture (ISA)
+
+ชุดคำสั่ง
+
+**Unity applications**
+
+* SIMD awareness
+* Burst vectorization
+* Low-level optimization
+* Platform-specific tuning
+
+---
+
+### 5. Pipelining
+
+การทำงานแบบท่อ
+
+**Unity applications**
+
+* Frame pipeline design
+* Rendering pipelines
+* Task scheduling
+* Animation evaluation order
+
+---
+
+## B. Master Entrance / Graduate-Level Topics
+
+### 6. Out-of-Order Execution
+
+การประมวลผลนอกลำดับ
+
+**Unity applications**
+
+* Branch reduction
+* Predictable loops
+* Burst-friendly code
+* Performance profiling
+
+---
+
+### 7. Cache Coherence
+
+ความสอดคล้องของแคช
+
+**Unity applications**
+
+* Multithreaded AI
+* Job System correctness
+* Data race avoidance
+* ECS synchronization
+
+---
+
+### 8. Virtual Memory
+
+หน่วยความจำเสมือน
+
+**Unity applications**
+
+* Asset streaming
+* Memory budgeting
+* Open-world design
+* Platform constraints
+
+---
+
+### 9. Parallel Architectures
+
+สถาปัตยกรรมขนาน
+
+**Unity applications**
+
+* Multicore AI
+* Physics jobs
+* Audio processing
+* ECS scaling
+
+---
+
+### 10. GPU / Accelerator Architectures
+
+สถาปัตยกรรมตัวเร่ง
+
+**Unity applications**
+
+* Shaders
+* Compute shaders
+* VFX Graph
+* GPU instancing
+
+---
+
+## C. Thesis-Level Applications (Unity)
+
+* Custom rendering pipelines
+* Physics engine extensions
+* AI acceleration
+* GPU-based simulations
+* Performance research
+
+---
+
+### Final blunt line
+
+If a Unity system breaks and you **cannot name which topic above failed**, you do not understand the system.
+
+If you want next:
+
+* **Week-by-week Unity study plan**
+* **Unity-only thesis topic proposals**
+* **Unity-based entrance-exam drills**
+
+State exactly one.
 
 
-16. N = 5+3+2 = 10
-red prob = 5/10 = 0.5
-non red prob = 1-0.5 = 0.5 = 50% chance
 
-17. dices
-2+6
-3+5
-4+4
-3+5
-6+2
-N=5   2 outcomes out of 5
-2/5=0.4=40% chance
-XXX WRONG XXX
-N=6x6 = 36 outcomes
-8 occurs in 5 outcomes (from previous wrong ones)
-chance = 5/36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Below is a **complete, structured, non-handwavy syllabus-style breakdown** of the four subjects you asked for, split by:
+
+* **Bachelor-level foundation**
+* **Master’s entrance–exam / graduate-readiness level**
+* **Real, concrete thesis-level applications**
+
+Each topic is listed **English → Thai**, with **explicit real-use mapping**.
+No reassurance. No fluff.
+
+---
+
+# 1. LINEAR ALGEBRA (พีชคณิตเชิงเส้น)
+
+## A. Bachelor-Level Core Topics
+
+1. **Vectors and Vector Spaces**
+   เวกเตอร์และปริภูมิเวกเตอร์
+   → feature vectors, state representation, signal representation
+
+2. **Matrix Operations**
+   การบวก คูณ และทรานสโพสเมทริกซ์
+   → image data processing, graph adjacency matrices
+
+3. **Systems of Linear Equations**
+   ระบบสมการเชิงเส้น
+   → circuit analysis, constraint solving
+
+4. **Gaussian Elimination**
+   การกำจัดแบบเกาส์
+   → numerical solvers, compiler optimization constraints
+
+5. **Determinants**
+   ดีเทอร์มิแนนต์
+   → invertibility, stability analysis
+
+6. **Rank and Null Space**
+   อันดับและนัลสเปซ
+   → redundancy detection, compression
+
+7. **Linear Independence / Dependence**
+   ความเป็นอิสระเชิงเส้น
+   → basis selection, feature pruning
+
+8. **Eigenvalues and Eigenvectors**
+   ค่าและเวกเตอร์เฉพาะ
+   → vibration modes, PCA, PageRank
+
+---
+
+## B. Master Entrance / Graduate-Level Topics
+
+9. **Diagonalization & Jordan Form**
+   การทำให้เป็นเมทริกซ์ทแยง / ฟอร์มจอร์แดน
+   → system dynamics, stability proof
+
+10. **Orthogonality & Inner Product Spaces**
+    ปริภูมิผลคูณเชิงใน
+    → projections, least-squares, signal denoising
+
+11. **Least Squares Approximation**
+    วิธีประมาณแบบกำลังสองน้อยที่สุด
+    → regression, sensor fusion
+
+12. **Singular Value Decomposition (SVD)**
+    การแยกค่าเอกฐาน
+    → image compression, recommender systems
+
+13. **Linear Transformations**
+    การแปลงเชิงเส้น
+    → graphics pipelines, coordinate transforms
+
+14. **Spectral Decomposition**
+    การแยกเชิงสเปกตรัม
+    → graph clustering, network analysis
+
+15. **Numerical Linear Algebra**
+    พีชคณิตเชิงเส้นเชิงตัวเลข
+    → large-scale ML, GPU computing
+
+---
+
+## C. Thesis-Level Applications
+
+* Computer Vision (PCA, SVD)
+* Machine Learning optimization
+* Control systems
+* Graph-based network analysis
+* Scientific computing
+
+---
+
+# 2. PROBABILITY & STATISTICS (ความน่าจะเป็นและสถิติ)
+
+## A. Bachelor-Level Core Topics
+
+1. **Sample Space & Events**
+   ปริภูมิตัวอย่างและเหตุการณ์
+   → system failure modeling
+
+2. **Basic Probability Rules**
+   กฎความน่าจะเป็น
+   → risk estimation
+
+3. **Conditional Probability**
+   ความน่าจะเป็นแบบมีเงื่อนไข
+   → Bayesian reasoning
+
+4. **Random Variables (Discrete / Continuous)**
+   ตัวแปรสุ่ม
+   → noise modeling
+
+5. **Probability Distributions**
+   การแจกแจงความน่าจะเป็น
+   → performance modeling
+
+6. **Expectation & Variance**
+   ค่าคาดหมายและความแปรปรวน
+   → latency analysis
+
+---
+
+## B. Master Entrance / Graduate-Level Topics
+
+7. **Bayes’ Theorem**
+   ทฤษฎีบทของเบย์
+   → inference, diagnosis systems
+
+8. **Binomial / Poisson / Normal Distributions**
+   การแจกแจงไบนอมีอัล ปัวซอง ปกติ
+   → traffic modeling, queues
+
+9. **Joint & Marginal Distributions**
+   การแจกแจงร่วมและชายขอบ
+   → multivariate modeling
+
+10. **Markov Chains**
+    โซ่มาร์คอฟ
+    → network protocols, caching
+
+11. **Law of Large Numbers**
+    กฎจำนวนมาก
+    → simulation reliability
+
+12. **Central Limit Theorem**
+    ทฤษฎีบทขีดจำกัดกลาง
+    → performance estimation
+
+13. **Random Processes**
+    กระบวนการสุ่ม
+    → signals, time-series
+
+---
+
+## C. Thesis-Level Applications
+
+* Machine learning uncertainty
+* Network reliability
+* AI decision systems
+* Stochastic optimization
+* Simulation and modeling
+
+---
+
+# 3. COMPUTER ALGORITHMS (อัลกอริทึมคอมพิวเตอร์)
+
+## A. Bachelor-Level Core Topics
+
+1. **Algorithm Complexity (Big-O)**
+   ความซับซ้อนเชิงเวลาและพื้นที่
+   → performance guarantees
+
+2. **Sorting Algorithms**
+   อัลกอริทึมการเรียงลำดับ
+   → databases, OS scheduling
+
+3. **Searching Algorithms**
+   การค้นหา
+   → indexing, retrieval
+
+4. **Recursion & Divide-and-Conquer**
+   การเรียกซ้ำและแบ่งแยก
+   → FFT, quicksort
+
+5. **Greedy Algorithms**
+   อัลกอริทึมเชิงละโมบ
+   → resource allocation
+
+6. **Dynamic Programming**
+   การเขียนโปรแกรมแบบไดนามิก
+   → optimization problems
+
+---
+
+## B. Master Entrance / Graduate-Level Topics
+
+7. **Graph Algorithms**
+   อัลกอริทึมบนกราฟ
+   → routing, social networks
+
+8. **Shortest Path Algorithms**
+   เส้นทางสั้นที่สุด
+   → network optimization
+
+9. **NP-Completeness**
+   ปัญหา NP-สมบูรณ์
+   → feasibility limits
+
+10. **Approximation Algorithms**
+    อัลกอริทึมประมาณ
+    → large-scale optimization
+
+11. **Randomized Algorithms**
+    อัลกอริทึมสุ่ม
+    → hashing, load balancing
+
+12. **Parallel Algorithms**
+    อัลกอริทึมขนาน
+    → multicore, GPU systems
+
+---
+
+## C. Thesis-Level Applications
+
+* Large-scale systems
+* Distributed computing
+* AI optimization
+* Blockchain protocols
+* Real-time systems
+
+---
+
+# 4. COMPUTER ARCHITECTURE (สถาปัตยกรรมคอมพิวเตอร์)
+
+## A. Bachelor-Level Core Topics
+
+1. **Digital Logic & Gates**
+   ตรรกะดิจิทัล
+   → hardware foundations
+
+2. **CPU Organization**
+   โครงสร้างหน่วยประมวลผล
+   → instruction execution
+
+3. **Memory Hierarchy**
+   ลำดับชั้นหน่วยความจำ
+   → cache performance
+
+4. **Instruction Set Architecture (ISA)**
+   ชุดคำสั่ง
+   → compiler design
+
+5. **Pipelining**
+   การทำงานแบบท่อ
+   → throughput improvement
+
+---
+
+## B. Master Entrance / Graduate-Level Topics
+
+6. **Out-of-Order Execution**
+   การประมวลผลนอกลำดับ
+   → performance scaling
+
+7. **Cache Coherence**
+   ความสอดคล้องของแคช
+   → multicore correctness
+
+8. **Virtual Memory**
+   หน่วยความจำเสมือน
+   → OS design
+
+9. **Parallel Architectures**
+   สถาปัตยกรรมขนาน
+   → HPC systems
+
+10. **GPU / Accelerator Architectures**
+    สถาปัตยกรรมตัวเร่ง
+    → ML workloads
+
+---
+
+## C. Thesis-Level Applications
+
+* Processor design
+* AI accelerators
+* Energy-efficient computing
+* Embedded systems
+* High-performance computing
+
+---
+
+## Final blunt note
+
+If you **cannot explain how a topic maps to a system**, you do not understand it deeply enough for a thesis.
+
+If you want next:
+
+* A **study roadmap by weeks**
+* **Entrance-exam style proof questions**
+* **Thesis topic suggestions tied to your strengths**
+* **Brutal self-assessment checklist**
+
+State exactly one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Web development is **not its own theoretical discipline**.
+It is an **integration layer** that consumes the four subjects unevenly.
+
+Below is the **exact mapping**, aligned to **exam subjects**, not job titles.
+
+---
+
+# Web Development — Exam-Subject Mapping
+
+## 1. LINEAR ALGEBRA (พีชคณิตเชิงเส้น)
+
+**Usage: minimal, but real**
+
+### Exam topics actually used
+
+* **Vectors** → feature representations (search, recommendation)
+* **Matrix operations** → layout transforms (graphics pipelines)
+* **Linear transformations** → CSS transforms, WebGL
+* **Eigen / SVD** → ranking, personalization (backend)
+
+### What is *not* used
+
+* Jordan form
+* Numerical linear algebra
+* Proof-heavy spectral theory
+
+### Verdict
+
+> Used **indirectly** via libraries, **not by hand**.
+
+---
+
+## 2. PROBABILITY & STATISTICS (ความน่าจะเป็นและสถิติ)
+
+**Used constantly, often unknowingly**
+
+### Exam topics actually used
+
+* **Conditional probability** → A/B testing
+* **Expectation / variance** → latency, error rates
+* **Distributions** → traffic modeling
+* **Markov chains** → user behavior flows
+* **Law of large numbers** → analytics reliability
+
+### Concrete examples
+
+* Conversion funnel analysis
+* Feature flag rollout risk
+* Cache hit rate prediction
+
+### Verdict
+
+> Web dev without stats is **cargo-cult engineering**.
+
+---
+
+## 3. COMPUTER ALGORITHMS (อัลกอริทึมคอมพิวเตอร์)
+
+**Primary theoretical backbone**
+
+### Exam topics actually used
+
+* **Big-O** → page load performance
+* **Searching / sorting** → APIs, databases
+* **Graph algorithms** → dependency graphs, routing
+* **Greedy algorithms** → caching, batching
+* **Dynamic programming** → query optimization
+
+### Concrete examples
+
+* N+1 query problem
+* Index selection
+* Rate limiting logic
+
+### Verdict
+
+> This is the **only subject web dev uses explicitly every day**.
+
+---
+
+## 4. COMPUTER ARCHITECTURE (สถาปัตยกรรมคอมพิวเตอร์)
+
+**Used implicitly; ignored at your peril**
+
+### Exam topics actually used
+
+* **Memory hierarchy** → caching (Redis vs RAM)
+* **Concurrency** → async servers
+* **CPU organization** → performance tuning
+* **Parallelism** → request handling
+
+### Concrete examples
+
+* Blocking vs non-blocking I/O
+* Cache stampedes
+* Cold starts
+
+### Verdict
+
+> Most production outages are **architecture misunderstandings**.
+
+---
+
+# What web development actually adds (not in your list)
+
+These are **applied layers**, not exam subjects:
+
+* Operating Systems
+* Computer Networks
+* Databases
+* Security
+* Software Engineering
+
+They **consume** the four subjects; they do not replace them.
+
+---
+
+# Reality check (blunt)
+
+| Subject                  | Exam Importance | Web Dev Importance |
+| ------------------------ | --------------- | ------------------ |
+| Linear Algebra           | High            | Low–Indirect       |
+| Probability & Statistics | High            | Medium             |
+| Algorithms               | Very High       | Very High          |
+| Computer Architecture    | High            | Medium–High        |
+
+If someone says:
+
+> “Web dev doesn’t need theory”
+
+they are describing **CRUD-only work**, not scalable systems.
+
+---
+
+## One-sentence summary
+
+> Web development is **algorithm-heavy**, **statistics-aware**, **architecture-constrained**, and **linear-algebra-backed only when data or graphics appear**.
+
+---
+
+If you want next, pick **one**:
+
+* Map frontend vs backend separately
+* Explain why most web dev interviews fail
+* Convert exam proofs into web-system intuition
+* Show how theory gaps cause real outages
