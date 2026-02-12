@@ -37,3 +37,10 @@ Sorting game, mouse scroll to look for worms and tear holes, into bad apples
 
 
 Island 2 - the hall got more scroll skills, but requires reading >= 7
+
+Wilderness resources :
+Grassland = Sunflower
+Tundra = Snowfire fungus
+Desert = Ouchtree
+Far North = Ashroot
+Far South = Lava Grape
