@@ -25,7 +25,13 @@ Is Minesweeper game, use helper html
 Alcemist mare - brew potions using ingredients
 Answer : dissolution (if speech < 8)
 potions I discovered :
-- sunflower potion (3 sunflowers?) - temporary up speech skill
+- sunflower potion - temporary up speech skill
+- snofire potion - temporary up magic skill
+- ouchtree poison - nerf magic and speech... (DO NOT)
+- Ashroot potion - up actions/turns
+- lava grape potion - temporary up astronomy skill
+
+
 
 Hourglass mare - ???
 Answer : to help (if speech < 8)
