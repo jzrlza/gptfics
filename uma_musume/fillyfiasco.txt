@@ -29,6 +29,7 @@ potions I discovered :
 
 Hourglass mare - ???
 Answer : to help (if speech < 8)
+Required items : a faux crystal, a strange rod, a triple sunflower potion
 
 Apple Sorting (day time play, result and reward is nighttime) - gain forage and sugarcubes (extra actions/turns)
 Sorting game, mouse scroll to look for worms and tear holes, into bad apples
