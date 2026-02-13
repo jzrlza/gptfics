@@ -36,7 +36,7 @@ potions I discovered :
 
 
 
-Hourglass mare - Makes a special portal
+Hourglass mare - Makes a special portal that gives you STARDUST item
 Answer : to help (if speech < 8)
 Required items : a faux crystal, a strange rod, a triple sunflower potion
 
