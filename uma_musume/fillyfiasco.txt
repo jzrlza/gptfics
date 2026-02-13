@@ -52,3 +52,5 @@ Far North = Ashroot
 Far South = Lava Grape
 
 Shop - 75 tokens (from shooting targets) to exchange for strange fruit (up translate skill)
+
+Bonfire mare - throw random things to get...??
