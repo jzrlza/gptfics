@@ -16,6 +16,7 @@ Shooting game : requires muscle memory and reflect, awkward jumping at first
 
 Roulette mare (night only) - gamble with tokens
 Gamble game : Correct 100% = +2, 50% = +1, 0% = -1
+(most useless feature in the game, luckily)
 
 Bookshelf mare - sorting gives reading exp, sunflowers and if perfect = magic seal
 Answer : exploitable filly (if speech < 8)
