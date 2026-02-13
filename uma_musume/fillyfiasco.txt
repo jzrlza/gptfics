@@ -7,6 +7,7 @@ Password : look for telescope's clues
 (my own save = 8114, 
 as I saw red 8, white 1, and yellow 4, magenta 6, cyan 3, blue 7, green 9, orange 5, purple 2)
 Chest function : carry items over each run, upgrade using 1 stardust (useful for especially token storage)
+(starts with 1 slot, upgrade for more slots)
 (Warning: withdrawn items must be quickly deposit before day reset!!)
 
 Target Practice mare - gain magic up and tokens depends on score
