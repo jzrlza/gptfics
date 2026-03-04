@@ -1,11 +1,14 @@
 Ongoing
-
+- ONE NBTC
 
 Submitted
-- New web วย. banner
+- Graph js from stacked chart to bar chart 27 Feb 2026
+
+- New web วย. banner [Learn and Grow]
 แบบฟอร์ม การลงทะเบียนเข้าร่วมกิจกรรม Learn and Grow ของ สำนัก วย. ครับ
 Due 23 Jan 2026 for tweak
-Due 31 Jan 2026 for full submit
+Due 31 Jan 2026 for full deploy submit
+25 Feb 2026 full working functional deploy
 [Docker deployed on VM server ubuntu]
 
 - WCAG comparison excel table between 2.2 to 2.3 
