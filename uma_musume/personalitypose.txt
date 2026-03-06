@@ -7,6 +7,7 @@ Cute examples (raise both arms close to face when draw) :
 - Agnes Digital
 - Matikanefukutaru
 - Smart Falcon
+...
 
 Gentle examples (raise both arms awkwardly when draw) :
 - Silence Suzuka
@@ -14,6 +15,7 @@ Gentle examples (raise both arms awkwardly when draw) :
 - Mejiro McQueen
 - Grass Wonder
 - Rice Shower
+...
 
 Elegant examples (hands on hip when draw) :
 - Daiwa Scarlet
@@ -24,6 +26,7 @@ Elegant examples (hands on hip when draw) :
 - Air Groove
 - Symboli Rudolf
 - Mihono Bourbon
+...
 
 Tough examples (clench one fist when draw) :
 - Vodka
@@ -33,3 +36,4 @@ Tough examples (clench one fist when draw) :
 - Mejiro Ryan
 - Sakura Bakushin O
 - Taiki Shuttle
+...
