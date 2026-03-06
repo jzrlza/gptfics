@@ -1,6 +1,6 @@
 Poses Uma does when losing/draw examples
 
-Cute examples (raise both arms close to face when draw) :
+Cute examples (raise both arms close to face when draw, show knee tired bow when lose) :
 - Special Week
 - Curren Chan
 - Haru Urara
@@ -9,7 +9,7 @@ Cute examples (raise both arms close to face when draw) :
 - Smart Falcon
 ...
 
-Gentle examples (raise both arms awkwardly when draw) :
+Gentle examples (raise both arms awkwardly when draw, lower ears and one hand on chest when lose) :
 - Silence Suzuka
 - Super Creek
 - Mejiro McQueen
@@ -17,7 +17,7 @@ Gentle examples (raise both arms awkwardly when draw) :
 - Rice Shower
 ...
 
-Elegant examples (hands on hip when draw) :
+Elegant examples (hands on hip when draw, both hands on hips and lean chest forward when lose) :
 - Daiwa Scarlet
 - Mejiro Dober
 - Agnes Tachyon
@@ -28,7 +28,7 @@ Elegant examples (hands on hip when draw) :
 - Mihono Bourbon
 ...
 
-Tough examples (clench one fist when draw) :
+Tough examples (clench one fist when draw, one hand on hip and another let straight down when lose) :
 - Vodka
 - Gold Ship
 - El Condor Pasa
