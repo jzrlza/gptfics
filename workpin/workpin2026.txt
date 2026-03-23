@@ -1,19 +1,20 @@
-Ongoing
-- ONE NBTC
-
-Submitted
-- Graph js from stacked chart to bar chart 27 Feb 2026
-
-- New web วย. banner [Learn and Grow]
-แบบฟอร์ม การลงทะเบียนเข้าร่วมกิจกรรม Learn and Grow ของ สำนัก วย. ครับ
-Due 23 Jan 2026 for tweak
-Due 31 Jan 2026 for full deploy submit
-25 Feb 2026 full working functional deploy
-[Docker deployed on VM server ubuntu]
-
-- WCAG comparison excel table between 2.2 to 2.3 
-[submit via LINE]
-Expected to finish 7 Jan 2026
-{done (do not delete, needed for work record****)}
+Extra care needed while working, do not just finish in end justifies the means, kill the old anti-heroic habit.
 
 
+works done
+
+- WCAG comparison 2.2 and 2.3 for disability commodation of web design Jan 2026
+
+- nbtc learn and grow register website (developed web and deploy on server) Jan 2026
+
+- Adjust render.js graph file from unwanted stacked graph display into a needed grouped bar chart display. 27 Feb 2026
+
+- onenbtc register website (deploy dev web) March 2026
+
+Learnings done
+
+- ISO lecture 20 to 24 Feb 2026
+
+- เปิดเผยข้อมูลอย่างไรให้สอดคล้องกับ PDPA สำหรับเจ้าหน้าที่ กสทช. 6 Mar 2026
+
+- Cybersecurity for Workforce Development 23 Mar 2026
