@@ -25,9 +25,18 @@ Fluttershy = Rice Shower + Meisho Doto
 her stats => [Turf=A, Dirt=F, Sprint=E, Mile=C, Medium=A, Long=A, Front=B, Pace=A, Late=A, End=C]
 Pinkie Pie = Haru Urara + Gold Ship
 her stats => [Turf=C, Dirt=A, Sprint=A, Mile=B, Medium=C, Long=C, Front=G, Pace=G, Late=B, End=A]
-Rarity = Mejiro Mcqueen + Gold City
-her stats => [Turf=A, Dirt=G, Sprint=D, Mile=B, Medium=A, Long=B, Front=F, Pace=A, Late=A, End=G]
+Rarity = Mejiro Mcqueen + Satono Diamond
+her stats => [Turf=A, Dirt=G, Sprint=D, Mile=D, Medium=A, Long=A, Front=F, Pace=A, Late=A, End=G]
 Rainbow Dash = Vodka + Tamamo Cross
 her stats => [Turf=A, Dirt=D, Sprint=F, Mile=A, Medium=A, Long=B, Front=G, Pace=B, Late=A, End=C]
 Applejack = Taiki Shuttle + TM Opera O (voice actor jp same)
 her stats => [Turf=A, Dirt=B, Sprint=B, Mile=A, Medium=B, Long=C, Front=C, Pace=A, Late=A, End=F]
+
+
+based on google images when typed their mlp name into uma musume
+Twilight Sparkle = Special Week + Agnes Tachyon
+Fluttershy = Rice Shower + Meisho Doto
+Pinkie Pie = Haru Urara + Gold Ship
+Rarity = Mejiro Mcqueen + Satono Diamond
+Rainbow Dash = Vodka + Tamamo Cross
+Applejack = Taiki Shuttle + TM Opera O
