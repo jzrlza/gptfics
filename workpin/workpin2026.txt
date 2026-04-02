@@ -11,6 +11,9 @@ works done
 
 - onenbtc register website (deploy dev web) March 2026
 
+- PHP lms export to excel with rowspan and colspan human readability
+late Mar to early Apr 2026
+
 Learnings done
 
 - ISO lecture 20 to 24 Feb 2026
