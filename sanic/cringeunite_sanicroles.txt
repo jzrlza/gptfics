@@ -67,3 +67,29 @@ In UNITE, a high-mobility Speedster's worst nightmare is heavy crowd control. If
 This also opens up some other amazing lane dynamics based on your roles. If you want to explore more match-ups, tell me:
 Do you want to see how Knuckles (All-Rounder) and Sonic (Speedster) would fight over the Central Area farm?
 Should we look at how Cream (Supporter) babysits her lane partner to protect them from Shadow's lethal dives?
+
+
+
+
+
+Here are the playable roles for the new characters
+
+Defender
+- Omega: The ultimate heavy artillery tank. He utilizes massive physical plating and integrated shields to absorb damage on the front lines while suppressing enemies with relentless, heavy gunfire.
+- Storm the Albatross: A massive, aggressive frontline bully. He uses sheer muscle and heavy gusts of wind from his wings to physically shove enemies around, disrupt their formations, and peel for his team.
+
+All-Rounder
+- Vector the Crocodile: A loud, high-endurance brawler. He thrives in sustained team fights, using jaw-chomping physical strikes and sonic soundwaves from his headphones to disorient targets while shrugging off damage.
+- Tangle the Lemur: A highly physical, elastic fighter. She uses her incredibly versatile tail like a bungee cord to sling herself around the battlefield, diving into the middle of fights with high-momentum physical strikes.
+
+Speedster
+- Espio the Chameleon: A lethal stealth assassin. He utilizes camouflage to turn completely invisible, sneaking past frontline defenders to eliminate high-value targets with swift, critical ninja strikes before vanishing.
+- Jet the Hawk: A high-speed aerial skirmisher. Riding his Extreme Gear, he relies on unmatched forward momentum and gale-force wind tunnels to slice through enemy groups and quickly escape.
+
+Attacker
+- Whisper the Wolf: A hyper-focused, long-range sniper. She stays deep in the backline, utilizing her Variable Wispon to swap between different firing modes to deliver devastating, high-precision single-target damage.
+- Wave the Swallow: A tactical, zone-control mechanical genius. She fields high-tech plasma traps and automated gadgets to completely lock down zones, melting down any enemies that step into her perimeter.
+
+Supporter
+- Charmy Bee: A hyperactive, highly disruptive utility support. He flies around poking enemies to distract them, while using special pollen drops to heal his teammates and grant them sudden bursts of speed.
+- Tikal: A protective, spirit-based enchanter. She calls upon ancestral energy and the pacifying power of the Chao to cleanse negative status effects from her allies, grant invulnerability frames, and shield them from harm.
