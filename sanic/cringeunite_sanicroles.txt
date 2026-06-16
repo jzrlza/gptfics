@@ -2,20 +2,30 @@ Here is a breakdown of how the Sonic cast perfectly fits the five core playstyle
 
 Speedster
 Sonic: High mobility and burst damage. He is the quintessential jungler who clears camps fast, rotates to lanes in a flash, and dives in to secure knockouts.
+(game would recommend central area)
 Shadow: The darker, edgier counterpart. He functions as an assassin Speedster with teleportation, chaos control, and heavy burst damage to pick off squishy back-liners.
+(game would recommend central area)
 
 Attacker
 Tails: A pure, ranged mage. He excels at dealing high, consistent damage from a distance. He uses his gadgets for area-of-effect (AoE) pokes while keeping a safe distance behind frontline allies.
+(game would recommend top lane)
 Silver: A ranged control Mage. He relies on psychic abilities to deal heavy damage, trap opponents in the air, and slow down enemy pursuits from afar.
+(game would recommend bottom lane)
 
 All-Rounder
 Knuckles: An aggressive, melee-focused bruiser. He hits hard and has good defensive stats to survive sustained brawls. He is built for dominating mid-game team fights and capturing objectives like Rayquaza or the Regis.
+(game would recommend bottom lane)
 Blaze: A balanced, melee/ranged hybrid All-Rounder. She uses swift dashes and pyrokinetic bursts to fight on the front lines while remaining surprisingly agile.
+(game would recommend central area)
 
 Defender
 Amy: Surprisingly, she fits the bulky frontline role. Swinging her Piko Piko Hammer, she can stun opponents, soak up massive amounts of damage, and peel for her fragile Attackers.
+(game would recommend top lane)
 Big the Cat: A high-endurance tank. He relies on his heavy frame and fishing rod to pull enemies out of position, block chokepoints, and act as a human shield for his team.
+(game would recommend bottom lane)
 
 Supporter
 Cream: A classic, utility-focused Enchanter. Accompanied by her Chao, she heals allies, grants movement speed buffs, and provides shielding to keep her carries alive.
+(game would recommend top lane)
 Rouge: A sneaky, disruptive Support. Rather than straightforward healing, she excels in debuffing enemies, scouting areas, and stealing farm using her stealth and spy skills.
+(game would recommend bottom lane)
