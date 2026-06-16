@@ -1,31 +1,41 @@
 Here is a breakdown of how the Sonic cast perfectly fits the five core playstyles of Pokémon UNITE:
 
 Speedster
-Sonic: High mobility and burst damage. He is the quintessential jungler who clears camps fast, rotates to lanes in a flash, and dives in to secure knockouts.
+- Sonic: High mobility and burst damage. He is the quintessential jungler who clears camps fast, rotates to lanes in a flash, and dives in to secure knockouts.
 (game would recommend central area) [Drill Peck Dodrio + Surf Greninja]
-Shadow: The darker, edgier counterpart. He functions as an assassin Speedster with teleportation, chaos control, and heavy burst damage to pick off squishy back-liners.
+The ultimate momentum build. Drill Peck mirrors Sonic's iconic spin dash to pierce through multiple targets, while Surf gives him that high-speed reset potential to clean up team fights instantly.
+- Shadow: The darker, edgier counterpart. He functions as an assassin Speedster with teleportation, chaos control, and heavy burst damage to pick off squishy back-liners.
 (game would recommend central area) [Fient Attack Zoroark + Teleport Mewtwo (any X and Y)]
+Pure high-skill assassin. Feint Attack captures his teleporting, illusion-like dash combos, combined with the raw, oppressive teleportation mechanics of Mewtwo to execute flawless dive-and-escape plays.
 
 Attacker
-Tails: A pure, ranged mage. He excels at dealing high, consistent damage from a distance. He uses his gadgets for area-of-effect (AoE) pokes while keeping a safe distance behind frontline allies.
+- Tails: A pure, ranged mage. He excels at dealing high, consistent damage from a distance. He uses his gadgets for area-of-effect (AoE) pokes while keeping a safe distance behind frontline allies.
 (game would recommend top lane) [Armor Cannon Armarouge + Dragon Pulse Latias]
-Silver: A ranged control Mage. He relies on psychic abilities to deal heavy damage, trap opponents in the air, and slow down enemy pursuits from afar.
+The ultimate high-tech artillery build. Armor Cannon acts as a massive gadget blast from a distance, while Dragon Pulse captures his tactical, homing energy strikes from the air.
+- Silver: A ranged control Mage. He relies on psychic abilities to deal heavy damage, trap opponents in the air, and slow down enemy pursuits from afar.
 (game would recommend bottom lane) [Psychic Gardevoir + Barrier Mr.Mime]
+The ultimate telekinetic lockdown kit. Trapping enemies in the air with Psychic and instantly dropping a Barrier ensures enemies are completely helpless and isolated.
 
 All-Rounder
-Knuckles: An aggressive, melee-focused bruiser. He hits hard and has good defensive stats to survive sustained brawls. He is built for dominating mid-game team fights and capturing objectives like Rayquaza or the Regis.
+- Knuckles: An aggressive, melee-focused bruiser. He hits hard and has good defensive stats to survive sustained brawls. He is built for dominating mid-game team fights and capturing objectives like Rayquaza or the Regis.
 (game would recommend bottom lane) [Smack Down Buzzwole + X-Scissor Crustle]
-Blaze: A balanced, melee/ranged hybrid All-Rounder. She uses swift dashes and pyrokinetic bursts to fight on the front lines while remaining surprisingly agile.
+A terrifying physical brawler. Slamming enemies down with Smack Down and then immediately trapping them in a flurry of punches with X-Scissor gives him unparalleled crowd control for a bruiser.
+- Blaze: A balanced, melee/ranged hybrid All-Rounder. She uses swift dashes and pyrokinetic bursts to fight on the front lines while remaining surprisingly agile.
 (game would recommend central area) [(mostly) Fire Punch Blaziken + Discharge Zeraora]
+High-action combo fighter. Fire Punch delivers her fiery physical martial arts, while Discharge provides the rapid, swirling, continuous AoE fire damage surrounding her body.
 
 Defender
-Amy: Surprisingly, she fits the bulky frontline role. Swinging her Piko Piko Hammer, she can stun opponents, soak up massive amounts of damage, and peel for her fragile Attackers.
+- Amy: Surprisingly, she fits the bulky frontline role. Swinging her Piko Piko Hammer, she can stun opponents, soak up massive amounts of damage, and peel for her fragile Attackers.
 (game would recommend top lane) [Wood Hammer Trevenant + Gigaton Hammer Tinkaton]
-Big the Cat: A high-endurance tank. He relies on his heavy frame and fishing rod to pull enemies out of position, block chokepoints, and act as a human shield for his team.
+The ultimate hammer-swinging toolkit. Combining the heavy, disruptive stuns of Wood Hammer with the massive impact of Gigaton Hammer makes her an absolute crowd-control nightmare on the front lines.
+- Big the Cat: A high-endurance tank. He relies on his heavy frame and fishing rod to pull enemies out of position, block chokepoints, and act as a human shield for his team.
 (game would recommend bottom lane) [Heavy Slam Snorlax + Anchor Shot Dhelmise]
+Perfect displacement tank. Body-slamming opponents using Heavy Slam and then physically reeling them in with Anchor Shot ensures no enemy can easily escape his zone.
 
 Supporter
-Cream: A classic, utility-focused Enchanter. Accompanied by her Chao, she heals allies, grants movement speed buffs, and provides shielding to keep her carries alive.
+- Cream: A classic, utility-focused Enchanter. Accompanied by her Chao, she heals allies, grants movement speed buffs, and provides shielding to keep her carries alive.
 (game would recommend top lane) [Recover Alcremie + (mostly) Coaching Mew]
-Rouge: A sneaky, disruptive Support. Rather than straightforward healing, she excels in debuffing enemies, scouting areas, and stealing farm using her stealth and spy skills.
+The premier back-line utility. Recover keeps her and Cheese sustained, while Coaching lets her rapidly dash to allies to boost their stats and keep them shielded in real-time.
+- Rouge: A sneaky, disruptive Support. Rather than straightforward healing, she excels in debuffing enemies, scouting areas, and stealing farm using her stealth and spy skills.
 (game would recommend bottom lane) [Knock-Off Sableye + Shadow Sneak Mimikyu]
+A truly chaotic disruptor. Stealthing around and stealing enemy focus with Knock Off combines beautifully with the sudden shadow-strike targeting of Shadow Sneak to terrify lonely Attackers.
