@@ -7,6 +7,10 @@ The ultimate momentum build. Drill Peck mirrors Sonic's iconic spin dash to pier
 - Shadow: The darker, edgier counterpart. He functions as an assassin Speedster with teleportation, chaos control, and heavy burst damage to pick off squishy back-liners.
 (game would recommend central area) [Fient Attack Zoroark + Teleport Mewtwo (any X and Y)]
 Pure high-skill assassin. Feint Attack captures his teleporting, illusion-like dash combos, combined with the raw, oppressive teleportation mechanics of Mewtwo to execute flawless dive-and-escape plays.
+- Espio the Chameleon: A lethal stealth assassin. He utilizes camouflage to turn completely invisible, sneaking past frontline defenders to eliminate high-value targets with swift, critical ninja strikes before vanishing.
+(game would recommend central area) [Pursuit Absol + Phantom Force Dragapult]
+- Jet the Hawk: A high-speed aerial skirmisher. Riding his Extreme Gear, he relies on unmatched forward momentum and gale-force wind tunnels to slice through enemy groups and quickly escape.
+(game would recommend central area) [Brave Bird Talonflame + Flare Blitz Charizard]
 
 Attacker
 - Tails: A pure, ranged mage. He excels at dealing high, consistent damage from a distance. He uses his gadgets for area-of-effect (AoE) pokes while keeping a safe distance behind frontline allies.
@@ -15,6 +19,10 @@ The ultimate high-tech artillery build. Armor Cannon acts as a massive gadget bl
 - Silver: A ranged control Mage. He relies on psychic abilities to deal heavy damage, trap opponents in the air, and slow down enemy pursuits from afar.
 (game would recommend bottom lane) [Psychic Gardevoir + Barrier Mr.Mime]
 The ultimate telekinetic lockdown kit. Trapping enemies in the air with Psychic and instantly dropping a Barrier ensures enemies are completely helpless and isolated.
+- Whisper the Wolf: A hyper-focused, long-range sniper. She stays deep in the backline, utilizing her Variable Wispon to swap between different firing modes to deliver devastating, high-precision single-target damage.
+(game would recommend bottom lane) [Snipe Shot Inteleon + Icy Wind Suicune]
+- Wave the Swallow: A tactical, zone-control mechanical genius. She fields high-tech plasma traps and automated gadgets to completely lock down zones, melting down any enemies that step into her perimeter.
+(game would recommend top lane) [Electro Ball Alolan Raichu + Flower Trick Meowscarada]
 
 All-Rounder
 - Knuckles: An aggressive, melee-focused bruiser. He hits hard and has good defensive stats to survive sustained brawls. He is built for dominating mid-game team fights and capturing objectives like Rayquaza or the Regis.
@@ -23,6 +31,10 @@ A terrifying physical brawler. Slamming enemies down with Smack Down and then im
 - Blaze: A balanced, melee/ranged hybrid All-Rounder. She uses swift dashes and pyrokinetic bursts to fight on the front lines while remaining surprisingly agile.
 (game would recommend central area) [(mostly) Fire Punch Blaziken + Discharge Zeraora]
 High-action combo fighter. Fire Punch delivers her fiery physical martial arts, while Discharge provides the rapid, swirling, continuous AoE fire damage surrounding her body.
+- Vector the Crocodile: A loud, high-endurance brawler. He thrives in sustained team fights, using jaw-chomping physical strikes and sonic soundwaves from his headphones to disorient targets while shrugging off damage.
+(game would recommend top lane) [Crunch Feraligatr + Snarl Umbreon]
+- Tangle the Lemur: A highly physical, elastic fighter. She uses her incredibly versatile tail like a bungee cord to sling herself around the battlefield, diving into the middle of fights with high-momentum physical strikes.
+(game would recommend central area) [Aqua Tail Azumarill + Rollout Wigglytuff]
 
 Defender
 - Amy: Surprisingly, she fits the bulky frontline role. Swinging her Piko Piko Hammer, she can stun opponents, soak up massive amounts of damage, and peel for her fragile Attackers.
@@ -31,6 +43,10 @@ The ultimate hammer-swinging toolkit. Combining the heavy, disruptive stuns of W
 - Big the Cat: A high-endurance tank. He relies on his heavy frame and fishing rod to pull enemies out of position, block chokepoints, and act as a human shield for his team.
 (game would recommend bottom lane) [Heavy Slam Snorlax + Anchor Shot Dhelmise]
 Perfect displacement tank. Body-slamming opponents using Heavy Slam and then physically reeling them in with Anchor Shot ensures no enemy can easily escape his zone.
+- Omega: The ultimate heavy artillery tank. He utilizes massive physical plating and integrated shields to absorb damage on the front lines while suppressing enemies with relentless, heavy gunfire.
+(game would recommend top lane) [Flamethrower Ho-Oh + Gyro Ball Metagross]
+- Storm the Albatross: A massive, aggressive frontline bully. He uses sheer muscle and heavy gusts of wind from his wings to physically shove enemies around, disrupt their formations, and peel for his team.
+(game would recommend bottom lane) [Hydro Pump Blastoise + Power-Up Punch Lucario]
 
 Supporter
 - Cream: A classic, utility-focused Enchanter. Accompanied by her Chao, she heals allies, grants movement speed buffs, and provides shielding to keep her carries alive.
@@ -39,7 +55,10 @@ The premier back-line utility. Recover keeps her and Cheese sustained, while Coa
 - Rouge: A sneaky, disruptive Support. Rather than straightforward healing, she excels in debuffing enemies, scouting areas, and stealing farm using her stealth and spy skills.
 (game would recommend bottom lane) [Knock-Off Sableye + Shadow Sneak Mimikyu]
 A truly chaotic disruptor. Stealthing around and stealing enemy focus with Knock Off combines beautifully with the sudden shadow-strike targeting of Shadow Sneak to terrify lonely Attackers.
-
+- Charmy Bee: A hyperactive, highly disruptive utility support. He flies around poking enemies to distract them, while using special pollen drops to heal his teammates and grant them sudden bursts of speed.
+(game would recommend top lane) [Surf Psyduck + Covet Greedent]
+- Tikal: A protective, spirit-based enchanter. She calls upon ancestral energy and the pacifying power of the Chao to cleanse negative status effects from her allies, grant invulnerability frames, and shield them from harm.
+(game would recommend bottom lane) [Safe Guard Blissey + Aqua Ring Vaporeon]
 
 Rayquasa = Eggman
 
@@ -71,35 +90,3 @@ Should we look at how Cream (Supporter) babysits her lane partner to protect the
 
 
 
-
-Here are the playable roles for the new characters
-
-Defender
-- Omega: The ultimate heavy artillery tank. He utilizes massive physical plating and integrated shields to absorb damage on the front lines while suppressing enemies with relentless, heavy gunfire.
-(game would recommend top lane) [Flamethrower Ho-Oh + Gyro Ball Metagross]
-- Storm the Albatross: A massive, aggressive frontline bully. He uses sheer muscle and heavy gusts of wind from his wings to physically shove enemies around, disrupt their formations, and peel for his team.
-(game would recommend bottom lane) [Hydro Pump Blastoise + Power-Up Punch Lucario]
-
-All-Rounder
-- Vector the Crocodile: A loud, high-endurance brawler. He thrives in sustained team fights, using jaw-chomping physical strikes and sonic soundwaves from his headphones to disorient targets while shrugging off damage.
-(game would recommend top lane) [Crunch Feraligatr + Snarl Umbreon]
-- Tangle the Lemur: A highly physical, elastic fighter. She uses her incredibly versatile tail like a bungee cord to sling herself around the battlefield, diving into the middle of fights with high-momentum physical strikes.
-(game would recommend central area) [Aqua Tail Azumarill + Rollout Wigglytuff]
-
-Speedster
-- Espio the Chameleon: A lethal stealth assassin. He utilizes camouflage to turn completely invisible, sneaking past frontline defenders to eliminate high-value targets with swift, critical ninja strikes before vanishing.
-(game would recommend central area) [Pursuit Absol + Phantom Force Dragapult]
-- Jet the Hawk: A high-speed aerial skirmisher. Riding his Extreme Gear, he relies on unmatched forward momentum and gale-force wind tunnels to slice through enemy groups and quickly escape.
-(game would recommend central area) [Brave Bird Talonflame + Flare Blitz Charizard]
-
-Attacker
-- Whisper the Wolf: A hyper-focused, long-range sniper. She stays deep in the backline, utilizing her Variable Wispon to swap between different firing modes to deliver devastating, high-precision single-target damage.
-(game would recommend bottom lane) [Snipe Shot Inteleon + Icy Wind Suicune]
-- Wave the Swallow: A tactical, zone-control mechanical genius. She fields high-tech plasma traps and automated gadgets to completely lock down zones, melting down any enemies that step into her perimeter.
-(game would recommend top lane) [Electro Ball Alolan Raichu + Flower Trick Meowscarada]
-
-Supporter
-- Charmy Bee: A hyperactive, highly disruptive utility support. He flies around poking enemies to distract them, while using special pollen drops to heal his teammates and grant them sudden bursts of speed.
-(game would recommend top lane) [Surf Psyduck + Covet Greedent]
-- Tikal: A protective, spirit-based enchanter. She calls upon ancestral energy and the pacifying power of the Chao to cleanse negative status effects from her allies, grant invulnerability frames, and shield them from harm.
-(game would recommend bottom lane) [Safe Guard Blissey + Aqua Ring Vaporeon]
