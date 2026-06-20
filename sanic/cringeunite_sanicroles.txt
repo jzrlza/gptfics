@@ -11,12 +11,6 @@ Pure high-skill assassin. Feint Attack captures his teleporting, illusion-like d
 (game would recommend central area) [Pursuit Absol + Phantom Force Dragapult]
 - Jet the Hawk: A high-speed aerial skirmisher. Riding his Extreme Gear, he relies on unmatched forward momentum and gale-force wind tunnels to slice through enemy groups and quickly escape.
 (game would recommend central area) [Brave Bird Talonflame + Flare Blitz Charizard]
-- Metal Sonic: The ultimate overdrive assassin. He utilizes a unique "Overclock" mechanic that temporarily boosts his movement speed and attack velocity to the absolute maximum, allowing him to blitz through enemy lanes and hunt down low-health targets.
-(game would recommend central area)
-- Surge the Tenrec: A hyper-aggressive, lightning-infused skirmisher. She feeds on combat momentum to charge a "Volt Gauge," giving her access to multiple rapid-fire dash charges to dance around opponents and execute lightning-fast dive-and-escape plays.
-(game would recommend central area)
-- Emerl: A hyper-adaptive, martial arts copycat. He scans nearby opponents to mimic their base mobility traits, using high-speed aerial drop attacks and swift, localized physical combos to quickly delete fragile back-liners.
-(game would recommend central area)
 
 Attacker
 - Tails: A pure, ranged mage. He excels at dealing high, consistent damage from a distance. He uses his gadgets for area-of-effect (AoE) pokes while keeping a safe distance behind frontline allies.
@@ -29,12 +23,6 @@ The ultimate telekinetic lockdown kit. Trapping enemies in the air with Psychic 
 (game would recommend bottom lane) [Snipe Shot Inteleon + Icy Wind Suicune]
 - Wave the Swallow: A tactical, zone-control mechanical genius. She fields high-tech plasma traps and automated gadgets to completely lock down zones, melting down any enemies that step into her perimeter.
 (game would recommend top lane) [Electro Ball Alolan Raichu + Flower Trick Meowscarada]
-- Dr. Eggman: A master of mechanical siege and heavy artillery. He pilots his iconic Egg Mobile, anchoring himself down to deploy automated Egg Pawns while launching devastating, long-range targeting missiles from the safety of the backline.
-(game would recommend top lane)
-- Dr. Starline: A highly tactical, portal-hopping zone-mage. Utilizing the power of the Warp Topaz, he bends space to redirect his own projectiles, open escape portals for himself, and catch enemies off-guard with delayed telekinetic explosions.
-(game would recommend top lane)
-- Marine the Raccoon: A chaotic, hydro-kinetic burst mage. She stands back and fires high-pressure water blasts, channeling her unpredictable inner energy to trigger massive, random critical explosions that disrupt enemy formations.
-(game would recommend bottom lane)
 
 All-Rounder
 - Knuckles: An aggressive, melee-focused bruiser. He hits hard and has good defensive stats to survive sustained brawls. He is built for dominating mid-game team fights and capturing objectives like Rayquaza or the Regis.
@@ -47,12 +35,6 @@ High-action combo fighter. Fire Punch delivers her fiery physical martial arts, 
 (game would recommend top lane) [Crunch Feraligatr + Snarl Umbreon]
 - Tangle the Lemur: A highly physical, elastic fighter. She uses her incredibly versatile tail like a bungee cord to sling herself around the battlefield, diving into the middle of fights with high-momentum physical strikes.
 (game would recommend central area) [Aqua Tail Azumarill + Rollout Wigglytuff]
-- Zavok: The powerhouse frontline brawler. He thrives in the absolute thick of team fights, growing physically larger, gaining crowd-control immunity, and dealing increased melee damage as his health drops lower.
-(game would recommend bottom lane)
-- Lanolin the Sheep: A disciplined, tactical frontline commander. Encased in her Diamond Cutters armor, she uses her heavy legal gavel to shatter enemy defenses while issuing rally commands that buff her team's combat stats.
-(game would recommend top lane)
-- Mimic the Octopus: A deceptive, shape-shifting duelist. He utilizes camouflage to copy the appearance and base stats of an enemy player, allowing him to infiltrate their ranks before unleashing a flurry of lethal blade strikes.
-(game would recommend central area)
 
 Defender
 - Amy: Surprisingly, she fits the bulky frontline role. Swinging her Piko Piko Hammer, she can stun opponents, soak up massive amounts of damage, and peel for her fragile Attackers.
@@ -65,12 +47,6 @@ Perfect displacement tank. Body-slamming opponents using Heavy Slam and then phy
 (game would recommend top lane) [Flamethrower Ho-Oh + Gyro Ball Metagross]
 - Storm the Albatross: A massive, aggressive frontline bully. He uses sheer muscle and heavy gusts of wind from his wings to physically shove enemies around, disrupt their formations, and peel for his team.
 (game would recommend bottom lane) [Hydro Pump Blastoise + Power-Up Punch Lucario]
-- Kitsunami (Kit): A hydro-kinetic lane controller. Utilizing his heavy water-fane backpack, he focuses on crowd-control by summoning pressurized walls of water to block choke points and creating heavy whirlpools to halt enemy pushes.
-(game would recommend bottom lane)
-- Gemerl: A heavily modified, protective guardian robot. He acts as the ultimate body-blocker, physically tethering himself to fragile allies to absorb their incoming damage while firing automated counter-missiles to peel away threats.
-(game would recommend top lane)
-- Zazz: A chaotic, high-endurance disruptor. Bouncing erratically atop his Moon Mech, he throws himself directly into the enemy team to scatter their formations, absorbing incoming blows and converting that damage into explosive cosmic energy.
-(game would recommend top lane)
 
 Supporter
 - Cream: A classic, utility-focused Enchanter. Accompanied by her Chao, she heals allies, grants movement speed buffs, and provides shielding to keep her carries alive.
@@ -83,12 +59,11 @@ A truly chaotic disruptor. Stealthing around and stealing enemy focus with Knock
 (game would recommend top lane) [Surf Psyduck + Covet Greedent]
 - Tikal: A protective, spirit-based enchanter. She calls upon ancestral energy and the pacifying power of the Chao to cleanse negative status effects from her allies, grant invulnerability frames, and shield them from harm.
 (game would recommend bottom lane) [Safe Guard Blissey + Aqua Ring Vaporeon]
-- Sage: A digital, protective data-enchanter. She floats near her carries to project advanced holographic shields, calculate optimal pathing to increase ally movement speed, and instantly neutralize incoming enemy crowd control.
-(game would recommend top lane)
-- Zeena: A manipulative, crowd-controlling disruptor. She uses her energy whip to lash enemies from a safe distance, pulling overextended targets out of position and charming them to prevent them from attacking her allies.
-(game would recommend bottom lane)
-- Jewel the Beetle: A backline mineral enchanter and strategist. As the leader of the Restoration Guide, she digs up rare gemstones on the battlefield to provide customizable buffs, such as healing rubies or speed-boosting sapphires.
-(game would recommend bottom lane)
+
+Rayquasa = Eggman
+
+
+
 
 
 with given roles, it also means Sonic can easily bully Tails (aka Tails Abuse whoisthisgit reference) while more reason to avoid or shy away from Amy right?
