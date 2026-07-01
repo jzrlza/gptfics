@@ -181,8 +181,8 @@ Skeledirge (...)
 Quaquaval (...)
 
 wishlists box login:
-attacker = espeon
-speedster = meowscarada
-all-rounder = tsareena
-defender = lapras
-supporter = 
+attacker = latios
+speedster = g.rapidash
+all-rounder = suicune
+defender = ho-oh
+supporter = latias
