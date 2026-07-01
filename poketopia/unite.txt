@@ -181,8 +181,8 @@ Skeledirge (...)
 Quaquaval (...)
 
 wishlists box login:
-attacker = latios
+attacker = a.raichu
 speedster = g.rapidash
 all-rounder = suicune
 defender = ho-oh
-supporter = latias
+supporter = alcremie
