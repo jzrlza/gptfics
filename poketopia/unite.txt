@@ -179,3 +179,10 @@ Feraligatr (...)
 Meganium (...)
 Skeledirge (...)
 Quaquaval (...)
+
+wishlists box login:
+attacker = espeon
+speedster = meowscarada
+all-rounder = tsareena
+defender = lapras
+supporter = 
