@@ -190,7 +190,7 @@ all-rounder = tsareena (both license and holowear) [kimono or concert]
 defender = crustle (license) / lapras (holowear)
 supporter = wigglytuff (both license and holowear) [frontier]
 [simsvidupload@gmail.com]
-attacker = latios (license) / a.ninetales (holowear)
+attacker = latios (license) / a.ninetales (holowear) [blue theater]
 speedster = meowscarada (both license and holowear) [summer]
 all-rounder = suicune (both license and holowear)
 defender = goodra (both license and holowear) [sweet]
