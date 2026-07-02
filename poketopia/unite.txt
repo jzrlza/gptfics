@@ -182,7 +182,7 @@ Meganium (-)
 Skeledirge (-)
 Quaquaval (-)
 
-wishlists box login:
+wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
 attacker = espeon (both license and holowear)
 speedster = g.rapidash (both license and holowear)
