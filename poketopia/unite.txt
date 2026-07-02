@@ -92,7 +92,7 @@ Quaquaval
 [data as of early July 2026]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
 TC = Treasure Chest Challenge
-Cinderace (1 BP skin, 1 TC skin)
+Cinderace (1 BP skin, 1 TC skin, 1 Purple Animated skin)
 Garchomp (1 TC skin)
 Gengar (1 BP skin, 2 TC skins)
 Cramorant (-)
@@ -149,7 +149,7 @@ Leafeon (1 BP skin)
 Inteleon (1 BP skin, 1 TC skin)
 Mewtwo (1 BP skin, 1 TC skin)
 Blaziken (1 BP skin)
-Mimikyu (1 BP skin, 1 TC skin)
+Mimikyu (1 BP skin, 2 TC skins)
 Meowscarada (1 BP skin)
 Metagross (-)
 Gyarados (1 BP skin)
