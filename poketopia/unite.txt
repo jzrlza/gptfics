@@ -204,6 +204,6 @@ supporter = latias (both license and holowear)
 [justgameadjust69@gmail.com]
 attacker = mew (both license and holowear) [dress]
 speedster = absol (both license and holowear)
-all-rounder = blaziken (both license and holowear)
+all-rounder = blaziken (both license and holowear) [punk]
 defender = ho-oh (both license and holowear)
-supporter = sableye (both license and holowear)
+supporter = sableye (both license and holowear) [vampire]
