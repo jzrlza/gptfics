@@ -183,8 +183,21 @@ Skeledirge (-)
 Quaquaval (-)
 
 wishlists box login:
-attacker = a.raichu
-speedster = g.rapidash
-all-rounder = suicune
-defender = ho-oh
-supporter = alcremie
+[gindytesttest@gmail.com]
+attacker = espeon (both license and holowear)
+speedster = g.rapidash (both license and holowear)
+all-rounder = tyranitar (both license and holowear)
+defender = ho-oh (both license and holowear)
+supporter = clefable (both license and holowear)
+[simsvidupload@gmail.com]
+attacker = a.raichu (license) / a.ninetales (holowear)
+speedster = meowscarada (both license and holowear)
+all-rounder = tsareena (both license and holowear)
+defender = crustle (license) / lapras (holowear)
+supporter = alcremie (both license and holowear)
+[jestm895@gmail.com]
+attacker = dragapult (license) / sylveon (holowear)
+speedster = gengar (both license and holowear)
+all-rounder = blaziken (both license and holowear)
+defender = umbreon (both license and holowear)
+supporter = sableye (both license and holowear)
