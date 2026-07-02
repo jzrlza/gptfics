@@ -197,13 +197,13 @@ defender = goodra (both license and holowear) [sweet]
 supporter = alcremie (both license and holowear)
 [jestm895@gmail.com]
 attacker = dragapult (license) / sylveon (holowear) [checkered]
-speedster = absol (both license and holowear)
+speedster = gengar (both license and holowear)
 all-rounder = tyranitar (both license and holowear) [tuxedo]
 defender = umbreon (both license and holowear) [dark knight]
 supporter = latias (both license and holowear)
 [justgameadjust69@gmail.com]
 attacker = glaceon (both license and holowear) [checkered]
-speedster = gengar (both license and holowear)
+speedster = absol (both license and holowear)
 all-rounder = blaziken (both license and holowear)
 defender = ho-oh (both license and holowear)
 supporter = sableye (both license and holowear)
