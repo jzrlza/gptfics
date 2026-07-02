@@ -185,19 +185,19 @@ Quaquaval (-)
 wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
 attacker = espeon (both license and holowear)
-speedster = g.rapidash (both license and holowear)
-all-rounder = tsareena (both license and holowear)
+speedster = g.rapidash (both license and holowear) [elegant]
+all-rounder = tsareena (both license and holowear) [kimono or concert]
 defender = ho-oh (both license and holowear)
-supporter = wigglytuff (both license and holowear)
+supporter = wigglytuff (both license and holowear) [frontier]
 [simsvidupload@gmail.com]
-attacker = a.raichu (license) / a.ninetales (holowear)
-speedster = meowscarada (both license and holowear)
-all-rounder = (both license and holowear)
-defender = crustle (license) / lapras (holowear)
+attacker = latios (license) / a.ninetales (holowear)
+speedster = meowscarada (both license and holowear) [summer]
+all-rounder = suicune (both license and holowear)
+defender = goodra (both license and holowear) [sweet]
 supporter = alcremie (both license and holowear)
 [jestm895@gmail.com]
-attacker = dragapult (license) / sylveon (holowear)
+attacker = glaceon (both license and holowear) [checkered]
 speedster = gengar (both license and holowear)
-all-rounder = blaziken (both license and holowear)
-defender = umbreon (both license and holowear)
-supporter = sableye (both license and holowear)
+all-rounder = tyranitar (both license and holowear) [tuxedo]
+defender = umbreon (both license and holowear) [dark knight]
+supporter = latias (both license and holowear)
