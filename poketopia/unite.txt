@@ -202,7 +202,7 @@ all-rounder = tyranitar (both license and holowear) [tuxedo]
 defender = umbreon (both license and holowear) [dark knight]
 supporter = latias (both license and holowear)
 [justgameadjust69@gmail.com]
-attacker = glaceon (both license and holowear) [checkered]
+attacker = mew (both license and holowear) [dress]
 speedster = absol (both license and holowear)
 all-rounder = blaziken (both license and holowear)
 defender = ho-oh (both license and holowear)
