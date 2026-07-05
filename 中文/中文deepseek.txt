@@ -1,0 +1,1113 @@
+You want the **complete, exhaustive, no-shortcuts grammar rulebook** for all 11 categories. Here it is—every pattern, every exception, every rule you need. No fluff. No lazy summaries.
+
+---
+
+## 1. WHAT IS/ARE? (Asking for identity, definition, or category)
+
+**Key Word:** 什么 (shénme) = what
+
+---
+
+### Rule 1: Basic "What is X?"
+**Pattern:** X + 是 + 什么？
+- 这是什么？(Zhè shì shénme?) = What is this?
+- 那是什么？(Nà shì shénme?) = What is that?
+
+---
+
+### Rule 2: "What is X?" (with a known subject)
+**Pattern:** Subject + 是 + 什么？
+- 你的工作是什么？(Nǐ de gōngzuò shì shénme?) = What is your job?
+- 她的名字是什么？(Tā de míngzi shì shénme?) = What is her name?
+
+---
+
+### Rule 3: "What kind of X?"
+**Pattern:** 什么 + Noun
+- 你喜欢什么书？(Nǐ xǐhuān shénme shū?) = What (kind of) books do you like?
+- 你喝什么咖啡？(Nǐ hē shénme kāfēi?) = What coffee do you drink?
+
+---
+
+### Rule 4: "What are you doing?" (Action in progress)
+**Pattern:** Subject + 在 + 做什么？
+- 你在做什么？(Nǐ zài zuò shénme?) = What are you doing?
+- 他在看什么？(Tā zài kàn shénme?) = What is he watching?
+
+---
+
+### Rule 5: "What happened?" (Past/Completed action)
+**Pattern:** Subject + 怎么了？(zěnme le?) OR 发生了什么事？(fāshēng le shénme shì?)
+- 你怎么了？(Nǐ zěnme le?) = What happened to you? / What's wrong?
+- 发生了什么事？(Fāshēng le shénme shì?) = What happened?
+
+---
+
+### Rule 6: "What time?" (Specific time)
+**Pattern:** 几点 (jǐ diǎn) for clock time | 什么时候 (shénme shíhou) for general time
+- 现在几点？(Xiànzài jǐ diǎn?) = What time is it now?
+- 你什么时候来？(Nǐ shénme shíhou lái?) = What time / When are you coming?
+
+---
+
+### Rule 7: "What for?" / "Why?"
+**Pattern:** 为什么 (wèishénme) = why (literally "for what")
+- 你为什么不去？(Nǐ wèishénme bù qù?) = Why aren't you going? (What for are you not going?)
+
+---
+
+### Rule 8: Plural "what are" — NO CHANGE
+Chinese doesn't change for plural. The same rules apply.
+- 这些是什么？(Zhèxiē shì shénme?) = What are these?
+- 那些是什么？(Nàxiē shì shénme?) = What are those?
+
+---
+
+### Rule 9: "What do you think?"
+**Pattern:** 你觉得怎么样？(Nǐ juéde zěnmeyàng?) = What do you think? / How do you feel about it?
+- 你觉得这个电影怎么样？(Nǐ juéde zhège diànyǐng zěnmeyàng?) = What do you think of this movie?
+
+---
+
+### Rule 10: "What should I/we do?"
+**Pattern:** 怎么办？(zěnme bàn?) = What to do? / How to handle it?
+- 我们怎么办？(Wǒmen zěnme bàn?) = What should we do?
+
+---
+
+## 2. HOW FEEL? / LIKE / DISLIKE / HAPPY / ANGRY
+
+**Key Words:** 
+- 喜欢 (xǐhuān) = like
+- 不喜欢 (bù xǐhuān) = don't like
+- 讨厌 (tǎoyàn) = hate (strong)
+- 恨 (hèn) = hate (deep, serious—use rarely)
+- 开心 (kāixīn) = happy
+- 高兴 (gāoxìng) = happy/glad (slightly more formal)
+- 生气 (shēngqì) = angry
+- 难过 (nánguò) = sad
+- 累 (lèi) = tired
+- 担心 (dānxīn) = worried
+- 害怕 (hàipà) = scared / afraid
+- 紧张 (jǐnzhāng) = nervous
+
+---
+
+### Rule 1: Feelings as ADJECTIVES (happy, angry, tired, sad)
+**CRITICAL:** Do NOT use 是. Use 很 as a neutral link, or 非常 (very), 好 (so), 超级 (super) for emphasis.
+
+**Pattern:** Subject + 很/非常/好 + Adjective
+- 我很开心。(Wǒ hěn kāixīn.) = I am happy.
+- 他非常生气。(Tā fēicháng shēngqì.) = He is very angry.
+- 我好累啊！(Wǒ hǎo lèi a!) = I'm so tired!
+- 她很难过。(Tā hěn nánguò.) = She is sad.
+
+**For questions:** Remove 很. Use 吗 or A-not-A.
+- 你开心吗？(Nǐ kāixīn ma?) = Are you happy?
+- 你累不累？(Nǐ lèi bu lèi?) = Are you tired or not?
+
+**For negative:** Use 不 before the adjective.
+- 我不开心。(Wǒ bù kāixīn.) = I am not happy.
+- 他不累。(Tā bù lèi.) = He is not tired.
+
+---
+
+### Rule 2: Feelings as VERBS (like, dislike, hate, worry, fear)
+These act like normal verbs. Put 不 before for negative.
+
+**Pattern:** Subject + Verb + Object
+- 我喜欢咖啡。(Wǒ xǐhuān kāfēi.) = I like coffee.
+- 我不喜欢Pokemon。(Wǒ bù xǐhuān Pokemon.) = I don't like Pokemon.
+- 我讨厌这个游戏。(Wǒ tǎoyàn zhège yóuxì.) = I hate this game.
+- 我担心你。(Wǒ dānxīn nǐ.) = I'm worried about you.
+- 他害怕狗。(Tā hàipà gǒu.) = He is afraid of dogs.
+
+**For past:** Add 了 after the verb.
+- 我以前喜欢他。(Wǒ yǐqián xǐhuān tā.) = I used to like him.
+- 我讨厌了那个工作。(Wǒ tǎoyàn le nàge gōngzuò.) = I came to hate that job.
+
+---
+
+### Rule 3: "How do you feel?" (General)
+**Pattern:** 你感觉怎么样？(Nǐ gǎnjué zěnmeyàng?) = How do you feel? (Physical/emotional)
+- 你感觉怎么样？(Nǐ gǎnjué zěnmeyàng?) = How do you feel?
+
+**Pattern:** 你觉得怎么样？(Nǐ juéde zěnmeyàng?) = What do you think? / How do you feel about it?
+
+---
+
+### Rule 4: "Are you angry with me?"
+**Pattern:** 你生我的气吗？(Nǐ shēng wǒ de qì ma?) = Are you angry with me?
+*(Note: 生气 splits—生 + person + 的气)*
+
+---
+
+### Rule 5: "Make me happy" (Causing feelings)
+**Pattern:** Subject + 让 + Person + Feeling-Adjective
+- 你让我开心。(Nǐ ràng wǒ kāixīn.) = You make me happy.
+- 这件事让他很生气。(Zhè jiàn shì ràng tā hěn shēngqì.) = This matter makes him very angry.
+
+---
+
+### Rule 6: Intensifiers for feelings
+
+| Word | Pinyin | Intensity | Example |
+| :--- | :--- | :--- | :--- |
+| 有点 | yǒudiǎn | a little | 我有点累。= I'm a little tired. |
+| 很 | hěn | neutral/very | 我很开心。= I'm happy. |
+| 非常 | fēicháng | very (formal) | 我非常喜欢。= I really like it. |
+| 好 | hǎo | so (casual) | 我好饿！= I'm so hungry! |
+| 超级 | chāojí | super (slang) | 超级讨厌！= Super hate it! |
+| 太...了 | tài...le | too / extremely | 太好了！= Great! / Too good! |
+
+---
+
+### Rule 7: "I feel like doing X"
+**Pattern:** 我想 + Verb (想 = want to / feel like)
+- 我想吃冰淇淋。(Wǒ xiǎng chī bīngqílín.) = I feel like eating ice cream.
+- 我想去公园。(Wǒ xiǎng qù gōngyuán.) = I feel like going to the park.
+
+---
+
+## 3. WHERE / POSITION (Location)
+
+**Key Words:**
+- 在 (zài) = at / in / on (location verb)
+- 哪儿 (nǎr) / 哪里 (nǎlǐ) = where
+- Position words: 上 (on), 下 (under), 里 (inside), 外 (outside), 前 (in front), 后 (behind), 左 (left), 右 (right), 旁边 (next to), 对面 (opposite), 中间 (between/middle)
+
+---
+
+### Rule 1: 在 is a VERB meaning "to be located at"
+**Pattern:** Subject + 在 + Place
+- 我在家。(Wǒ zài jiā.) = I am at home.
+- 他在北京。(Tā zài Běijīng.) = He is in Beijing.
+- 书在桌子上。(Shū zài zhuōzi shàng.) = The book is on the table.
+
+**For negative:** 不在 = not at
+- 我不在家。(Wǒ bù zài jiā.) = I am not at home.
+- 他不在办公室。(Tā bù zài bàngōngshì.) = He is not in the office.
+
+---
+
+### Rule 2: Place MUST come BEFORE the action verb
+**CRITICAL:** In English, place comes after the verb ("I eat **at home**"). In Chinese, place comes **before** the verb.
+
+**Pattern:** Subject + 在 + Place + Action
+- 我在家吃饭。(Wǒ zài jiā chīfàn.) = I eat at home. (I **at home** eat).
+- 他在学校学习。(Tā zài xuéxiào xuéxí.) = He studies at school.
+- 我在星巴克喝咖啡。(Wǒ zài Xīngbākè hē kāfēi.) = I drink coffee at Starbucks.
+
+**Wrong:** ~~我吃饭在家。~~ ❌
+**Wrong:** ~~我喝咖啡在星巴克。~~ ❌
+
+---
+
+### Rule 3: Precise position with location words
+**Pattern:** 在 + Place + Position-Word
+
+| Position | Chinese | Example | Translation |
+| :--- | :--- | :--- | :--- |
+| On | 上 (shàng) | 在桌子**上** | On the table |
+| Under | 下 (xià) | 在床**下** | Under the bed |
+| Inside | 里 (lǐ) | 在房间**里** | Inside the room |
+| Outside | 外 (wài) | 在门**外** | Outside the door |
+| In front | 前 (qián) | 在商店**前** | In front of the store |
+| Behind | 后 (hòu) | 在大楼**后** | Behind the building |
+| Left | 左 (zuǒ) | 在**左边** | On the left |
+| Right | 右 (yòu) | 在**右边** | On the right |
+| Next to | 旁边 (pángbiān) | 在我**旁边** | Next to me |
+| Opposite | 对面 (duìmiàn) | 在银行**对面** | Opposite the bank |
+| Between | 中间 (zhōngjiān) | 在两棵树**中间** | Between the two trees |
+
+---
+
+### Rule 4: Asking "Where?"
+**Pattern A:** Place + 在 + 哪儿/哪里？(Asking for location of a thing/person)
+- 厕所在哪儿？(Cèsuǒ zài nǎr?) = Where is the bathroom?
+- 老师在哪儿？(Lǎoshī zài nǎr?) = Where is the teacher?
+
+**Pattern B:** Subject + 在 + 哪儿/哪里 + Action？(Asking where an action happens)
+- 你在哪儿吃饭？(Nǐ zài nǎr chīfàn?) = Where do you eat?
+- 他在哪里工作？(Tā zài nǎlǐ gōngzuò?) = Where does he work?
+
+**Pattern C:** 去哪儿？(Where are you going?) — using 去 for movement
+- 你去哪儿？(Nǐ qù nǎr?) = Where are you going?
+- 他去哪里了？(Tā qù nǎlǐ le?) = Where did he go?
+
+---
+
+### Rule 5: Directional verbs: 去 (go to) vs. 来 (come to) vs. 在 (at)
+- **去 (qù)** = go to (movement away from speaker)
+  - 我去学校。(Wǒ qù xuéxiào.) = I go to school.
+- **来 (lái)** = come to (movement toward speaker)
+  - 请来我家。(Qǐng lái wǒ jiā.) = Please come to my home.
+- **在 (zài)** = at (static location, no movement)
+  - 我在学校。(Wǒ zài xuéxiào.) = I am at school.
+
+**Important:** You cannot use 在 for movement. Don't say ~~我在学校去~~ (I at school go). Use 去.
+
+---
+
+### Rule 6: "From" (Origin)
+**Pattern:** 从 + Place + 来/去 (cóng = from)
+- 我从中国来。(Wǒ cóng Zhōngguó lái.) = I come from China.
+- 他从家里去学校。(Tā cóng jiā lǐ qù xuéxiào.) = He goes from home to school.
+
+---
+
+### Rule 7: "Where is X located?" (Formal)
+**Pattern:** X + 位于 + Place (wèiyú = be located at, formal)
+- 北京位于中国北部。(Běijīng wèiyú Zhōngguó běibù.) = Beijing is located in northern China.
+
+---
+
+## 4. WHEN / TIME
+
+**Key Words:**
+- 什么时候 (shénme shíhou) = when
+- 几点 (jǐ diǎn) = what time (clock)
+- Time words: 今天 (today), 明天 (tomorrow), 昨天 (yesterday), 现在 (now), 早上 (morning), 下午 (afternoon), 晚上 (evening), 去年 (last year), 明年 (next year), etc.
+
+---
+
+### Rule 1: Time ALWAYS comes before the verb
+**CRITICAL:** In English, time can go at the end ("I eat **at 6**"). In Chinese, time **must** go before the verb, and usually at the beginning of the sentence.
+
+**Pattern:** Time + Subject + Verb + Object
+- 明天我去北京。(Míngtiān wǒ qù Běijīng.) = Tomorrow I go to Beijing.
+- 昨天他吃了饭。(Zuótiān tā chī le fàn.) = Yesterday he ate.
+
+**Alternative (equally correct):** Subject + Time + Verb + Object
+- 我明天去北京。(Wǒ míngtiān qù Běijīng.) = I tomorrow go to Beijing.
+- 他昨天吃了饭。(Tā zuótiān chī le fàn.) = He yesterday ate.
+
+**Wrong:** ~~我去北京明天。~~ ❌
+**Wrong:** ~~他吃饭了昨天。~~ ❌
+
+---
+
+### Rule 2: Asking "When?"
+**Pattern A:** Subject + 什么时候 + Verb + Object?
+- 你什么时候来？(Nǐ shénme shíhou lái?) = When are you coming?
+- 他什么时候走？(Tā shénme shíhou zǒu?) = When is he leaving?
+
+**Pattern B:** Subject + 几点 + Verb + Object? (For clock time)
+- 你几点起床？(Nǐ jǐ diǎn qǐchuáng?) = What time do you get up?
+- 我们几点见面？(Wǒmen jǐ diǎn jiànmiàn?) = What time do we meet?
+
+---
+
+### Rule 3: Specific time expressions
+
+| Time | Chinese | Example |
+| :--- | :--- | :--- |
+| At 8 o'clock | 八点 (bā diǎn) | 我八点起床。= I get up at 8. |
+| At 8:30 | 八点半 (bā diǎn bàn) | 我八点半上班。= I start work at 8:30. |
+| At 8:15 | 八点十五 (bā diǎn shíwǔ) | 我八点十五到。= I arrive at 8:15. |
+| In the morning | 早上 (zǎoshang) | 我早上喝茶。= I drink tea in the morning. |
+| In the afternoon | 下午 (xiàwǔ) | 他下午开会。= He has a meeting in the afternoon. |
+| In the evening | 晚上 (wǎnshang) | 我们晚上看电影。= We watch movies in the evening. |
+| Today | 今天 (jīntiān) | 今天我很忙。= I'm busy today. |
+| Tomorrow | 明天 (míngtiān) | 明天我去公园。= I'll go to the park tomorrow. |
+| Yesterday | 昨天 (zuótiān) | 昨天我去了超市。= I went to the supermarket yesterday. |
+| This week | 这个星期 (zhège xīngqī) | 这个星期我不在家。= I'm not home this week. |
+| Last week | 上个星期 (shàng ge xīngqī) | 上个星期我生病了。= I was sick last week. |
+| Next week | 下个星期 (xià ge xīngqī) | 下个星期我考试。= I have an exam next week. |
+| Every day | 每天 (měitiān) | 我每天跑步。= I run every day. |
+| Sometimes | 有时候 (yǒu shíhou) | 我有时候吃西餐。= Sometimes I eat Western food. |
+| Always | 总是 (zǒngshì) | 他总是迟到。= He is always late. |
+| Never | 从来不 (cónglái bù) | 我从来不吃肉。= I never eat meat. |
+
+---
+
+### Rule 4: Duration (How long?)
+**Pattern:** Subject + Verb + 了 + Duration + (了)
+- 我学了三年中文。(Wǒ xué le sān nián Zhōngwén.) = I studied Chinese for 3 years.
+- 他等了十分钟。(Tā děng le shí fēnzhōng.) = He waited for 10 minutes.
+- 我在这儿住了两年了。(Wǒ zài zhèr zhù le liǎng nián le.) = I've lived here for 2 years (and still do).
+
+**Question:** 你学了多久？(Nǐ xué le duōjiǔ?) = How long have you studied?
+
+---
+
+### Rule 5: "When" as a conjunction (When I...)
+**Pattern:** 当...的时候 (dāng... de shíhou) = when (subordinate clause)
+- 当我回家的时候，我饿了。(Dāng wǒ huí jiā de shíhou, wǒ è le.) = When I came home, I was hungry.
+- 你到的时候给我打电话。(Nǐ dào de shíhou gěi wǒ dǎ diànhuà.) = Call me when you arrive.
+
+**Shorter version:** ...的时候 (...de shíhou) without 当
+- 他来的时候我不在家。(Tā lái de shíhou wǒ bù zài jiā.) = When he came, I wasn't home.
+
+---
+
+### Rule 6: "Before" and "After"
+**Before:** 以前 (yǐqián) — goes **after** the time/action
+- 吃饭以前，我洗手。(Chīfàn yǐqián, wǒ xǐ shǒu.) = Before eating, I wash my hands.
+- 2019年以前，我在上海。(2019 nián yǐqián, wǒ zài Shànghǎi.) = Before 2019, I was in Shanghai.
+
+**After:** 以后 (yǐhòu) — goes **after** the time/action
+- 吃饭以后，我喝茶。(Chīfàn yǐhòu, wǒ hē chá.) = After eating, I drink tea.
+- 2020年以后，我去了北京。(2020 nián yǐhòu, wǒ qù le Běijīng.) = After 2020, I went to Beijing.
+
+---
+
+### Rule 7: "From... to..." (Time)
+**Pattern:** 从 + Time1 + 到 + Time2
+- 我从九点到十二点工作。(Wǒ cóng jiǔ diǎn dào shí'èr diǎn gōngzuò.) = I work from 9 to 12.
+- 商店从早上八点到晚上十点开门。(Shāngdiàn cóng zǎoshang bā diǎn dào wǎnshang shí diǎn kāimén.) = The store is open from 8 AM to 10 PM.
+
+---
+
+## 5. WHO / IDENTITY
+
+**Key Words:**
+- 谁 (shuí) = who
+- 什么人 (shénme rén) = what kind of person
+- 是哪位 (shì nǎ wèi) = who is it? (polite)
+
+---
+
+### Rule 1: Basic "Who?"
+**Pattern:** 谁 + Verb + Object?
+- 谁来了？(Shuí lái le?) = Who came?
+- 谁是你的老师？(Shuí shì nǐ de lǎoshī?) = Who is your teacher?
+
+**Pattern:** Subject + 是 + 谁？
+- 那个人是谁？(Nàge rén shì shuí?) = Who is that person?
+- 打电话的人是谁？(Dǎ diànhuà de rén shì shuí?) = Who is the person calling?
+
+---
+
+### Rule 2: "Who did X?" (Action)
+**Pattern:** 谁 + Verb + Object?
+- 谁吃了我的蛋糕？(Shuí chī le wǒ de dàngāo?) = Who ate my cake?
+- 谁告诉你这个？(Shuí gàosu nǐ zhège?) = Who told you this?
+
+**For passive:** 被 + 谁 + Verb? (bèi = by)
+- 这个被谁打破了？(Zhège bèi shuí dǎpò le?) = Who broke this? (This was broken by whom?)
+
+---
+
+### Rule 3: "Who is X?" (Identity)
+**Pattern:** X + 是 + 谁？
+- 他是谁？(Tā shì shuí?) = Who is he?
+- 这位是谁？(Zhè wèi shì shuí?) = Who is this gentleman/lady? (Polite)
+
+---
+
+### Rule 4: "Whose" (See Section 6 — Ownership)
+
+---
+
+### Rule 5: "Whoever" (Indefinite)
+**Pattern:** 谁 + 都 + Verb (shuí + dōu = whoever / anyone)
+- 谁都知道。(Shuí dōu zhīdào.) = Everyone knows. (Whoever knows).
+- 谁都喜欢她。(Shuí dōu xǐhuān tā.) = Everyone likes her.
+
+**Negative:** 谁 + 都 + 不 + Verb = nobody
+- 谁都不想去。(Shuí dōu bù xiǎng qù.) = Nobody wants to go.
+- 谁都不认识他。(Shuí dōu bù rènshi tā.) = Nobody knows him.
+
+---
+
+### Rule 6: "Who is calling?" (Phone)
+**Pattern:** 哪位？(Nǎ wèi?) = Who is this? (Polite, on the phone)
+- 喂，哪位？(Wèi, nǎ wèi?) = Hello, who is this?
+
+---
+
+### Rule 7: "What kind of person"
+**Pattern:** 什么人 + Adjective/Verb?
+- 他是什么人？(Tā shì shénme rén?) = What kind of person is he?
+- 你是什么人？(Nǐ shì shénme rén?) = Who are you? / What kind of person are you? (Can sound confrontational—use carefully.)
+
+---
+
+## 6. WHOSE / OWNERSHIP (Possession)
+
+**Key Words:**
+- 的 (de) = possession marker
+- 谁 (shuí) = who/whose
+- 谁的 (shuí de) = whose
+
+---
+
+### Rule 1: Basic Possession (Owner + 的 + Object)
+**Pattern:** Owner + 的 + Object
+- 我的书 (wǒ de shū) = my book
+- 他的咖啡 (tā de kāfēi) = his coffee
+- 妈妈的手机 (māma de shǒujī) = mom's phone
+- 老师的车 (lǎoshī de chē) = the teacher's car
+
+---
+
+### Rule 2: Asking "Whose?"
+**Pattern A:** 这是 + 谁的 + Object？
+- 这是谁的书？(Zhè shì shuí de shū?) = Whose book is this?
+- 那是谁的咖啡？(Nà shì shuí de kāfēi?) = Whose coffee is that?
+
+**Pattern B:** 这个 + Object + 是 + 谁的？
+- 这本书是谁的？(Zhè běn shū shì shuí de?) = Whose book is this?
+- 那辆车是谁的？(Nà liàng chē shì shuí de?) = Whose car is that?
+
+**Pattern C (short):** 谁的 + Object？
+- 谁的手机？(Shuí de shǒujī?) = Whose phone?
+- 谁的包？(Shuí de bāo?) = Whose bag?
+
+---
+
+### Rule 3: Dropping 的 for close relationships
+**Exception:** For close family members and fixed compounds, you can drop 的.
+- 我妈妈 (wǒ māma) = my mom (NOT 我的妈妈, though it's not wrong)
+- 我爸爸 (wǒ bàba) = my dad
+- 我哥哥 (wǒ gēge) = my older brother
+- 我们学校 (wǒmen xuéxiào) = our school
+- 我家 (wǒ jiā) = my home/family
+
+**BUT:** For less close relationships, keep 的.
+- 我的老师 (wǒ de lǎoshī) = my teacher (not family)
+- 我的朋友 (wǒ de péngyou) = my friend
+
+---
+
+### Rule 4: Possession with multiple layers
+**Pattern:** Owner1 + 的 + Owner2 + 的 + Object
+- 我朋友的手机 (wǒ péngyou de shǒujī) = my friend's phone
+- 我妈妈的朋友的车 (wǒ māma de péngyou de chē) = my mom's friend's car
+
+---
+
+### Rule 5: "One of mine" (Possessive Pronoun)
+**Pattern:** 我的 + 一 + Measure-Word + Noun
+- 我的一本书 (wǒ de yī běn shū) = a book of mine (one of my books)
+- 他的一个朋友 (tā de yī gè péngyou) = a friend of his
+
+**Short form (dropping noun):** 我的 = mine, 你的 = yours
+- 这本书是我的。(Zhè běn shū shì wǒ de.) = This book is mine.
+- 那杯咖啡是你的。(Nà bēi kāfēi shì nǐ de.) = That cup of coffee is yours.
+
+---
+
+### Rule 6: 的 with adjectives (Modification)
+**Pattern:** Adjective + 的 + Noun
+- 红色的花 (hóngsè de huā) = red flower
+- 快乐的人 (kuàilè de rén) = happy person
+- 新的手机 (xīn de shǒujī) = new phone
+
+**Exception:** Single-syllable common adjectives can drop 的.
+- 红花 (hóng huā) = red flower (still correct)
+- 新人 (xīn rén) = new person / newcomer
+
+---
+
+### Rule 7: "This/That X of mine" (Double possession)
+**Pattern:** 我的 + 这个/那个 + Noun
+- 我的这个朋友 (wǒ de zhège péngyou) = this friend of mine
+- 他的那本书 (tā de nà běn shū) = that book of his
+
+---
+
+## 7. WHOM / RECEIVER (Object of action)
+
+**Key Words:**
+- 谁 (shuí) = whom (when used as object)
+- 给 (gěi) = to (as preposition for receiver)
+- 对 (duì) = to/toward (as preposition)
+- 跟 (gēn) = with
+
+---
+
+### Rule 1: Asking "To whom?"
+**Pattern:** Subject + 给 + 谁 + Verb + Object?
+- 你给谁打电话？(Nǐ gěi shuí dǎ diànhuà?) = Whom are you calling? (To whom do you call?)
+- 他给谁买了礼物？(Tā gěi shuí mǎi le lǐwù?) = Whom did he buy a gift for?
+
+**Pattern:** Subject + 把 + Object + 给 + 谁？
+- 你把这本书给谁？(Nǐ bǎ zhè běn shū gěi shuí?) = Whom are you giving this book to?
+- 他把钱给了谁？(Tā bǎ qián gěi le shuí?) = Whom did he give the money to?
+
+---
+
+### Rule 2: "To whom" as a statement
+**Pattern:** Subject + 给 + Person + Verb + Object
+- 我给我妈妈打电话。(Wǒ gěi wǒ māma dǎ diànhuà.) = I call my mom. (I to my mom call).
+- 他给朋友买了咖啡。(Tā gěi péngyou mǎi le kāfēi.) = He bought coffee for his friend.
+
+**Pattern:** Subject + 对 + Person + Verb
+- 我对你说。(Wǒ duì nǐ shuō.) = I say to you.
+- 他对我笑。(Tā duì wǒ xiào.) = He smiles at me.
+
+**Pattern:** Subject + 跟 + Person + Verb (together/with)
+- 我跟你去。(Wǒ gēn nǐ qù.) = I go with you. (I with you go).
+- 他跟我说话。(Tā gēn wǒ shuōhuà.) = He talks with me.
+
+---
+
+### Rule 3: Asking "From whom?"
+**Pattern:** 从 + 谁 + 得到/收到 + Object?
+- 你从谁那里得到这个消息？(Nǐ cóng shuí nàlǐ dédào zhège xiāoxi?) = From whom did you get this news?
+- 他从谁那儿借了钱？(Tā cóng shuí nàr jiè le qián?) = From whom did he borrow money?
+
+---
+
+### Rule 4: "With whom?"
+**Pattern:** Subject + 跟 + 谁 + Verb?
+- 你跟谁去？(Nǐ gēn shuí qù?) = With whom are you going?
+- 他跟谁说话？(Tā gēn shuí shuōhuà?) = With whom is he talking?
+
+**Pattern:** 和 + 谁 (hé = with, slightly more formal)
+- 你和谁一起吃饭？(Nǐ hé shuí yīqǐ chīfàn?) = With whom do you eat? (Together)
+
+---
+
+### Rule 5: "For whom?" (Beneficiary)
+**Pattern:** 为 + 谁 + Verb? (wèi = for)
+- 你为谁做这个？(Nǐ wèi shuí zuò zhège?) = For whom are you doing this?
+- 他为谁买了礼物？(Tā wèi shuí mǎi le lǐwù?) = For whom did he buy a gift?
+
+---
+
+### Rule 6: Object pronoun position in Chinese
+**Important:** In Chinese, the object (whom) usually comes **before** the main verb when using prepositions like 给, 对, 跟.
+- ✅ 我**给**你咖啡。(Wǒ **gěi** nǐ kāfēi.) = I give **you** coffee. (You comes before coffee).
+- ❌ 我给咖啡你。 (Wrong order).
+- ✅ 他**对**我笑。(Tā **duì** wǒ xiào.) = He smiles **at me**. (Me comes before smile).
+- ✅ 我**跟**他去。(Wǒ **gēn** tā qù.) = I go **with him**. (Him comes before go).
+
+---
+
+## 8. TO DO / TO NOT DO / PLEASE / REQUEST / WARNING
+
+**Key Words:**
+- 做 (zuò) = to do (general)
+- 不 (bù) = not (present/future/habitual)
+- 没 (méi) = not (past/negative existence)
+- 别 (bié) = don't! (command/warning)
+- 请 (qǐng) = please (request)
+- 要 (yào) = want to / will
+- 想 (xiǎng) = want to / would like to
+- 应该 (yīnggāi) = should
+- 可以 (kěyǐ) = can / may
+- 能 (néng) = can / be able to
+
+---
+
+### Rule 1: Basic "To do"
+**Pattern:** Subject + Verb + Object
+- 我吃饭。(Wǒ chīfàn.) = I eat.
+- 他工作。(Tā gōngzuò.) = He works.
+- 她看书。(Tā kànshū.) = She reads.
+
+**"To do" as a general verb:** 做 (zuò)
+- 你在做什么？(Nǐ zài zuò shénme?) = What are you doing?
+- 我做作业。(Wǒ zuò zuòyè.) = I do homework.
+
+---
+
+### Rule 2: "To not do" (Negative)
+**For present/future/habitual:** Use **不 (bù)** before the verb.
+- 我不吃饭。(Wǒ bù chīfàn.) = I don't eat.
+- 他不工作。(Tā bù gōngzuò.) = He doesn't work.
+- 我不去北京。(Wǒ bù qù Běijīng.) = I won't go to Beijing.
+
+**For past actions:** Use **没 (méi)** before the verb.
+- 我没吃饭。(Wǒ méi chīfàn.) = I didn't eat.
+- 他没去北京。(Tā méi qù Běijīng.) = He didn't go to Beijing.
+
+**For "never":** 从来不 (cónglái bù) + Verb
+- 我从来不吃肉。(Wǒ cónglái bù chī ròu.) = I never eat meat.
+- 他从来没去过北京。(Tā cónglái méi qù guò Běijīng.) = He has never been to Beijing.
+
+**For "not yet":** 还没 (hái méi) + Verb
+- 我还没吃饭。(Wǒ hái méi chīfàn.) = I haven't eaten yet.
+- 他还没来。(Tā hái méi lái.) = He hasn't come yet.
+
+---
+
+### Rule 3: "Please" (Polite Request)
+**Pattern:** 请 + Verb + (Object)
+- 请坐。(Qǐng zuò.) = Please sit.
+- 请给我咖啡。(Qǐng gěi wǒ kāfēi.) = Please give me coffee.
+- 请说中文。(Qǐng shuō Zhōngwén.) = Please speak Chinese.
+
+**Pattern:** 请 + Subject + Verb + Object (more formal)
+- 请你给我一杯水。(Qǐng nǐ gěi wǒ yī bēi shuǐ.) = Please give me a glass of water.
+- 请你等一下。(Qǐng nǐ děng yīxià.) = Please wait a moment.
+
+---
+
+### Rule 4: "Warning / Don't!" (Commands)
+**Use 别 (bié)** for strong warnings or prohibitions.
+- 别去！(Bié qù!) = Don't go!
+- 别动！(Bié dòng!) = Don't move!
+- 别说话！(Bié shuōhuà!) = Don't speak!
+- 别生气！(Bié shēngqì!) = Don't be angry!
+
+**Softer request (more polite than 别):** 不要 (bù yào) = don't
+- 不要去。(Bù yào qù.) = Don't go. (Softer than 别去)
+- 不要说话。(Bù yào shuōhuà.) = Don't speak.
+
+**Warning about danger:** 小心 (xiǎoxīn) = careful / watch out
+- 小心车！(Xiǎoxīn chē!) = Watch out for the car!
+- 小心烫！(Xiǎoxīn tàng!) = Careful, hot!
+
+**Prohibition sign:** 禁止 (jìnzhǐ) = forbidden
+- 禁止吸烟。(Jìnzhǐ xīyān.) = No smoking.
+- 禁止停车。(Jìnzhǐ tíngchē.) = No parking.
+
+---
+
+### Rule 5: "Want to do" (Desire)
+**Use 要 (yào)** = want to / will (strong intention)
+- 我要去北京。(Wǒ yào qù Běijīng.) = I want to go to Beijing / I will go.
+- 他要吃饭。(Tā yào chīfàn.) = He wants to eat.
+
+**Negative:** 不要 (bù yào) = don't want to / won't
+- 我不要去。(Wǒ bù yào qù.) = I don't want to go.
+
+**Use 想 (xiǎng)** = would like to / feel like (softer, more polite)
+- 我想去北京。(Wǒ xiǎng qù Běijīng.) = I would like to go to Beijing.
+- 你想吃什么？(Nǐ xiǎng chī shénme?) = What would you like to eat?
+
+**Negative:** 不想 (bù xiǎng) = don't want to
+- 我不想吃饭。(Wǒ bù xiǎng chīfàn.) = I don't want to eat.
+
+---
+
+### Rule 6: "Should do" (Obligation/Advice)
+**Use 应该 (yīnggāi)** = should
+- 你应该睡觉。(Nǐ yīnggāi shuìjiào.) = You should sleep.
+- 他不应该抽烟。(Tā bù yīnggāi chōuyān.) = He shouldn't smoke.
+
+**Use 得 (děi)** = must / have to (stronger)
+- 我得走了。(Wǒ děi zǒu le.) = I have to go.
+- 你得吃药。(Nǐ děi chī yào.) = You have to take medicine.
+
+---
+
+### Rule 7: "Can do" (Ability/Permission)
+**Use 会 (huì)** = know how to (learned skill)
+- 我会说中文。(Wǒ huì shuō Zhōngwén.) = I can speak Chinese. (I know how to).
+- 他不会游泳。(Tā bù huì yóuyǒng.) = He can't swim.
+
+**Use 能 (néng)** = be able to (physical ability / permission)
+- 我能去吗？(Wǒ néng qù ma?) = Can I go? (Am I able/permitted?)
+- 他不能来。(Tā bù néng lái.) = He can't come.
+
+**Use 可以 (kěyǐ)** = may / allowed to
+- 我可以坐这儿吗？(Wǒ kěyǐ zuò zhèr ma?) = May I sit here?
+- 你不可以进去。(Nǐ bù kěyǐ jìnqù.) = You cannot go in. (Not allowed).
+
+---
+
+### Rule 8: "Please don't" (Polite negative request)
+**Pattern:** 请不要 + Verb (qǐng bù yào)
+- 请不要抽烟。(Qǐng bù yào chōuyān.) = Please don't smoke.
+- 请不要打扰我。(Qǐng bù yào dǎrǎo wǒ.) = Please don't disturb me.
+
+---
+
+### Rule 9: "Let's do" (Suggestions)
+**Use 吧 (ba)** at the end of a sentence to make a suggestion.
+- 我们去吧！(Wǒmen qù ba!) = Let's go!
+- 吃饭吧！(Chīfàn ba!) = Let's eat!
+- 你休息一下吧！(Nǐ xiūxi yīxià ba!) = Take a rest!
+
+---
+
+### Rule 10: "Try to do" (Attempt)
+**Use 试试 (shìshi)** = try
+- 我试试。(Wǒ shìshi.) = Let me try.
+- 你试试这个。(Nǐ shìshi zhège.) = Try this.
+
+**Use 一下 (yīxià)** = do something a bit / briefly (softens the request)
+- 你看一下。(Nǐ kàn yīxià.) = Take a look.
+- 等一下。(Děng yīxià.) = Wait a moment.
+- 我问一下。(Wǒ wèn yīxià.) = Let me ask (briefly).
+
+---
+
+## 9. TO GIVE / TO RECEIVE
+
+**Key Words:**
+- 给 (gěi) = to give
+- 送 (sòng) = to give as a gift
+- 收到 (shōudào) = to receive
+- 得到 (dédào) = to get / obtain
+- 接受 (jiēshòu) = to accept
+- 拿 (ná) = to take / to get
+
+---
+
+### Rule 1: Basic "Give"
+**Pattern:** Subject + 给 + Person + Thing
+- 我给你咖啡。(Wǒ gěi nǐ kāfēi.) = I give you coffee.
+- 他给我一本书。(Tā gěi wǒ yī běn shū.) = He gave me a book.
+- 妈妈给孩子礼物。(Māma gěi háizi lǐwù.) = Mom gives the child a gift.
+
+**CRITICAL:** Person comes **before** thing. Never put thing first.
+- ✅ 我给他钱。(Wǒ gěi tā qián.) = I give him money.
+- ❌ 我给钱他。 (Wrong order).
+
+---
+
+### Rule 2: "Give to X" (Emphasizing the receiver)
+**Pattern:** Subject + 把 + Thing + 给 + Person
+- 我把钱给他。(Wǒ bǎ qián gěi tā.) = I give the money to him.
+- 他把书给了我。(Tā bǎ shū gěi le wǒ.) = He gave the book to me.
+
+**Note:** 把 structure is used when the object (thing) is specific or already known.
+
+---
+
+### Rule 3: "Give as a gift" (送)
+**Pattern:** Subject + 送 + Person + Thing (often for gifts)
+- 我送你一个礼物。(Wǒ sòng nǐ yī gè lǐwù.) = I give you a gift.
+- 他送了我花。(Tā sòng le wǒ huā.) = He gave me flowers.
+
+**Pattern:** 把 + Thing + 送给 + Person (using 把)
+- 我把这本书送给你。(Wǒ bǎ zhè běn shū sòng gěi nǐ.) = I give this book to you (as a gift).
+
+---
+
+### Rule 4: "Receive" (收到)
+**Pattern:** Subject + 收到 + Thing
+- 我收到了你的礼物。(Wǒ shōudào le nǐ de lǐwù.) = I received your gift.
+- 他收到了一封信。(Tā shōudào le yī fēng xìn.) = He received a letter.
+
+**Question:** 你收到我的消息了吗？(Nǐ shōudào wǒ de xiāoxi le ma?) = Did you receive my message?
+
+---
+
+### Rule 5: "Get / Obtain" (得到)
+**Pattern:** Subject + 得到 + Thing
+- 我得到了一个机会。(Wǒ dédào le yī gè jīhuì.) = I got an opportunity.
+- 他得到了很多钱。(Tā dédào le hěnduō qián.) = He got a lot of money.
+
+**得到 vs. 收到:**
+- 收到 = receive (passive, like mail/messages/gifts sent by someone)
+- 得到 = obtain/acquire (active, like opportunities/results/rewards)
+
+---
+
+### Rule 6: "Accept" (接受)
+**Pattern:** Subject + 接受 + Thing
+- 我接受你的道歉。(Wǒ jiēshòu nǐ de dàoqiàn.) = I accept your apology.
+- 他接受了这个工作。(Tā jiēshòu le zhège gōngzuò.) = He accepted the job.
+
+---
+
+### Rule 7: "Take / Go get" (拿)
+**Pattern:** Subject + 去拿 + Thing
+- 我去拿咖啡。(Wǒ qù ná kāfēi.) = I'll go get the coffee.
+- 他把钱拿走了。(Tā bǎ qián ná zǒu le.) = He took the money away.
+
+**拿 vs. 得到:**
+- 拿 = physically take/go get something
+- 得到 = obtain (non-physical or result)
+
+---
+
+### Rule 8: "Give to me" vs. "Give me" (Double object order)
+**Pattern:** Verb + 给 + Person + Thing (when giving)
+- 给我一本书。(Gěi wǒ yī běn shū.) = Give me a book.
+- 送给我一个礼物。(Sòng gěi wǒ yī gè lǐwù.) = Give me a gift.
+
+**With 把:** 把 + Thing + Verb + 给 + Person
+- 把这本书给我。(Bǎ zhè běn shū gěi wǒ.) = Give this book to me.
+- 把礼物送给他。(Bǎ lǐwù sòng gěi tā.) = Give the gift to him.
+
+---
+
+### Rule 9: "Lend / Borrow" (Related to give/receive)
+**Lend (give temporarily):** 借给 (jiè gěi)
+- 我把钱借给他。(Wǒ bǎ qián jiè gěi tā.) = I lend money to him.
+
+**Borrow (receive temporarily):** 借 (jiè) / 跟...借 (gēn...jiè)
+- 我跟他借了钱。(Wǒ gēn tā jiè le qián.) = I borrowed money from him.
+- 我可以借你的书吗？(Wǒ kěyǐ jiè nǐ de shū ma?) = Can I borrow your book?
+
+---
+
+## 10. TO MAKE / TO GET
+
+**Key Words:**
+- 让 (ràng) = to make/let (cause someone)
+- 使 (shǐ) = to make/cause (formal)
+- 做 (zuò) = to make/create (physical object)
+- 制造 (zhìzào) = to manufacture
+- 得到 (dédào) = to get/obtain
+- 拿 (ná) = to get/take physically
+- 弄 (nòng) = to get/make (colloquial, do something)
+
+---
+
+### Rule 1: "Make someone do something" (Cause)
+**Use 让 (ràng)** — causal verb.
+
+**Pattern:** Subject + 让 + Person + Action
+- 他让我开心。(Tā ràng wǒ kāixīn.) = He makes me happy.
+- 老板让他加班。(Lǎobǎn ràng tā jiābān.) = The boss makes him work overtime.
+- 别让我等太久。(Bié ràng wǒ děng tài jiǔ.) = Don't make me wait too long.
+
+**Use 使 (shǐ)** — more formal, often for abstract things.
+- 这个电影使我感动。(Zhège diànyǐng shǐ wǒ gǎndòng.) = This movie makes me moved.
+- 他的故事使我很伤心。(Tā de gùshi shǐ wǒ hěn shāngxīn.) = His story makes me very sad.
+
+---
+
+### Rule 2: "Make" (Physical creation)
+**Use 做 (zuò)** for making/cooking/creating.
+
+**Pattern:** Subject + 做 + Object
+- 我做了一个蛋糕。(Wǒ zuò le yī gè dàngāo.) = I made a cake.
+- 她正在做晚饭。(Tā zhèngzài zuò wǎnfàn.) = She is making dinner.
+- 他在做什么？(Tā zài zuò shénme?) = What is he making/doing?
+
+**Use 制造 (zhìzào)** for manufacturing (formal/production).
+- 这家工厂制造汽车。(Zhè jiā gōngchǎng zhìzào qìchē.) = This factory makes cars.
+
+**Use 煮 (zhǔ)** for cooking (specifically boiling/cooking).
+- 他煮了面条。(Tā zhǔ le miàntiáo.) = He made noodles (boiled).
+
+---
+
+### Rule 3: "Get" (Obtain)
+**Use 得到 (dédào)** for obtaining (non-physical or result).
+
+**Pattern:** Subject + 得到 + Object
+- 我得到了这份工作。(Wǒ dédào le zhè fèn gōngzuò.) = I got this job.
+- 他得到了很多支持。(Tā dédào le hěnduō zhīchí.) = He got a lot of support.
+
+**Use 拿 (ná)** for physically taking/getting.
+- 我去拿快递。(Wǒ qù ná kuàidì.) = I'll go get the package.
+- 他从包里拿了一本书。(Tā cóng bāo lǐ ná le yī běn shū.) = He took a book out of the bag.
+
+**Use 取 (qǔ)** for picking up/collecting (formal).
+- 我去取钱。(Wǒ qù qǔ qián.) = I'll go withdraw/get money.
+- 请取票。(Qǐng qǔ piào.) = Please pick up the ticket.
+
+---
+
+### Rule 4: "Get someone to do something" (Request)
+**Use 让 (ràng)** or 叫 (jiào) or 请 (qǐng).
+
+**Pattern:** Subject + 让/叫/请 + Person + Action
+- 我叫他来了。(Wǒ jiào tā lái le.) = I got him to come.
+- 请老师解释一下。(Qǐng lǎoshī jiěshì yīxià.) = Get the teacher to explain.
+- 我让他帮我。(Wǒ ràng tā bāng wǒ.) = I got him to help me.
+
+---
+
+### Rule 5: "Make it + Adjective" (Result)
+**Pattern:** 把 + Object + Verb + Adjective/Result
+
+- 我把房间弄干净了。(Wǒ bǎ fángjiān nòng gānjìng le.) = I made the room clean. (I got the room clean).
+- 你把饭做好了吗？(Nǐ bǎ fàn zuò hǎo le ma?) = Did you make the meal ready?
+- 他把我说哭了。(Tā bǎ wǒ shuō kū le.) = He made me cry (by talking).
+
+**Use 弄 (nòng)** colloquially for "make/get" something into a state.
+- 我弄错了。(Wǒ nòng cuò le.) = I got it wrong / I made a mistake.
+- 她弄坏了手机。(Tā nòng huài le shǒujī.) = She broke the phone. (She made it broken).
+
+---
+
+### Rule 6: "Make a decision"
+**Pattern:** 做 + 决定 (zuò juédìng) = make a decision
+- 我做了决定。(Wǒ zuò le juédìng.) = I made a decision.
+
+**Make a promise:** 做 + 承诺 (zuò chéngnuò) = make a promise
+- 他做了一个承诺。(Tā zuò le yī gè chéngnuò.) = He made a promise.
+
+---
+
+### Rule 7: "Get + past participle" (Get it done)
+**Use 把...弄好 (bǎ...nòng hǎo)** = get it done.
+- 我把工作弄好了。(Wǒ bǎ gōngzuò nòng hǎo le.) = I got the work done.
+- 你得把作业做完。(Nǐ děi bǎ zuòyè zuò wán.) = You need to get the homework done.
+
+**Use 让...被 (ràng...bèi)** for "get it done by someone else"
+- 我让人修好了手机。(Wǒ ràng rén xiū hǎo le shǒujī.) = I got someone to fix the phone.
+
+---
+
+### Rule 8: "Make a phone call" (Idiomatic)
+**Pattern:** 打电话 (dǎ diànhuà) = make a phone call (literally "hit phone")
+- 我给他打电话。(Wǒ gěi tā dǎ diànhuà.) = I call him. (I make a call to him).
+
+---
+
+## 11. FACT vs. OPINION
+
+**Key Words:**
+- 是 (shì) = is (fact/identity)
+- 是...的 (shì...de) = fact-emphasizing construction
+- 觉得 (juéde) = feel/think (opinion)
+- 认为 (rènwéi) = believe/consider (stronger opinion)
+- 以为 (yǐwéi) = mistakenly think (opinion that may be wrong)
+- 看起来 (kàn qǐlái) = looks like / seems (appearance-based opinion)
+
+---
+
+### Rule 1: Fact — Use 是 (Noun = Noun)
+**Use 是** ONLY when A = B (both are nouns or noun phrases).
+
+**Pattern:** A + 是 + B
+- 这是水。(Zhè shì shuǐ.) = This is water. (Objective fact).
+- 我是老师。(Wǒ shì lǎoshī.) = I am a teacher. (Fact/identity).
+- 他是中国人。(Tā shì Zhōngguórén.) = He is Chinese. (Fact of nationality).
+
+**Negative:** 不是 = is not
+- 这不是水。(Zhè bù shì shuǐ.) = This is not water.
+- 我不是老师。(Wǒ bù shì lǎoshī.) = I am not a teacher.
+
+---
+
+### Rule 2: Fact — Use 是...的 for factual details about past/completed actions
+**Use 是...的 (shì...de)** when you want to emphasize **specific facts** about an action: time, place, manner, or person.
+
+**Pattern:** Subject + 是 + Time/Place/Manner + Verb + 的
+- 我是昨天来的。(Wǒ shì zuótiān lái de.) = I came yesterday. (Fact: It was yesterday).
+- 他是在北京出生的。(Tā shì zài Běijīng chūshēng de.) = He was born in Beijing. (Fact: Place).
+- 我是坐飞机去的。(Wǒ shì zuò fēijī qù de.) = I went by plane. (Fact: Manner).
+- 是她告诉我的。(Shì tā gàosu wǒ de.) = It was she who told me. (Fact: Person).
+
+**Question form:** 你是昨天来的吗？(Nǐ shì zuótiān lái de ma?) = Did you come yesterday? (Confirming the fact).
+
+**Key difference:**
+- 我去了北京。(Wǒ qù le Běijīng.) = I went to Beijing. (Stating the action).
+- 我是昨天去的北京。(Wǒ shì zuótiān qù de Běijīng.) = I went to Beijing yesterday. (Emphasizing the TIME—it was yesterday).
+
+---
+
+### Rule 3: Opinion — Use 觉得 (juéde) = feel / think (subjective)
+**Use 觉得** for personal feelings, subjective opinions, and casual thoughts.
+
+**Pattern:** Subject + 觉得 + Clause / Adjective / Observation
+- 我觉得水很热。(Wǒ juéde shuǐ hěn rè.) = I think the water is hot. (My subjective feeling).
+- 他觉得这个电影好看。(Tā juéde zhège diànyǐng hǎokàn.) = He thinks this movie is good.
+- 我觉得你说得对。(Wǒ juéde nǐ shuō de duì.) = I think you are right.
+
+**Negative:** 不觉得 = don't think / don't feel
+- 我不觉得水很热。(Wǒ bù juéde shuǐ hěn rè.) = I don't think the water is hot.
+- 他不觉得这个电影好看。(Tā bù juéde zhège diànyǐng hǎokàn.) = He doesn't think this movie is good.
+
+**Question:** 你觉得怎么样？(Nǐ juéde zěnmeyàng?) = What do you think? / How do you feel about it?
+
+---
+
+### Rule 4: Strong Opinion — Use 认为 (rènwéi) = believe / consider
+**Use 认为** for more formal, strongly held opinions or beliefs (closer to "I believe" or "I consider").
+
+**Pattern:** Subject + 认为 + Clause
+- 我认为这个问题很重要。(Wǒ rènwéi zhège wèntí hěn zhòngyào.) = I believe this issue is very important.
+- 他认为我们应该去。(Tā rènwéi wǒmen yīnggāi qù.) = He believes we should go.
+- 大多数人都认为他是对的。(Dàduōshù rén dōu rènwéi tā shì duì de.) = Most people believe he is right.
+
+**Difference:**
+- 觉得 (juéde) = casual, "I think/feel" (less certain)
+- 认为 (rènwéi) = formal, "I believe/consider" (more certain, reasoned)
+
+---
+
+### Rule 5: Mistaken Opinion — Use 以为 (yǐwéi) = mistakenly think
+**Use 以为** when you thought something was true but later found out it was wrong.
+
+**Pattern:** Subject + 以为 + Clause
+- 我以为你是老师。(Wǒ yǐwéi nǐ shì lǎoshī.) = I thought you were a teacher. (But you're not).
+- 他以为我走了。(Tā yǐwéi wǒ zǒu le.) = He thought I left. (But I didn't).
+- 我以为今天下雨。(Wǒ yǐwéi jīntiān xiàyǔ.) = I thought it would rain today. (But it didn't).
+
+**Negative:** 没以为 (méi yǐwéi) = didn't think / didn't realize
+- 我没以为你会来。(Wǒ méi yǐwéi nǐ huì lái.) = I didn't think you would come. (But you did).
+
+---
+
+### Rule 6: Appearance-based Opinion — Use 看起来 (kàn qǐlái) = looks like / seems
+**Pattern:** Subject + 看起来 + Adjective / Clause
+- 她看起来很开心。(Tā kàn qǐlái hěn kāixīn.) = She looks very happy.
+- 这个菜看起来很好吃。(Zhège cài kàn qǐlái hěn hǎochī.) = This dish looks delicious.
+- 看起来要下雨了。(Kàn qǐlái yào xiàyǔ le.) = It looks like it's going to rain.
+
+**Other perception verbs:**
+- 听起来 (tīng qǐlái) = sounds like
+  - 听起来不错。(Tīng qǐlái bùcuò.) = Sounds good.
+- 尝起来 (cháng qǐlái) = tastes like
+  - 这个尝起来很甜。(Zhège cháng qǐlái hěn tián.) = This tastes sweet.
+- 闻起来 (wén qǐlái) = smells like
+  - 花香闻起来很好。(Huā xiāng wén qǐlái hěn hǎo.) = The flowers smell nice.
+
+---
+
+### Rule 7: Fact vs. Opinion with Adjectives
+
+**Key distinction:** When you state an adjective without qualification, it's often treated as a **factual observation**. When you use 觉得, it's clearly **opinion**.
+
+| Fact/Observation | Opinion |
+| :--- | :--- |
+| 水很热。(Shuǐ hěn rè.) = The water is hot. (General observation). | 我觉得水很热。(Wǒ juéde shuǐ hěn rè.) = I think the water is hot. (My personal feeling). |
+| 她很漂亮。(Tā hěn piàoliang.) = She is pretty. (Factual statement). | 我觉得她很漂亮。(Wǒ juéde tā hěn piàoliang.) = I think she is pretty. (My opinion). |
+| 这个电影好看。(Zhège diànyǐng hǎokàn.) = This movie is good. (General statement). | 我觉得这个电影好看。(Wǒ juéde zhège diànyǐng hǎokàn.) = I think this movie is good. (My subjective view). |
+
+---
+
+### Rule 8: Asking for Fact vs. Asking for Opinion
+
+**Asking for a fact:**
+- 这是你的书吗？(Zhè shì nǐ de shū ma?) = Is this your book? (Yes/no fact).
+- 你是北京人吗？(Nǐ shì Běijīng rén ma?) = Are you from Beijing? (Fact of origin).
+- 他来了吗？(Tā lái le ma?) = Did he come? (Fact of action).
+
+**Asking for an opinion:**
+- 你觉得这个怎么样？(Nǐ juéde zhège zěnmeyàng?) = What do you think of this?
+- 你认为谁更好？(Nǐ rènwéi shuí gèng hǎo?) = Who do you believe is better?
+- 看起来怎么样？(Kàn qǐlái zěnmeyàng?) = How does it look?
+
+---
+
+### Rule 9: Mixed Fact + Opinion in One Sentence
+
+**Pattern:** 我觉得 + [Fact-Clause] + 是 + [Fact/Opinion]
+- 我觉得水是热的。(Wǒ juéde shuǐ shì rè de.) = I think the water is hot. (Using 是...的 for factual emphasis within opinion).
+- 我认为他是最好的老师。(Wǒ rènwéi tā shì zuì hǎo de lǎoshī.) = I believe he is the best teacher. (Opinion + factual statement).
+
+**Pattern:** 事实是... (shìshí shì...) = the fact is...
+- 事实是，他不在家。(Shìshí shì, tā bù zài jiā.) = The fact is, he is not at home. (Contrasts with opinion).
+- 事实胜于雄辩。(Shìshí shèng yú xióngbiàn.) = Facts speak louder than words. (Idiom).
+
+---
+
+### Rule 10: Emphasizing Fact with 确实 (quèshí) = indeed / certainly
+
+**Use 确实** to emphasize that something is a fact.
+- 他确实来了。(Tā quèshí lái le.) = He indeed came. (Confirming fact).
+- 这确实是我的书。(Zhè quèshí shì wǒ de shū.) = This is indeed my book.
+
+**Emphasizing Opinion with 真的 (zhēn de) = really**
+- 我真的觉得很好。(Wǒ zhēn de juéde hěn hǎo.) = I really think it's good.
+- 真的吗？(Zhēn de ma?) = Really? (Questioning a fact or opinion).
+
+---
+
+## FINAL COMPLETE SUMMARY TABLE (All 11 Categories)
+
+| Category | Key Word(s) | Core Grammar Rule | Example |
+| :--- | :--- | :--- | :--- |
+| **What is?** | 什么 (shénme) | Place 什么 where answer noun goes | 这是什么？ |
+| **How feel?** | 很 + Adj / 喜欢 / 讨厌 | No 是 for adjectives. 不 for negatives. | 我很开心。我不喜欢。 |
+| **Where?** | 在 (zài) + Place | Place MUST go BEFORE action verb | 我在家吃饭。 |
+| **When?** | Time word | Time BEFORE verb (beginning or after subject) | 明天我去北京。 |
+| **Who?** | 谁 (shuí) | Place 谁 where subject or object goes | 谁来了？那是谁？ |
+| **Whose?** | 的 (de) | Owner + 的 + Object | 这是谁的书？ |
+| **Whom?** | 给 + 谁 / 对 + 谁 | Receiver BEFORE main verb | 你给谁打电话？ |
+| **To do / Not do** | 不 / 没 / 别 / 请 | 不 (present), 没 (past), 别 (warning) | 我不去。别去！请坐。 |
+| **Give / Receive** | 给 / 收到 / 得到 | 给 + Person + Thing (person first!) | 我给你咖啡。我收到礼物。 |
+| **Make / Get** | 让 / 做 / 得到 / 拿 | 让 + Person + Action (cause) | 他让我开心。我做蛋糕。 |
+| **Fact vs Opinion** | 是 / 觉得 / 认为 / 以为 | 是 for facts/nouns. 觉得 for opinions. | 这是水。我觉得很热。 |
+
+---
+
+That is the **complete, exhaustive, no-shortcuts grammar rulebook** for all 11 categories. Every pattern, every exception, every word order rule, every nuance.
+
+Is there **anything** in this list you want me to expand on or give more examples for? I'll go even deeper if you need it.
