@@ -1,0 +1,513 @@
+You want the **most common, high-frequency Chinese characters and words** for daily survival—the ones that actually appear in 80% of everyday conversations. No fluff, no rare literary characters. 
+
+I’ve organized this into **tiers of importance** and **real-life scenarios**. Master these, and you can survive anything from ordering food to asking for directions to making small talk.
+
+---
+
+## TIER 1: The "Golden 50" (Absolute Survival)
+These 50 characters/words appear in nearly **every single Chinese sentence**. Learn these first—they are your grammatical skeleton.
+
+| Chinese | Pinyin | English | Notes |
+| :--- | :--- | :--- | :--- |
+| 我 | wǒ | I / me | |
+| 你 | nǐ | You (singular) | |
+| 他/她 | tā | He / She | Same pronunciation! |
+| 我们 | wǒmen | We / us | |
+| 你们 | nǐmen | You (plural) | |
+| 他们 | tāmen | They / them | |
+| 这 | zhè | This | |
+| 那 | nà | That | |
+| 哪 | nǎ | Which / Where | |
+| 是 | shì | To be (for nouns) | 我是老师 = I am a teacher |
+| 有 | yǒu | To have / There is | 我有钱 = I have money |
+| 在 | zài | At / In / On (location) | 在家 = at home |
+| 去 | qù | To go | 去学校 = go to school |
+| 来 | lái | To come | 来我家 = come to my home |
+| 吃 | chī | To eat | |
+| 喝 | hē | To drink | |
+| 要 | yào | To want / Will | 我要咖啡 = I want coffee |
+| 想 | xiǎng | Would like / Think | 我想去 = I'd like to go |
+| 做 | zuò | To do / Make | 做什么？= What to do? |
+| 看 | kàn | To see / Watch / Read | 看书 = read a book |
+| 说 | shuō | To speak / Say | 说中文 = speak Chinese |
+| 听 | tīng | To listen / Hear | |
+| 走 | zǒu | To walk / Leave | 走吧 = Let's go |
+| 来 | lái | To come | |
+| 回 | huí | To return / Go back | 回家 = go home |
+| 知道 | zhīdào | To know | 我知道 = I know |
+| 觉得 | juéde | To think / Feel | 我觉得 = I think/feel |
+| 喜欢 | xǐhuān | To like | |
+| 讨厌 | tǎoyàn | To hate (strong) | Use carefully! |
+| 高兴 | gāoxìng | Happy / Glad | |
+| 生气 | shēngqì | Angry | |
+| 累 | lèi | Tired | |
+| 饿 | è | Hungry | |
+| 渴 | kě | Thirsty | |
+| 好 | hǎo | Good / Okay | |
+| 不 | bù | Not | 不去 = not going |
+| 没 | méi | Not (past) / Don't have | 没去 = didn't go |
+| 很 | hěn | Very (neutral link) | 很好 = very good |
+| 太 | tài | Too (excessive) | 太贵 = too expensive |
+| 非常 | fēicháng | Very (formal) | |
+| 真 | zhēn | Really | 真好 = really good |
+| 对 | duì | Correct / Toward | 对不对？= Right or wrong? |
+| 错 | cuò | Wrong | 错了 = it's wrong |
+| 行 | xíng | Okay / Can do | 行吗？= Is it okay? |
+| 可以 | kěyǐ | Can / May | 可以吗？= May I? |
+| 应该 | yīnggāi | Should | 应该去 = should go |
+| 能 | néng | Can / Able to | 能来吗？= Can you come? |
+| 会 | huì | Know how to / Will | 会说中文 = can speak Chinese |
+| 和 | hé | And (for nouns) | 我和你 = you and me |
+| 但是 | dànshì | But | |
+| 所以 | suǒyǐ | So / Therefore | |
+| 因为 | yīnwèi | Because | |
+| 吗 | ma | Question particle | 好吗？= Okay? |
+| 了 | le | Past/Change particle | 吃了 = ate; 好了 = done |
+
+---
+
+## TIER 2: Daily Verbs & Actions
+These are the **action words** you will use every single day.
+
+| Chinese | Pinyin | English | Example Sentence |
+| :--- | :--- | :--- | :--- |
+| 买 | mǎi | To buy | 我买咖啡 = I buy coffee |
+| 卖 | mài | To sell | 这里卖什么？= What is sold here? |
+| 找 | zhǎo | To look for | 找工作 = look for a job |
+| 找钱 | zhǎo qián | To give change | 不用找钱 = no need for change |
+| 问 | wèn | To ask | 我问一下 = let me ask |
+| 回答 | huídá | To answer / Reply | |
+| 告诉 | gàosu | To tell | 告诉我 = tell me |
+| 叫 | jiào | To call / To be called | 我叫... = I'm called... |
+| 等 | děng | To wait | 等一下 = wait a moment |
+| 坐 | zuò | To sit / To take (transport) | 坐车 = take a car/bus |
+| 站 | zhàn | To stand | |
+| 睡觉 | shuìjiào | To sleep | 我要睡觉 = I want to sleep |
+| 起床 | qǐchuáng | To get up | 几点起床？= What time get up? |
+| 上班 | shàngbān | To go to work | 上班了 = (I'm) at work |
+| 下班 | xiàbān | To finish work | 下班了 = off work |
+| 吃饭 | chīfàn | To eat (meal) | 吃饭了吗？= Have you eaten? |
+| 喝水 | hē shuǐ | To drink water | |
+| 做饭 | zuòfàn | To cook | |
+| 洗澡 | xǐzǎo | To shower | |
+| 洗衣服 | xǐ yīfu | To wash clothes | |
+| 看手机 | kàn shǒujī | To look at phone | 别一直看手机 = don't keep looking at phone |
+| 打电话 | dǎ diànhuà | To make a phone call | 我给你打电话 = I'll call you |
+| 发短信 | fā duǎnxìn | To send a text | |
+| 上网 | shàngwǎng | To go online | |
+| 付钱 | fù qián | To pay | |
+| 花 (钱) | huā (qián) | To spend (money) | 花了很多钱 = spent a lot |
+| 用 | yòng | To use | 用中文说 = say it in Chinese |
+| 拿 | ná | To take / Get | 我拿一下 = let me get it |
+| 给 | gěi | To give | 给我 = give me |
+| 帮 | bāng | To help | 帮我一下 = help me a moment |
+| 等 | děng | To wait | |
+| 让 | ràng | To let / Make (cause) | 让我去 = let me go |
+
+---
+
+## TIER 3: Essential Nouns (People, Places, Things)
+
+### People & Relationships
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 人 | rén | Person / People |
+| 朋友 | péngyou | Friend |
+| 家人 | jiārén | Family members |
+| 爸爸 | bàba | Dad |
+| 妈妈 | māma | Mom |
+| 哥哥 | gēge | Older brother |
+| 姐姐 | jiějie | Older sister |
+| 弟弟 | dìdi | Younger brother |
+| 妹妹 | mèimei | Younger sister |
+| 孩子 | háizi | Child / Children |
+| 老公 | lǎogōng | Husband (colloquial) |
+| 老婆 | lǎopó | Wife (colloquial) |
+| 老板 | lǎobǎn | Boss |
+| 老师 | lǎoshī | Teacher |
+| 医生 | yīshēng | Doctor |
+| 服务员 | fúwùyuán | Waiter / Waitress |
+
+---
+
+### Places
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 家 | jiā | Home / Family |
+| 学校 | xuéxiào | School |
+| 公司 | gōngsī | Company / Office |
+| 医院 | yīyuàn | Hospital |
+| 商店 | shāngdiàn | Shop / Store |
+| 超市 | chāoshì | Supermarket |
+| 市场 | shìchǎng | Market |
+| 饭店 | fàndiàn | Restaurant / Hotel |
+| 宾馆 | bīnguǎn | Hotel (better quality) |
+| 银行 | yínháng | Bank |
+| 邮局 | yóujú | Post office |
+| 车站 | chēzhàn | Bus/train station |
+| 机场 | jīchǎng | Airport |
+| 厕所 | cèsuǒ | Toilet / Bathroom |
+| 房间 | fángjiān | Room |
+| 附近 | fùjìn | Nearby / Vicinity |
+
+---
+
+### Food & Drink
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 水 | shuǐ | Water |
+| 咖啡 | kāfēi | Coffee |
+| 茶 | chá | Tea |
+| 牛奶 | niúnǎi | Milk |
+| 啤酒 | píjiǔ | Beer |
+| 米饭 | mǐfàn | Rice (cooked) |
+| 面条 | miàntiáo | Noodles |
+| 面包 | miànbāo | Bread |
+| 肉 | ròu | Meat |
+| 鱼 | yú | Fish |
+| 鸡 | jī | Chicken |
+| 鸡蛋 | jīdàn | Egg |
+| 菜 | cài | Dish / Vegetable / Food |
+| 水果 | shuǐguǒ | Fruit |
+| 苹果 | píngguǒ | Apple |
+| 香蕉 | xiāngjiāo | Banana |
+| 糖 | táng | Sugar / Candy |
+| 盐 | yán | Salt |
+| 辣 | là | Spicy |
+| 甜 | tián | Sweet |
+| 咸 | xián | Salty |
+
+---
+
+### Time & Date
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 今天 | jīntiān | Today |
+| 明天 | míngtiān | Tomorrow |
+| 昨天 | zuótiān | Yesterday |
+| 现在 | xiànzài | Now |
+| 早上 | zǎoshang | Morning |
+| 下午 | xiàwǔ | Afternoon |
+| 晚上 | wǎnshang | Evening / Night |
+| 今天早上 | jīntiān zǎoshang | This morning |
+| 年 | nián | Year |
+| 月 | yuè | Month |
+| 日 | rì | Day |
+| 星期 | xīngqī | Week |
+| 星期一 | xīngqīyī | Monday |
+| ... | ... | (Tuesday=二, etc.) |
+| 周末 | zhōumò | Weekend |
+| 分钟 | fēnzhōng | Minute |
+| 小时 | xiǎoshí | Hour |
+| 点 | diǎn | O'clock |
+| 半 | bàn | Half (e.g. 8:30 = 八点半) |
+| 之前 | zhīqián | Before |
+| 之后 | zhīhòu | After |
+| 以后 | yǐhòu | Later / In the future |
+| 以前 | yǐqián | Before / In the past |
+
+---
+
+### Numbers (Absolutely Essential)
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 零 | líng | Zero |
+| 一 | yī | One |
+| 二 | èr | Two |
+| 三 | sān | Three |
+| 四 | sì | Four |
+| 五 | wǔ | Five |
+| 六 | liù | Six |
+| 七 | qī | Seven |
+| 八 | bā | Eight |
+| 九 | jiǔ | Nine |
+| 十 | shí | Ten |
+| 百 | bǎi | Hundred |
+| 千 | qiān | Thousand |
+| 万 | wàn | Ten thousand |
+| 两 | liǎng | Two (used with measure words) |
+| 几 | jǐ | How many (under 10) |
+| 多少 | duōshao | How many/much (any number) |
+
+---
+
+## TIER 4: Essential Adjectives
+
+| Chinese | Pinyin | English | Notes |
+| :--- | :--- | :--- | :--- |
+| 大 | dà | Big / Large | |
+| 小 | xiǎo | Small / Little | |
+| 多 | duō | Many / Much | |
+| 少 | shǎo | Few / Little | |
+| 高 | gāo | Tall / High | |
+| 矮 | ǎi | Short (height) | |
+| 长 | cháng | Long | |
+| 短 | duǎn | Short (length) | |
+| 热 | rè | Hot (weather/food) | |
+| 冷 | lěng | Cold (weather) | |
+| 快 | kuài | Fast / Quick | 快点儿 = hurry up |
+| 慢 | màn | Slow | |
+| 远 | yuǎn | Far | |
+| 近 | jìn | Near | |
+| 难 | nán | Difficult | |
+| 容易 | róngyì | Easy | |
+| 便宜 | piányi | Cheap | |
+| 贵 | guì | Expensive | |
+| 好 | hǎo | Good | |
+| 坏 | huài | Bad / Broken | 坏了 = broken |
+| 新 | xīn | New | |
+| 旧 | jiù | Old (not new) | |
+| 干净 | gānjìng | Clean | |
+| 脏 | zāng | Dirty | |
+| 累 | lèi | Tired | |
+| 忙 | máng | Busy | |
+| 有钱 | yǒuqián | Rich | |
+| 没钱 | méiqián | Poor / Broke | |
+
+---
+
+## TIER 5: Survival Phrases (By Situation)
+
+### Greetings & Politeness
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 你好 | nǐ hǎo | Hello |
+| 你好吗？ | nǐ hǎo ma? | How are you? |
+| 我很好 | wǒ hěn hǎo | I'm fine |
+| 谢谢 | xièxie | Thank you |
+| 不客气 | bù kèqi | You're welcome |
+| 对不起 | duìbuqǐ | Sorry |
+| 没关系 | méi guānxi | It's okay / No problem |
+| 请 | qǐng | Please |
+| 再见 | zàijiàn | Goodbye |
+| 拜拜 | bàibài | Bye-bye (casual) |
+| 好久不见 | hǎojiǔ bùjiàn | Long time no see |
+
+---
+
+### Asking for Help
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 请问 | qǐngwèn | Excuse me (asking a question) |
+| 对不起 | duìbuqǐ | Excuse me (bumping into someone) |
+| 帮帮我 | bāng bāng wǒ | Help me |
+| 我迷路了 | wǒ mílù le | I'm lost |
+| 可以帮我吗？ | kěyǐ bāng wǒ ma? | Can you help me? |
+| 你会说中文吗？ | nǐ huì shuō zhōngwén ma? | Can you speak Chinese? |
+| 我说中文说得不好 | wǒ shuō zhōngwén shuō de bù hǎo | I don't speak Chinese well |
+| 请慢一点 | qǐng màn yīdiǎn | Please speak slower |
+| 请再说一遍 | qǐng zài shuō yībiàn | Please say it again |
+| 我听不懂 | wǒ tīng bù dǒng | I don't understand |
+| 你明白吗？ | nǐ míngbai ma? | Do you understand? |
+| 我明白 | wǒ míngbai | I understand |
+
+---
+
+### Directions
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 在哪里？ | zài nǎlǐ? | Where is it? |
+| 在哪儿？ | zài nǎr? | Where is it? (casual) |
+| 怎么去？ | zěnme qù? | How to get there? |
+| 左 | zuǒ | Left |
+| 右 | yòu | Right |
+| 前面 | qiánmiàn | In front |
+| 后面 | hòumiàn | Behind |
+| 旁边 | pángbiān | Next to |
+| 对面 | duìmiàn | Opposite |
+| 直走 | zhí zǒu | Go straight |
+| 拐弯 | guǎiwān | Turn (corner) |
+| 地铁站 | dìtiě zhàn | Subway station |
+| 公交车站 | gōngjiāo chē zhàn | Bus stop |
+| 远不远？ | yuǎn bù yuǎn? | Is it far? |
+| 走路需要多久？ | zǒulù xūyào duōjiǔ? | How long does it take to walk? |
+
+---
+
+### Shopping & Prices
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 多少钱？ | duōshao qián? | How much is it? |
+| 太贵了 | tài guì le | Too expensive |
+| 便宜点 | piányi diǎn | A bit cheaper (bargaining) |
+| 打个折 | dǎ gè zhé | Give a discount |
+| 这个 | zhège | This one |
+| 那个 | nàge | That one |
+| 另一个 | lìng yī gè | Another one |
+| 大小 | dàxiǎo | Size |
+| 颜色 | yánsè | Color |
+| 刷卡 | shuā kǎ | Swipe card / Pay by card |
+| 现金 | xiànjīn | Cash |
+| 微信 | wēixìn | WeChat (payment) |
+| 支付宝 | zhīfùbǎo | Alipay |
+| 发票 | fāpiào | Receipt / Invoice |
+| 有...吗？ | yǒu...ma? | Do you have...? |
+| 可以试一下吗？ | kěyǐ shì yīxià ma? | Can I try it? |
+
+---
+
+### Ordering Food
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 我要这个 | wǒ yào zhège | I want this one |
+| 点菜 | diǎn cài | Order food |
+| 菜单 | càidān | Menu |
+| 推荐 | tuījiàn | Recommend |
+| 辣吗？ | là ma? | Is it spicy? |
+| 不要辣 | bù yào là | No spice |
+| 不要香菜 | bù yào xiāngcài | No cilantro |
+| 不要葱 | bù yào cōng | No green onion |
+| 喝水 | hē shuǐ | Drink water |
+| 买单 | mǎidān | Pay the bill / Check please |
+| 打包 | dǎbāo | Takeaway / Wrap it up |
+| 好吃 | hǎochī | Delicious |
+| 不好吃 | bù hǎochī | Not delicious |
+| 我吃饱了 | wǒ chī bǎo le | I'm full |
+| 筷子 | kuàizi | Chopsticks |
+| 勺子 | sháozi | Spoon |
+| 盘子 | pánzi | Plate |
+| 杯子 | bēizi | Cup/glass |
+
+---
+
+### Transportation
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 公交车 | gōngjiāo chē | Bus |
+| 地铁 | dìtiě | Subway/Metro |
+| 出租车 | chūzūchē | Taxi |
+| 打车 | dǎ chē | Take a taxi |
+| 骑自行车 | qí zìxíngchē | Ride a bike |
+| 走路 | zǒulù | Walk |
+| 开车 | kāichē | Drive |
+| 坐地铁 | zuò dìtiě | Take the subway |
+| 几号？ | jǐ hào? | Which number? (bus/train) |
+| 去哪里？ | qù nǎlǐ? | Where to? (to a taxi driver) |
+| 到... | dào... | To (destination) |
+| 下车 | xià chē | Get off (vehicle) |
+| 上车 | shàng chē | Get on (vehicle) |
+| 远不远？ | yuǎn bù yuǎn? | Is it far? |
+| 多久？ | duō jiǔ? | How long? (time) |
+
+---
+
+### Health & Emergencies
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 救命！ | jiùmìng! | Help! (emergency) |
+| 着火了！ | zháohuǒ le! | Fire! |
+| 警察 | jǐngchá | Police |
+| 医院 | yīyuàn | Hospital |
+| 药店 | yàodiàn | Pharmacy |
+| 我不舒服 | wǒ bù shūfu | I don't feel well |
+| 我生病了 | wǒ shēngbìng le | I'm sick |
+| 我的...痛 | wǒ de...tòng | My ... hurts |
+| 头疼 | tóuténg | Headache |
+| 肚子疼 | dùzi téng | Stomachache |
+| 发烧 | fāshāo | Have a fever |
+| 感冒 | gǎnmào | Have a cold |
+| 咳嗽 | késou | Cough |
+| 药 | yào | Medicine |
+| 需要医生 | xūyào yīshēng | Need a doctor |
+| 叫救护车 | jiào jiùhùchē | Call an ambulance |
+
+---
+
+### Common Daily Interactions
+| Chinese | Pinyin | English |
+| :--- | :--- | :--- |
+| 好的 | hǎo de | Okay / Got it |
+| 没问题 | méi wèntí | No problem |
+| 可以 | kěyǐ | Can / May / Okay |
+| 不行 | bù xíng | Not okay / Can't |
+| 没事 | méi shì | It's nothing / Never mind |
+| 随便 | suíbiàn | Whatever / Up to you |
+| 不好意思 | bù hǎoyìsi | Excuse me / Feel embarrassed |
+| 辛苦了 | xīnkǔ le | You've worked hard (appreciation) |
+| 慢慢来 | màn màn lái | Take it easy / No rush |
+| 等一下 | děng yīxià | Wait a moment |
+| 马上 | mǎshàng | Right away / Immediately |
+| 一会儿 | yīhuìr | In a while / A moment |
+| 有点 | yǒudiǎn | A little / A bit |
+| 特别 | tèbié | Especially / Very |
+| 大概 | dàgài | Approximately / Probably |
+| 可能 | kěnéng | Maybe / Possibly |
+| 真的吗？ | zhēn de ma? | Really? |
+| 开玩笑吧？ | kāi wánxiào ba? | Are you kidding? |
+
+---
+
+## TIER 6: The 100 Most Common Characters (Frequency List)
+
+These are the **most frequently occurring characters** in written and spoken Chinese. If you learn only 100 characters, learn these:
+
+| # | Character | Pinyin | Meaning | # | Character | Pinyin | Meaning |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 的 | de | Possessive particle | 51 | 日 | rì | Day / Sun |
+| 2 | 一 | yī | One | 52 | 要 | yào | Want / Will |
+| 3 | 是 | shì | To be | 53 | 你 | nǐ | You |
+| 4 | 不 | bù | Not | 54 | 为 | wèi | For / Because |
+| 5 | 了 | le | Past/change particle | 55 | 他 | tā | He |
+| 6 | 人 | rén | Person | 56 | 好 | hǎo | Good |
+| 7 | 我 | wǒ | I | 57 | 看 | kàn | See / Read |
+| 8 | 在 | zài | At / In | 58 | 去 | qù | Go |
+| 9 | 有 | yǒu | Have / There is | 59 | 生 | shēng | Life / Birth |
+| 10 | 这 | zhè | This | 60 | 自 | zì | Self / From |
+| 11 | 们 | men | Plural marker | 61 | 成 | chéng | Become |
+| 12 | 来 | lái | Come | 62 | 会 | huì | Can / Will |
+| 13 | 大 | dà | Big | 63 | 下 | xià | Down / Next |
+| 14 | 上 | shàng | Up / On | 64 | 她 | tā | She |
+| 15 | 到 | dào | To / Arrive | 65 | 分 | fēn | Divide / Minute |
+| 16 | 个 | gè | Measure word | 66 | 过 | guò | Pass / Past |
+| 17 | 国 | guó | Country | 67 | 与 | yǔ | And (formal) |
+| 18 | 和 | hé | And / With | 68 | 对 | duì | Correct / Toward |
+| 19 | 以 | yǐ | Use / By | 69 | 小 | xiǎo | Small |
+| 20 | 说 | shuō | Speak | 70 | 时 | shí | Time |
+| 21 | 中 | zhōng | Middle / In | 71 | 作 | zuò | Do / Make |
+| 22 | 地 | de | Adverbial particle | 72 | 样 | yàng | Shape / Way |
+| 23 | 也 | yě | Also | 73 | 者 | zhě | Person (suffix) |
+| 24 | 你 | nǐ | You | 74 | 天 | tiān | Day / Sky |
+| 25 | 年 | nián | Year | 75 | 出 | chū | Exit / Go out |
+| 26 | 为 | wèi | For / Because | 76 | 才 | cái | Just now / Only |
+| 27 | 发 | fā | Send / Develop | 77 | 家 | jiā | Home / Family |
+| 28 | 生 | shēng | Life / Birth | 78 | 法 | fǎ | Law / Method |
+| 29 | 作 | zuò | Do / Make | 79 | 面 | miàn | Face / Noodle |
+| 30 | 学 | xué | Learn / Study | 80 | 心 | xīn | Heart / Mind |
+| 31 | 用 | yòng | Use | 81 | 分 | fēn | Minute / Divide |
+| 32 | 时 | shí | Time | 82 | 现 | xiàn | Now / Appear |
+| 33 | 把 | bǎ | Object marker | 83 | 起 | qǐ | Rise / Begin |
+| 34 | 道 | dào | Way / Say | 84 | 入 | rù | Enter |
+| 35 | 家 | jiā | Home / Family | 85 | 得 | de | -able / Must |
+| 36 | 他 | tā | He | 86 | 知 | zhī | Know |
+| 37 | 去 | qù | Go | 87 | 已 | yǐ | Already |
+| 38 | 大 | dà | Big | 88 | 发 | fā | Send / Develop |
+| 39 | 那 | nà | That | 89 | 水 | shuǐ | Water |
+| 40 | 要 | yào | Want / Will | 90 | 做 | zuò | Do / Make |
+| 41 | 这 | zhè | This | 91 | 让 | ràng | Let / Make |
+| 42 | 下 | xià | Down / Next | 92 | 还 | hái | Still / Also |
+| 43 | 到 | dào | Arrive | 93 | 多 | duō | Many / Much |
+| 44 | 过 | guò | Pass | 94 | 可 | kě | Can / May |
+| 45 | 出 | chū | Exit / Go out | 95 | 以 | yǐ | Use / By |
+| 46 | 人 | rén | Person | 96 | 好 | hǎo | Good |
+| 47 | 来 | lái | Come | 97 | 都 | dōu | All |
+| 48 | 事 | shì | Thing / Matter | 98 | 老 | lǎo | Old / Always |
+| 49 | 以 | yǐ | Use / By | 99 | 会 | huì | Can / Will |
+| 50 | 就 | jiù | Then / Just | 100 | 于 | yú | At / In (formal) |
+
+---
+
+## FINAL SURVIVAL TIPS
+
+1. **Learn Characters, Not Just Pinyin:** Pinyin is a tool, not a language. 水 and 睡 are both "shui" but mean completely different things. Learn the characters.
+
+2. **Focus on Tones from Day 1:** 妈 (mā = mom) vs. 马 (mǎ = horse) vs. 骂 (mà = scold). Wrong tone = wrong word.
+
+3. **Use Spaced Repetition (Anki):** Don't cram. Review these words daily for 10 minutes.
+
+4. **Speak Early:** These 500+ words will cover 80% of daily life. Start using them immediately.
+
+5. **Pattern > Individual Words:** Learn these words in sentences, not in isolation. 我 + 要 + 咖啡 = "I want coffee" is more useful than just memorizing 我, 要, 咖啡.
+
+---
+
+**Want me to now create a "Day 1 Dialogue" using only these survival words?** I can write you a complete conversation that strings all these categories together. Or do you want a cheat-sheet printable version of this list?
