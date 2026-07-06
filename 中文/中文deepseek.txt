@@ -1566,3 +1566,563 @@ Since Chinese treats uncountable nouns (water, rice, oil) as undifferentiated ma
 That is the **complete, exhaustive, no-shortcuts grammar rulebook** for Countables, Uncountables, Quantity, and Quality. 
 
 This now covers **15 total mega-categories** in Chinese grammar. Do you need me to add any more categories, or do you want example dialogues using all of these rules together?
+
+
+
+
+
+
+
+================part3=====================
+
+
+
+
+
+You want the **complete, exhaustive, no-shortcuts rulebook** for **Junctions & Booleans** — the logical connectors that hold sentences together. 
+
+In Chinese, these are called **连词 (liáncí)**. The good news: they are much simpler than English. The bad news: **“And”** and **“Or”** change completely depending on whether you are connecting **nouns** or **clauses**. 
+
+Here is your zero-fluff grammar bible for **AND, OR, NOT, EITHER/OR, BUT, SO, BECAUSE**, and all their brutal exceptions.
+
+---
+
+## 15. JUNCTIONS & BOOLEANS (AND / OR / NOT / BUT / EITHER-OR)
+
+---
+
+### SECTION A: "AND" (Connecting Words)
+
+Chinese has **4 different ways** to say "and." Which one you use depends on **what** you are connecting.
+
+---
+
+#### Rule 1: 和 (hé) — Connecting NOUNS (A and B)
+**Use 和 ONLY for nouns or noun phrases.** Never use 和 to connect verbs, adjectives, or whole sentences.
+
+**Pattern:** Noun A + 和 + Noun B
+- 我和他 (wǒ hé tā) = me and him
+- 咖啡和茶 (kāfēi hé chá) = coffee and tea
+- 苹果和香蕉 (píngguǒ hé xiāngjiāo) = apples and bananas
+- 我喜欢咖啡和茶。(Wǒ xǐhuān kāfēi hé chá.) = I like coffee and tea.
+
+**CRITICAL:** For connecting **more than two** nouns, put 和 only between the last two. 
+- 我、他和你。(Wǒ, tā hé nǐ.) = Me, him, and you. (Use commas between the first ones).
+- 咖啡、茶和果汁。(Kāfēi, chá hé guǒzhī.) = Coffee, tea, and juice.
+
+**WRONG:** ~~我去和吃饭。~~ (I go and eat — 和 cannot connect verbs).
+**WRONG:** ~~我开心和累。~~ (I am happy and tired — 和 cannot connect adjectives).
+
+---
+
+#### Rule 2: 跟 (gēn) or 同 (tóng) — Connecting NOUNS (Informal/Formal)
+**Use 跟 (gēn)** similarly to 和, but it implies a closer relationship or "with." **Use 同 (tóng)** in formal writing.
+
+- 我跟你一起去。(Wǒ gēn nǐ yīqǐ qù.) = I will go together with you. (Literally: I and you together go).
+- 这件事跟我没关系。(Zhè jiàn shì gēn wǒ méi guānxi.) = This matter has nothing to do with me. (Literally: with me).
+- 我同他谈过了。(Wǒ tóng tā tán guò le.) = I have talked with him. (Formal).
+
+---
+
+#### Rule 3: 与 (yǔ) — Connecting NOUNS (Very Formal/Written)
+**Use 与 in formal writing, news, or official documents.**
+
+- 政府与企业 (zhèngfǔ yǔ qǐyè) = the government and enterprises
+- 理论与实践 (lǐlùn yǔ shíjiàn) = theory and practice
+
+---
+
+#### Rule 4: 也 (yě) — Connecting VERBS or ADJECTIVES (A and also B)
+**Use 也** to mean "and also" when connecting two actions or descriptions. It translates to "and" but functions as "also."
+
+**Pattern for Verbs:** Subject + Verb A + , + 也 + Verb B
+- 他喜欢游泳，也喜欢跑步。(Tā xǐhuān yóuyǒng, yě xǐhuān pǎobù.) = He likes swimming **and** also likes running. (NOT 和).
+- 我去超市，也去银行。(Wǒ qù chāoshì, yě qù yínháng.) = I go to the supermarket, **and** also go to the bank.
+
+**Pattern for Adjectives:** Subject + Adj A + , + 也 + Adj B
+- 她很漂亮，也很聪明。(Tā hěn piàoliang, yě hěn cōngmíng.) = She is beautiful **and** also smart.
+- 这个菜很辣，也很好吃。(Zhège cài hěn là, yě hěn hǎochī.) = This dish is spicy **and** also delicious.
+
+---
+
+#### Rule 5: 又...又... (yòu...yòu) — Connecting Two Adjectives (Simultaneously)
+**Use 又...又...** when two adjectives describe the same subject **at the same time**. Often for inherent qualities.
+
+**Pattern:** Subject + 又 + Adj A + 又 + Adj B
+- 他又高又帅。(Tā yòu gāo yòu shuài.) = He is tall **and** handsome.
+- 这个手机又便宜又好用。(Zhège shǒujī yòu piányi yòu hǎoyòng.) = This phone is cheap **and** easy to use.
+- 今天又冷又下雨。(Jīntiān yòu lěng yòu xiàyǔ.) = Today is cold and rainy.
+
+**Note:** 又...又... is **positive** by nature. For negative simultaneous states, use 既...又... (jì...yòu).
+- 他既聪明又勤奋。(Tā jì cōngmíng yòu qínfèn.) = He is both smart and diligent.
+
+---
+
+#### Rule 6: 而且 (érqiě) — Connecting Clauses (Not only... but also)
+**Use 而且** to connect two full clauses, meaning "and furthermore / and also."
+
+**Pattern:** Clause A + ，而且 + Clause B
+- 他很聪明，而且很努力。(Tā hěn cōngmíng, érqiě hěn nǔlì.) = He is smart, **and** (furthermore) very hardworking.
+- 这个菜好吃，而且便宜。(Zhège cài hǎochī, érqiě piányi.) = This dish is delicious, **and** also cheap.
+
+**With 不但...而且... (bùdàn...érqiě):** Not only... but also...
+- 他不但会中文，而且会说英文。(Tā bùdàn huì Zhōngwén, érqiě huì shuō Yīngwén.) = He not only knows Chinese, **but also** speaks English.
+
+---
+
+#### Rule 7: 并 (bìng) — Connecting Verbs (Formal, sequential)
+**Use 并** to connect two verbs in formal writing, meaning "and (then)." Often for official actions.
+
+**Pattern:** Verb A + 并 + Verb B
+- 我们讨论并解决了问题。(Wǒmen tǎolùn bìng jiějué le wèntí.) = We discussed **and** solved the problem.
+- 他接受并支持这个计划。(Tā jiēshòu bìng zhīchí zhège jìhuà.) = He accepted **and** supported this plan.
+
+---
+
+#### Rule 8: 及 (jí) — Connecting NOUNS (Very Formal, Lists)
+**Use 及** in formal lists, similar to "and" or "as well as." Often used in legal, academic, or official texts.
+
+- 图书、杂志及报纸 (túshū, zázhì jí bàozhǐ) = books, magazines, **and** newspapers.
+- 与会者及工作人员 (yùhuì zhě jí gōngzuò rényuán) = participants **and** staff.
+
+---
+
+### SECTION B: "OR" (Connecting Words)
+
+Chinese has **3 main ways** to say "or," and using the wrong one can change your meaning entirely!
+
+---
+
+#### Rule 1: 或者 (huòzhě) — "Or" for STATEMENTS (Affirmative)
+**Use 或者** when you are stating a choice in a statement (declarative sentence). It often implies "A or B (maybe both, maybe one)."
+
+**Pattern for Nouns:** Noun A + 或者 + Noun B
+- 我想喝茶或者咖啡。(Wǒ xiǎng hē chá huòzhě kāfēi.) = I want to drink tea **or** coffee. (Maybe both, maybe one).
+
+**Pattern for Clauses:** Clause A + ，或者 + Clause B
+- 我们可以去公园，或者去看电影。(Wǒmen kěyǐ qù gōngyuán, huòzhě qù kàn diànyǐng.) = We can go to the park, **or** go watch a movie.
+
+---
+
+#### Rule 2: 还是 (háishì) — "Or" for QUESTIONS (Choice questions)
+**CRITICAL:** You MUST use 还是 in **yes/no questions** or **alternative questions**. Never use 或者 in a question.
+
+**Pattern:** Question A + 还是 + Question B?
+- 你想喝茶还是咖啡？(Nǐ xiǎng hē chá háishì kāfēi?) = Do you want tea **or** coffee? (You must choose).
+- 他去北京还是上海？(Tā qù Běijīng háishì Shànghǎi?) = Is he going to Beijing **or** Shanghai?
+- 你喜欢他还是我？(Nǐ xǐhuān tā háishì wǒ?) = Do you like him **or** me?
+
+**WRONG:** ~~你想喝茶或者咖啡？~~ ❌ (Using 或者 in a question is a major error).
+
+---
+
+#### Rule 3: 还是 for "Or" in Embedded Questions (Indirect questions)
+**Use 还是** when the question is embedded inside a statement.
+
+- 我不知道他喜欢咖啡还是茶。(Wǒ bù zhīdào tā xǐhuān kāfēi háishì chá.) = I don't know if he likes coffee **or** tea.
+- 她想知道他去北京还是上海。(Tā xiǎng zhīdào tā qù Běijīng háishì Shànghǎi.) = She wants to know if he is going to Beijing **or** Shanghai.
+
+---
+
+#### Rule 4: 要么...要么... (yàome...yàome) — "Either...or..." (Exclusive choice)
+**Use 要么...要么...** when the choices are mutually exclusive. You must choose one or the other.
+
+**Pattern:** 要么 + Option A，要么 + Option B
+- 要么你去，要么我去。(Yàome nǐ qù, yàome wǒ qù.) = **Either** you go, **or** I go. (One of us, not both).
+- 要么现在走，要么留下。(Yàome xiànzài zǒu, yàome liúxià.) = **Either** leave now, **or** stay.
+
+---
+
+#### Rule 5: 或是 (huòshì) — "Or" (Formal, written)
+**Use 或是** in formal writing as a synonym for 或者.
+
+- 他可能是老师或是医生。(Tā kěnéng shì lǎoshī huòshì yīshēng.) = He might be a teacher **or** a doctor.
+
+---
+
+#### Rule 6: 否则 (fǒuzé) — "Or else" / "Otherwise" (Warning/Consequence)
+**Use 否则** to mean "or else" — if not this, then a bad result will happen.
+
+**Pattern:** Clause A + ，否则 + Clause B (negative result)
+- 快点儿走，否则会迟到。(Kuài diǎnr zǒu, fǒuzé huì chídào.) = Hurry up, **or else** you'll be late.
+- 多吃蔬菜，否则对身体不好。(Duō chī shūcài, fǒuzé duì shēntǐ bù hǎo.) = Eat more vegetables, **otherwise** it's bad for your health.
+
+---
+
+### SECTION C: "NOT" (Negation — Deep Dive)
+
+You already learned 不 (bù) and 没 (méi). Now here are the **advanced Boolean negations**.
+
+---
+
+#### Rule 1: 不 (bù) — Standard Negation (Present/Future/Habitual)
+**Put 不 before the verb/adjective.**
+
+- 我不去。(Wǒ bù qù.) = I am not going.
+- 他不吃鱼。(Tā bù chī yú.) = He doesn't eat fish.
+- 我不开心。(Wǒ bù kāixīn.) = I am not happy.
+
+**Tone change:** 不 becomes **bú** before a 4th-tone syllable.
+- 不是 (bú shì) = is not
+- 不要 (bú yào) = don't want
+
+---
+
+#### Rule 2: 没 (méi) — Negation for Past Actions & Existence
+**Use 没 (or 没有) for:**
+1. **Past actions** (did not do).
+2. **Existence** (does not have / there is no).
+
+- 我没去。(Wǒ méi qù.) = I didn't go. (Past).
+- 他没吃饭。(Tā méi chīfàn.) = He didn't eat.
+- 我没有钱。(Wǒ méiyǒu qián.) = I don't have money. (Existence).
+- 房间里没有人。(Fángjiān lǐ méiyǒu rén.) = There is no one in the room.
+
+**CRITICAL:** You CANNOT say ~~我不有钱。~~ (Wrong for "I don't have money"). Use 没有.
+
+---
+
+#### Rule 3: 不是...的 (bú shì...de) — Negating a Specific Fact
+**Use 不是...的 to negate a specific fact (time, place, manner, person).** This is the negative form of the 是...的 fact-emphasis structure.
+
+**Pattern:** Subject + 不是 + Time/Place/Manner + Verb + 的
+- 我不是昨天来的。(Wǒ bú shì zuótiān lái de.) = I didn't come yesterday. (It was a different day).
+- 他不是在北京出生的。(Tā bú shì zài Běijīng chūshēng de.) = He wasn't born in Beijing.
+- 我不是坐飞机去的。(Wǒ bú shì zuò fēijī qù de.) = I didn't go by plane.
+
+---
+
+#### Rule 4: 别 (bié) — Negation of Commands (Don't!)
+**Use 别** for negative commands or prohibitions.
+
+- 别去！(Bié qù!) = Don't go!
+- 别说话！(Bié shuōhuà!) = Don't speak!
+- 别忘了！(Bié wàng le!) = Don't forget!
+
+**Softer form:** 不要 (bù yào) = please don't / don't want to
+- 不要去。(Bù yào qù.) = Please don't go. (Softer than 别去).
+
+---
+
+#### Rule 5: 不可能 (bù kěnéng) — "Cannot possibly / Impossible"
+**Pattern:** 不可能 + Verb
+- 这不可能。(Zhè bù kěnéng.) = This is impossible.
+- 他不可能来。(Tā bù kěnéng lái.) = It's impossible for him to come. (He absolutely will not come).
+
+---
+
+#### Rule 6: 不必 (bù bì) — "Need not" vs. 不用 (bù yòng)
+- 不必 (bù bì) = need not (formal).
+- 不用 (bù yòng) = don't need to / no need (casual).
+- 你不必去。(Nǐ bù bì qù.) = You don't need to go. (Formal).
+- 你不用来。(Nǐ bù yòng lái.) = You don't need to come. (Casual).
+
+---
+
+#### Rule 7: Double Negation (Affirmative / Emphatic)
+**Pattern:** 不是不 (bú shì bù) + Verb = "It's not that I don't..." (Emphatic affirmation)
+
+- 我不是不去，而是没时间。(Wǒ bú shì bù qù, ér shì méi shíjiān.) = It's not that I don't want to go, it's that I don't have time.
+- 他不是不努力，而是方法不对。(Tā bú shì bù nǔlì, ér shì fāngfǎ bù duì.) = It's not that he doesn't work hard, it's that the method is wrong.
+
+**Pattern:** 非...不可 (fēi...bù kě) = "must do" / "have no choice but to"
+- 我非去不可。(Wǒ fēi qù bù kě.) = I must go. (I have no choice but to go).
+- 他非吃这个不可。(Tā fēi chī zhège bù kě.) = He insists on eating this.
+
+---
+
+### SECTION D: "BUT" (Contradictions & Contrasts)
+
+Chinese has **4 ways** to say "but," ranging from casual to formal.
+
+---
+
+#### Rule 1: 但是 (dànshì) — "But" (Standard, Universal)
+**Use 但是** for any contrast. It can connect clauses, adjectives, or statements. This is your safest choice.
+
+**Pattern:** Clause A + ，但是 + Clause B
+- 他很聪明，但是很懒。(Tā hěn cōngmíng, dànshì hěn lǎn.) = He is smart, **but** very lazy.
+- 我想去，但是我没时间。(Wǒ xiǎng qù, dànshì wǒ méi shíjiān.) = I want to go, **but** I don't have time.
+- 这个手机很好，但是太贵了。(Zhège shǒujī hěn hǎo, dànshì tài guì le.) = This phone is good, **but** too expensive.
+
+---
+
+#### Rule 2: 可是 (kěshì) — "But" (Informal, Spoken)
+**Use 可是** in spoken Chinese. It's slightly more emotional or hesitant than 但是.
+
+**Pattern:** Clause A + ，可是 + Clause B
+- 我想去，可是没时间。(Wǒ xiǎng qù, kěshì méi shíjiān.) = I want to go, **but** I don't have time.
+- 他很努力，可是成绩不好。(Tā hěn nǔlì, kěshì chéngjì bù hǎo.) = He works hard, **but** his grades aren't good.
+
+---
+
+#### Rule 3: 但 (dàn) — "But" (Short, Formal/Concise)
+**Use 但** as a shorter, more formal version of 但是. Very common in writing and news.
+
+- 他聪明但懒惰。(Tā cōngmíng dàn lǎnduò.) = He is smart **but** lazy.
+- 我想去，但没时间。(Wǒ xiǎng qù, dàn méi shíjiān.) = I want to go, **but** no time.
+
+---
+
+#### Rule 4: 不过 (búguò) — "But" / "However" (Soft contradiction)
+**Use 不过** to soften the contradiction. It means "but / however / only." It often introduces a limitation or minor objection.
+
+**Pattern:** Clause A + ，不过 + Clause B
+- 这个菜很好吃，不过有点辣。(Zhège cài hěn hǎochī, búguò yǒudiǎn là.) = This dish is delicious, **but** a little spicy. (Soft).
+- 我想去，不过我得先回家。(Wǒ xiǎng qù, búguò wǒ děi xiān huí jiā.) = I want to go, **but** I have to go home first. (Minor limitation).
+
+---
+
+### SECTION E: "EITHER / OR" & "NEITHER / NOR" (Exclusive & Inclusive)
+
+---
+
+#### Rule 1: 或者...或者... (huòzhě...huòzhě) — "Either...or..." (Statement)
+**Pattern:** 或者 + Option A + ，或者 + Option B
+- 或者你去，或者我去。(Huòzhě nǐ qù, huòzhě wǒ qù.) = **Either** you go, **or** I go.
+- 或者喝茶，或者喝咖啡，都可以。(Huòzhě hē chá, huòzhě hē kāfēi, dōu kěyǐ.) = **Either** drink tea, **or** drink coffee, either is fine.
+
+---
+
+#### Rule 2: 要么...要么... (yàome...yàome) — "Either...or..." (Exclusive, forced choice)
+**Pattern:** 要么 + Option A + ，要么 + Option B
+- 要么现在做，要么永远不做。(Yàome xiànzài zuò, yàome yǒngyuǎn bù zuò.) = **Either** do it now, **or** never do it.
+- 要么你走，要么我走。(Yàome nǐ zǒu, yàome wǒ zǒu.) = **Either** you leave, **or** I leave.
+
+---
+
+#### Rule 3: 不是...就是... (bú shì...jiù shì) — "Either...or..." (One of two options, no third)
+**Pattern:** 不是 + Option A + ，就是 + Option B
+- 他不是在中国，就是在美国。(Tā bú shì zài Zhōngguó, jiù shì zài Měiguó.) = He is **either** in China, **or** in the US. (No third option).
+- 他不是在睡觉，就是在看书。(Tā bú shì zài shuìjiào, jiù shì zài kàn shū.) = He is **either** sleeping, **or** reading.
+
+---
+
+#### Rule 4: 既...又... (jì...yòu) — "Both...and..." (Positive both)
+**Pattern:** 既 + Adj/Verb A + ，又 + Adj/Verb B
+- 他既聪明又勤奋。(Tā jì cōngmíng yòu qínfèn.) = He is **both** smart **and** hardworking.
+- 这个产品既便宜又好用。(Zhège chǎnpǐn jì piányi yòu hǎoyòng.) = This product is **both** cheap **and** useful.
+
+---
+
+#### Rule 5: 既不...也不... (jì bù...yě bù) — "Neither...nor..." (Negative both)
+**Pattern:** 既不 + Adj/Verb A + ，也不 + Adj/Verb B
+- 他既不高也不帅。(Tā jì bù gāo yě bù shuài.) = He is **neither** tall **nor** handsome.
+- 我既不喜欢咖啡也不喜欢茶。(Wǒ jì bù xǐhuān kāfēi yě bù xǐhuān chá.) = I like **neither** coffee **nor** tea.
+
+---
+
+#### Rule 6: 不是...而是... (bú shì...ér shì) — "Not A, but rather B" (Correction)
+**Pattern:** 不是 + Option A + ，而是 + Option B
+- 他不是我哥哥，而是我朋友。(Tā bú shì wǒ gēge, ér shì wǒ péngyou.) = He is **not** my brother, **but rather** my friend.
+- 问题不是太难，而是太复杂。(Wèntí bú shì tài nán, ér shì tài fùzá.) = The problem is **not** too difficult, **but rather** too complicated.
+
+---
+
+### SECTION F: "SO" / "THEREFORE" (Cause & Effect)
+
+---
+
+#### Rule 1: 所以 (suǒyǐ) — "So" / "Therefore" (Result)
+**Pattern:** Cause-Clause + ，所以 + Result-Clause
+- 我累了，所以我想睡觉。(Wǒ lèi le, suǒyǐ wǒ xiǎng shuìjiào.) = I am tired, **so** I want to sleep.
+- 他学习很努力，所以考试考得很好。(Tā xuéxí hěn nǔlì, suǒyǐ kǎoshì kǎo de hěn hǎo.) = He studied hard, **so** he did well on the exam.
+
+**With 因为 (yīnwèi) = because:** 
+- 因为我累了，所以我想睡觉。(Yīnwèi wǒ lèi le, suǒyǐ wǒ xiǎng shuìjiào.) = **Because** I am tired, **so** I want to sleep.
+
+---
+
+#### Rule 2: 因此 (yīncǐ) — "Therefore" (Formal, Written)
+**Use 因此** in formal writing, academic papers, or official documents.
+
+- 天气不好，因此比赛取消了。(Tiānqì bù hǎo, yīncǐ bǐsài qǔxiāo le.) = The weather was bad; **therefore**, the game was canceled.
+- 他勤奋努力，因此取得了成功。(Tā qínfèn nǔlì, yīncǐ qǔdé le chénggōng.) = He worked hard; **therefore**, he achieved success.
+
+---
+
+#### Rule 3: 于是 (yúshì) — "So" / "Thereupon" (Sequential, narrative)
+**Use 于是** to show a sequence of events — "and so then..." Often used in storytelling.
+
+- 他听到这个消息，于是马上出发了。(Tā tīngdào zhège xiāoxi, yúshì mǎshàng chūfā le.) = He heard this news, **and so** immediately set off.
+- 天黑了，于是我们回家了。(Tiān hēi le, yúshì wǒmen huí jiā le.) = It got dark, **so** we went home.
+
+---
+
+#### Rule 4: 因而 (yīn'ér) — "As a result" / "Consequently" (Formal)
+**Use 因而** for a logical consequence, very formal.
+
+- 他努力学习，因而取得了好成绩。(Tā nǔlì xuéxí, yīn'ér qǔdé le hǎo chéngjì.) = He studied hard; **consequently**, he got good grades.
+
+---
+
+### SECTION G: "BECAUSE" / "SINCE" (Cause)
+
+---
+
+#### Rule 1: 因为 (yīnwèi) — "Because" (Standard)
+**Pattern:** 因为 + Cause + ，所以 + Result (Optional: 所以 is often used but not required)
+- 因为下雨，所以我们没去公园。(Yīnwèi xiàyǔ, suǒyǐ wǒmen méi qù gōngyuán.) = **Because** it rained, we didn't go to the park.
+- 因为我很累，我早早睡了。(Yīnwèi wǒ hěn lèi, wǒ zǎozǎo shuì le.) = **Because** I was tired, I went to bed early. (No 所以 needed).
+
+---
+
+#### Rule 2: 由于 (yóuyú) — "Because" / "Owing to" (Formal)
+**Use 由于** in formal/written contexts to state a cause.
+
+- 由于天气不好，飞机晚点了。(Yóuyú tiānqì bù hǎo, fēijī wǎndiǎn le.) = **Owing to** the bad weather, the flight was delayed.
+- 由于经济原因，公司裁员了。(Yóuyú jīngjì yuányīn, gōngsī cáiyuán le.) = **Due to** economic reasons, the company laid off staff.
+
+---
+
+#### Rule 3: 既然 (jìrán) — "Since" (Given that...)
+**Use 既然** when the cause is already known or accepted. Similar to "since" or "now that."
+
+**Pattern:** 既然 + Known-Cause + ，就 + Result
+- 既然你来了，就一起吃个饭吧。(Jìrán nǐ lái le, jiù yīqǐ chī gè fàn ba.) = **Since** you're here, let's have a meal together.
+- 既然他不愿意，就算了吧。(Jìrán tā bù yuànyì, jiù suàn le ba.) = **Since** he doesn't want to, just forget it.
+
+---
+
+### SECTION H: "IF" / "PROVIDED THAT" (Conditions)
+
+---
+
+#### Rule 1: 如果 (rúguǒ) — "If" (Standard)
+**Pattern:** 如果 + Condition + ，(就) + Result
+- 如果明天下雨，我就不去了。(Rúguǒ míngtiān xiàyǔ, wǒ jiù bù qù le.) = **If** it rains tomorrow, I won't go.
+- 如果你累了，就休息一下吧。(Rúguǒ nǐ lèi le, jiù xiūxi yīxià ba.) = **If** you're tired, take a rest.
+
+---
+
+#### Rule 2: 要是 (yàoshi) — "If" (Casual, Spoken)
+**Use 要是** in everyday conversation. It's more colloquial than 如果.
+
+- 要是他不来，怎么办？(Yàoshi tā bù lái, zěnme bàn?) = **If** he doesn't come, what to do?
+- 要是你有时间，就帮我一下。(Yàoshi nǐ yǒu shíjiān, jiù bāng wǒ yīxià.) = **If** you have time, help me out.
+
+---
+
+#### Rule 3: 假如 (jiǎrú) — "If" / "In case that" (Formal, Hypothetical)
+**Use 假如** for hypothetical or unlikely situations. Often used in formal writing.
+
+- 假如我中了彩票，我就去环游世界。(Jiǎrú wǒ zhòng le cǎipiào, wǒ jiù qù huányóu shìjiè.) = **If** I won the lottery, I would travel the world.
+- 假如他不同意，我们怎么办？(Jiǎrú tā bù tóngyì, wǒmen zěnme bàn?) = **If** he disagrees, what should we do?
+
+---
+
+#### Rule 4: 只要...就... (zhǐyào...jiù) — "As long as... then..." (Condition is sufficient)
+**Use 只要...就** when the condition is enough to guarantee the result. Not hypothetical — it's a guaranteed condition.
+
+- 只要努力，就会成功。(Zhǐyào nǔlì, jiù huì chénggōng.) = **As long as** you work hard, you will succeed.
+- 只要你有钱，就能买任何东西。(Zhǐyào nǐ yǒu qián, jiù néng mǎi rènhé dōngxi.) = **As long as** you have money, you can buy anything.
+
+---
+
+#### Rule 5: 只有...才... (zhǐyǒu...cái) — "Only if... then..." (Condition is necessary)
+**Use 只有...才** when the condition is essential — without it, the result cannot happen.
+
+- 只有努力学习，才能考好。(Zhǐyǒu nǔlì xuéxí, cáinéng kǎo hǎo.) = **Only if** you study hard, can you get good grades.
+- 只有他来了，我们才能开始。(Zhǐyǒu tā lái le, wǒmen cáinéng kāishǐ.) = **Only if** he comes, can we start.
+
+---
+
+#### Rule 6: 无论...都... (wúlùn...dōu) — "No matter.../Regardless..."
+**Use 无论...都** to mean "regardless of the condition, the result is the same."
+
+**Pattern:** 无论 + Question-Word (谁/什么/怎么) + ，+ 都 + Verb
+- 无论谁来了，我都欢迎。(Wúlùn shuí lái le, wǒ dōu huānyíng.) = **No matter who** comes, I welcome them.
+- 无论你去哪里，我都跟你去。(Wúlùn nǐ qù nǎlǐ, wǒ dōu gēn nǐ qù.) = **No matter where** you go, I'll go with you.
+- 无论多忙，我都会来。(Wúlùn duō máng, wǒ dōu huì lái.) = **No matter how** busy, I will come.
+
+---
+
+### SECTION I: "EXCEPT" / "BESIDES" / "IN ADDITION" (Inclusion & Exclusion)
+
+---
+
+#### Rule 1: 除了...以外 (chúle...yǐwài) — "Except" / "Besides" (Exclusion or Inclusion)
+**This is a 2-way street!** The meaning depends on whether you use **还/都** or **就/才**.
+
+**Pattern A (Exclusion — "except"):** 除了 + A + 以外，B + 都/也 + Verb (A is excluded).
+- 除了他以外，大家都去了。(Chúle tā yǐwài, dàjiā dōu qù le.) = **Except** him, everyone went. (He didn't go).
+- 除了咖啡以外，我什么都不喝。(Chúle kāfēi yǐwài, wǒ shénme dōu bù hē.) = **Except** coffee, I drink nothing.
+
+**Pattern B (Inclusion — "besides / in addition to"):** 除了 + A + 以外，B + 还/也 + Verb (A is included).
+- 除了咖啡以外，我还喝茶。(Chúle kāfēi yǐwài, wǒ hái hē chá.) = **Besides** coffee, I also drink tea. (I drink both).
+- 除了中文以外，他还会英文。(Chúle Zhōngwén yǐwài, tā hái huì Yīngwén.) = **Besides** Chinese, he also speaks English.
+
+---
+
+#### Rule 2: 不但...而且... (bùdàn...érqiě) — "Not only... but also"
+**Pattern:** 不但 + A + ，而且 + B
+- 他不但会说中文，而且会说英文。(Tā bùdàn huì shuō Zhōngwén, érqiě huì shuō Yīngwén.) = He **not only** speaks Chinese, **but also** speaks English.
+- 这个电影不但好看，而且很有意思。(Zhège diànyǐng bùdàn hǎokàn, érqiě hěn yǒuyìsi.) = This movie is **not only** good-looking, **but also** very interesting.
+
+---
+
+#### Rule 3: 再说 (zàishuō) — "Besides / What's more" (Adding an extra reason)
+**Use 再说** to add an additional, often more important, reason.
+
+- 我不去了，再说我没时间。(Wǒ bù qù le, zàishuō wǒ méi shíjiān.) = I'm not going. **Besides**, I don't have time.
+- 别买了，再说我们没有钱。(Bié mǎi le, zàishuō wǒmen méiyǒu qián.) = Don't buy it. **What's more**, we don't have money.
+
+---
+
+#### Rule 4: 还有 (háiyǒu) — "Also" / "In addition" (Adding items to a list)
+**Use 还有** to add extra items to a list, often at the start of a new sentence.
+
+- 我买了苹果和香蕉，还有橙子。(Wǒ mǎi le píngguǒ hé xiāngjiāo, háiyǒu chéngzi.) = I bought apples and bananas, **and also** oranges.
+- 他很高，很帅，还有很有钱。(Tā hěn gāo, hěn shuài, háiyǒu hěn yǒu qián.) = He is tall, handsome, **and also** rich.
+
+---
+
+## FINAL COMPLETE SUMMARY TABLE (Junctions & Booleans)
+
+| Function | Chinese | Rule & Usage | Example |
+| :--- | :--- | :--- | :--- |
+| **AND (Nouns)** | 和 (hé) / 跟 (gēn) | Noun + 和 + Noun | 咖啡和茶 |
+| **AND (Verbs/Clauses)** | 也 (yě) / 而且 (érqiě) | Clause A + 也/而且 + Clause B | 他喜欢游泳，也喜欢跑步。 |
+| **AND (Adj simultaneous)** | 又...又... (yòu) | 又 + Adj A + 又 + Adj B | 他又高又帅。 |
+| **OR (Statements)** | 或者 (huòzhě) | Noun A + 或者 + Noun B | 我想喝茶或者咖啡。 |
+| **OR (Questions)** | 还是 (háishì) | Question A + 还是 + Question B | 你想喝茶还是咖啡？ |
+| **Either...or (Exclusive)** | 要么...要么... | 要么 + A，要么 + B | 要么你去，要么我去。 |
+| **Either...or (No third)** | 不是...就是... | 不是 + A，就是 + B | 他不是在中国，就是在美国。 |
+| **Neither...nor** | 既不...也不... | 既不 + A，也不 + B | 他既不高也不帅。 |
+| **Not A, but rather B** | 不是...而是... | 不是 + A，而是 + B | 他不是我哥哥，而是我朋友。 |
+| **BUT (Standard)** | 但是 (dànshì) | Clause A + 但是 + Clause B | 他很聪明，但是很懒。 |
+| **BUT (Soft)** | 不过 (búguò) | Clause A + 不过 + Clause B | 很好吃，不过有点辣。 |
+| **BECAUSE** | 因为 (yīnwèi) | 因为 + Cause + ，所以 + Result | 因为下雨，所以没去。 |
+| **SO / Therefore** | 所以 (suǒyǐ) | Cause + 所以 + Result | 我累了，所以想睡觉。 |
+| **IF (Standard)** | 如果 (rúguǒ) | 如果 + Condition + 就 + Result | 如果下雨，我就不去。 |
+| **IF (Casual)** | 要是 (yàoshi) | 要是 + Condition + 就 + Result | 要是他来，我就走。 |
+| **As long as...** | 只要...就... | 只要 + Condition + 就 + Result | 只要努力，就会成功。 |
+| **Only if...** | 只有...才... | 只有 + Condition + 才 + Result | 只有努力，才能考好。 |
+| **No matter...** | 无论...都... | 无论 + Question-Word + 都 | 无论谁来，我都欢迎。 |
+| **Except** | 除了...以外 | 除了 + A + 以外 + 都/还 | 除了他，大家都去了。 |
+| **Not only...but also** | 不但...而且... | 不但 + A + ，而且 + B | 他不但会中文，而且会英文。 |
+| **Otherwise / Or else** | 否则 (fǒuzé) | Clause A + 否则 + Clause B | 快走，否则会迟到。 |
+
+---
+
+That is the **complete, exhaustive, no-shortcuts rulebook** for **Junctions & Booleans** — all the logical connectors you will ever need.
+
+This now covers **15 complete mega-categories** of Chinese grammar:
+
+1. What is/are
+2. How feel / Like/Dislike / Happy/Angry
+3. Where / Position
+4. When / Time
+5. Who / Identity
+6. Whose / Ownership
+7. Whom / Receiver
+8. To do / Not do / Please / Request / Warning
+9. To give / To receive
+10. To make / To get
+11. Fact vs Opinion
+12. Countables
+13. Uncountables
+14. Quantity & Quality
+15. Junctions & Booleans
+
+Do you want **example dialogues** combining all 15 categories, or is there any specific nuance you want me to drill down on further?
