@@ -2126,3 +2126,86 @@ This now covers **15 complete mega-categories** of Chinese grammar:
 15. Junctions & Booleans
 
 Do you want **example dialogues** combining all 15 categories, or is there any specific nuance you want me to drill down on further?
+
+
+This is a fantastic list. You have covered the **"What"** (nouns, objects, facts) and the **"How/When/Where"** (adverbs, prepositions, time) of communication. 
+
+However, you are missing the **glue** that holds ideas together and the **rules for managing the conversation itself** (not just the information). 
+
+Here are the **15 missing language rules of communication** that you need, divided into 5 categories:
+
+---
+
+### Category 1: LOGICAL CONNECTORS (How ideas relate to each other)
+*You have Junctions & Booleans (AND/OR/NOT), but you are missing **why** one idea follows another.*
+
+| # | Missing Rule | What it does | Example Phrase |
+|---|--------------|--------------|----------------|
+| **16** | **Cause & Effect** | Explains why something happened or the result of an action. | *because, since, therefore, as a result, consequently, due to.* |
+| **17** | **Contrast & Concession** | Shows opposites, surprises, or exceptions to the rule. | *but, however, although, despite, on the other hand, whereas.* |
+| **18** | **Purpose & Goal** | Explains the intention behind an action. | *in order to, so that, for the purpose of, lest.* |
+| **19** | **Condition & Hypothesis** | Talks about "if/then" scenarios, possibilities, and imaginary situations. | *if, unless, provided that, as long as, in case, otherwise.* |
+
+---
+
+### Category 2: DEGREE & EMPHASIS (How strong your statement is)
+*You have Quantity (how many) and Quality (good/bad), but you are missing **intensity** and **certainty**.*
+
+| # | Missing Rule | What it does | Example Phrase |
+|---|--------------|--------------|----------------|
+| **20** | **Modality (Certainty & Possibility)** | Shows how sure you are (100% vs. 50% vs. 0%). | *must, will, shall (certain); may, might, could (possible); can't, couldn't (impossible).* |
+| **21** | **Intensity & Emphasis** | Makes adjectives/verbs stronger or weaker. | *very, extremely, quite, rather, absolutely, barely, hardly, literally.* |
+| **22** | **Frequency** | Tells how often something happens. | *always, usually, sometimes, rarely, never, once a week, daily.* |
+
+---
+
+### Category 3: SUBJECTIVE FILTERS (Perspective & Emotion)
+*You have Fact vs Opinion, but you are missing the **emotional delivery** and **point-of-view** rules.*
+
+| # | Missing Rule | What it does | Example Phrase |
+|---|--------------|--------------|----------------|
+| **23** | **Evaluation & Judgment** | Expresses personal value (not just like/dislike, but moral or practical judgment). | *good/bad, right/wrong, fair/unfair, appropriate, strange, impressive.* |
+| **24** | **Hedging (Softening)** | Makes strong statements softer to be polite or less aggressive. | *I think, I guess, perhaps, sort of, kind of, it seems, from my perspective.* |
+| **25** | **Surprise & Interest** | Shows unexpected reactions or draws attention. | *Wow! Really? Interestingly, Surprisingly, Guess what? Actually, As a matter of fact.* |
+
+---
+
+### Category 4: SEQUENCING & REFERENCE (Navigating time and text)
+*You have "When" (clock time), but you are missing **order** and **pointing back** to previous ideas.*
+
+| # | Missing Rule | What it does | Example Phrase |
+|---|--------------|--------------|----------------|
+| **26** | **Temporal Sequence (Order)** | Shows the step-by-step flow of events (not just *when*, but *which comes first*). | *first, then, next, after that, finally, meanwhile, subsequently, prior to.* |
+| **27** | **Anaphora (Reference)** | Points backward or forward to avoid repeating nouns. | *it, this, that, these, those, the former, the latter, such.* (e.g., *"I bought a car. **It** is red."*) |
+
+---
+
+### Category 5: CONVERSATION MANAGEMENT (The social rules)
+*This is the biggest gap. You have "To do / Request," but you are missing how to **start, stop, and fix** a conversation.*
+
+| # | Missing Rule | What it does | Example Phrase |
+|---|--------------|--------------|----------------|
+| **28** | **Discourse Markers (Signposting)** | Organizes your speech so the listener can follow your structure. | *First of all... moving on to... to conclude... in other words... that reminds me...* |
+| **29** | **Repair & Clarification** | Fixes mistakes or asks for repetition when you don't understand. | *I mean... Sorry, what I meant was... Could you repeat that? Let me rephrase... In other words...* |
+| **30** | **Turn-Taking & Acknowledgment** | Shows you are listening and gives the floor back to the speaker. | *Uh-huh, I see, right, got it (listening); What do you think? Over to you... (giving turn).* |
+
+---
+
+### Bonus: The "Master" Rule (The Most Important One)
+
+| # | Missing Rule | What it does | Example Phrase |
+|---|--------------|--------------|----------------|
+| **31** | **Context & Deixis** | Words that only make sense if you know the physical/social context (who is speaking, where, and when). | *I, you, we, here, there, now, then, this, that.* (These change meaning depending on who says them!) |
+
+---
+
+### Quick Summary of What You Were Missing:
+1. **Cause/Effect, Contrast, Purpose, Condition** (Logical relationships).
+2. **Certainty, Intensity, Frequency** (How strong/frequent).
+3. **Evaluation and Softening** (Politeness and judgment).
+4. **Sequencing and Pointing back** (Order and reference).
+5. **Managing the conversation** (Signposting, fixing errors, turn-taking).
+
+If you add these **16 rules** (#16 to #31) to your original 15, you will have a **complete framework** for both *information* (what) AND *interaction* (how we manage the conversation). 
+
+Would you like me to show you how **all 31 rules** apply to your original sentence about International Women's Day?
