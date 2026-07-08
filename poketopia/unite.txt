@@ -277,9 +277,9 @@ wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
 attacker = espeon (both license and holowear) {done}
 speedster = g.rapidash (both license and holowear) {done}
-all-rounder = tsareena (both license and holowear) [kimono or concert]
-defender = vaporeon (both license and holowear)
-supporter = alcremie (both license and holowear) 
+all-rounder = tsareena (both license and holowear) {done}
+defender = vaporeon (both license and holowear) {done}
+supporter = latias (both license and holowear) 
 [simsvidupload@gmail.com]
 attacker = latios (license) / a.ninetales (holowear) [blue theater]
 speedster = meowscarada (both license and holowear)
@@ -291,7 +291,7 @@ attacker = glaceon (both license and holowear) [tea party]
 speedster = darkrai (both license and holowear)
 all-rounder = empoleon (both license and holowear)
 defender = umbreon (both license and holowear) [dark knight]
-supporter = latias (both license and holowear)
+supporter = sableye (both license and holowear)
 [justgameadjust69@gmail.com]
 attacker = dragapult (license) / sylveon (holowear) [checkered]
 speedster = leafeon (both license and holowear)
