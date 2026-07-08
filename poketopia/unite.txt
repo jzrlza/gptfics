@@ -281,19 +281,19 @@ all-rounder = tsareena (both license and holowear) {done}
 defender = vaporeon (both license and holowear) {done}
 supporter = latias (both license and holowear) 
 [simsvidupload@gmail.com]
-attacker = latios (license) / a.ninetales (holowear) [blue theater]
+attacker = dragapult (license) / a.ninetales (holowear) [blue theater]
 speedster = meowscarada (both license and holowear)
 all-rounder = suicune (both license and holowear)
 defender = goodra (both license and holowear) [sweet]
 supporter = wigglytuff (both license and holowear) [frontier]
 [jestm895@gmail.com]
-attacker = glaceon (both license and holowear) [tea party]
+attacker = latios (license) / sylveon (holowear) [checkered]
 speedster = darkrai (both license and holowear)
 all-rounder = empoleon (both license and holowear)
 defender = umbreon (both license and holowear) [dark knight]
 supporter = sableye (both license and holowear)
 [justgameadjust69@gmail.com]
-attacker = dragapult (license) / sylveon (holowear) [checkered]
+attacker = glaceon (both license and holowear) [tea party]
 speedster = leafeon (both license and holowear)
 all-rounder = blaziken (both license and holowear) [punk]
 defender = ho-oh (both license and holowear)
