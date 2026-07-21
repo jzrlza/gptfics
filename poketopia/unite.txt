@@ -292,10 +292,10 @@ wigglytuff special slection
 attacker = dragapult (license) / sylveon (holowear) [checkered]
 speedster = zoroark (both license and holowear)
 all-rounder = tyranitar (both license and holowear) [punk]
-defender = goodra (both license and holowear) [sweet]
+defender = trev (both license and holowear) [sweet]
 supporter = sableye (both license and holowear)
 snorlax special selection
-(premium goodra)
+(premium dragapult)
 [justgameadjust69@gmail.com]
 attacker = glaceon (both license and holowear) [tea party]
 speedster = meowscarada (both license and holowear)
