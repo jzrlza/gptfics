@@ -279,7 +279,7 @@ attacker = espeon (both license and holowear) {done}
 speedster = g.rapidash (both license and holowear) {done}
 all-rounder = tsareena (both license and holowear) {done}
 defender = vaporeon (both license and holowear) {done}
-supporter = latias (both license and holowear) 
+supporter = latias (both license and holowear) {done}
 [simsvidupload@gmail.com]
 attacker = dragapult (license) / a.ninetales (holowear) [blue theater]
 speedster = meowscarada (both license and holowear)
