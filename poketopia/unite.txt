@@ -284,7 +284,7 @@ supporter = latias (both license and holowear) {done}
 attacker = latios (license) / a.ninetales (holowear) [blue theater]
 speedster = meowscarada (both license and holowear)
 all-rounder = empoleon (both license and holowear)
-defender = umbreon (both license and holowear) [dark knight]
+defender = ho-oh (both license and holowear)
 supporter = alcremie (both license and holowear)
 wigglytuff special slection
 (premium wiggly)
@@ -292,7 +292,7 @@ wigglytuff special slection
 attacker = dragapult (license) / sylveon (holowear) [checkered]
 speedster = zoroark (both license and holowear)
 all-rounder = tyranitar (both license and holowear) [punk]
-defender = trev (both license and holowear) [sweet]
+defender = umbreon (both license and holowear) [dark knight]
 supporter = sableye (both license and holowear)
 snorlax special selection
 (premium dragapult)
@@ -300,7 +300,7 @@ snorlax special selection
 attacker = glaceon (both license and holowear) [tea party]
 speedster = leafeon (both license and holowear)
 all-rounder = blaziken (both license and holowear)
-defender = ho-oh (both license and holowear)
+defender = trev (both license and holowear) [sweet]
 supporter = clefable (license) / mime (holowear) [vampire]
 mime special selection
 (premium clefable)
