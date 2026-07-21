@@ -282,7 +282,7 @@ defender = vaporeon (both license and holowear) {done}
 supporter = latias (both license and holowear) {done}
 [simsvidupload@gmail.com]
 attacker = latios (license) / a.ninetales (holowear) [blue theater]
-speedster = leafeon (both license and holowear)
+speedster = meowscarada (both license and holowear)
 all-rounder = empoleon (both license and holowear)
 defender = umbreon (both license and holowear) [dark knight]
 supporter = alcremie (both license and holowear)
@@ -298,7 +298,7 @@ snorlax special selection
 (premium dragapult)
 [justgameadjust69@gmail.com]
 attacker = glaceon (both license and holowear) [tea party]
-speedster = meowscarada (both license and holowear)
+speedster = leafeon (both license and holowear)
 all-rounder = blaziken (both license and holowear)
 defender = ho-oh (both license and holowear)
 supporter = clefable (license) / mime (holowear) [vampire]
