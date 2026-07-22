@@ -23,7 +23,7 @@ patchouli
 - heart hidden right of falling vertical room
 
 flandre (weak to rumia's weapon)
-- heart at left of hard wall during vertical go up room (need patchy's ability)
+- heart at left of hard wall during vertical go up room (need patchy's ability + weapon charger)
 - e-tank / suika guoad -> vertical fall section, very bottom left pit near death
 
 meiling (weak to patchy's weapon)
