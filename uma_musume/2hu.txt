@@ -15,7 +15,7 @@ cirno (weak to remilia's weapon)
 
 rumia (weak to cirno's weapon)
 - nazrin top near beginning midway of rails (item seeker)
-- nazrin top after the first (need to beat all 8 for hadouken)
+- nazrin top after the first (need to beat all 8 for hadouken, death abuse 4 times)
 - heart off rail right bottom platform hidden
 
 patchouli (weak to flandre's weapon)
@@ -40,3 +40,20 @@ sakuya (weak to koakoma's weapon)
 remilia (weak to sakuya's weapon)
 - e-tank / suika guord -> near begiing far right wall (need air dash)
 - heart at half way far right wall (need air dash)
+
+
+Cirno:  You get the Air Dash upgrade here, so it's a natural starting point after the intro stage.  I'm just basically tanking damage until I get to the end of the stage.  Meanwhile, Cirno can be a bit of an RNG mess, so I just deal with it as best as I could.  Chill Penguin would be proud.
+
+Patchouli: I deviate weakness order to take Patchy on ASAP to get her weapon as it's needed for the next stage.  However, her stage is probably the most technical of the stage, so it's not an easy go-through.  I flub some movement here and there, and the wall jumps in the elevator section were not the cleanest.  This stage also holds the Buster Upgrade equivalent, so there's that as well.  At this juncture of the run, Patchy is the hardest fight as you need to do some steady shot timing in order to skip her using her shield which is a major reset condition if it activates.  Once that attack is skipped, the fight then comes into place.
+
+Flandre: This stage is the reason why Patchouli is early and is also done a soon as possible.  Patchy's weapon can destroy the wall that hides the stage's Heart Tank.  This also avoids a stage revisit as if we go in weakness order, we would have to come back here for the said Heart Tank.  Otherwise, the stage is mostly simple up to the point where you fight Flandre, herself, where you need to fight her in a specific fashion in order to skip her desperation attack which tacks on time.
+
+Koakuma: There is some death abuse trying to get all the items in this stage as trying to return to a specific area in the game (the Mech checkpoint) is slow under normal circumstances.  Other than that, Koakuma is easily dispatched with a weakness damage loop.  Note that Koakuma's weapon can also break the previously mentioned wall in Flandre's stage, so this stage can be done early as well, if one so chooses.
+
+Sakuya: The first major mistake occurs here as I die trying to get a damage boost to get to the next moving platform quickly.  Aside from that, I'm still using Four of a Kind as much as possible until reaching Sakuya with her weakness.
+
+Rumia 2: As one would guess, this stage has the Hadouken.  However, a major strat needs to be described as normally, you'd have to go through the whole death loop to get it like in its source material.  However, if you able to meet the conditions of getting the Hado, and then reset the game via "F2", the conditions for getting it remains met, and you can get it on the very first revisit after obtaining all the items while on a fresh playthrough.  This saves minutes compared to the normal means of getting the Hadouken, and it still works with the current patch (v1.02).
+
+Moriya Shrine 3: After the first two Moriya Shrine stages of "charged Four of a Kind, Hado boss, repeat", this stage is somewhat more of the same, but with a bit of a twist.  This is also a stage where the next major error occurs as I fail to rise to the next portion of the stage and messed up the recovery to climb the area again.  Otherwise, it's still a lot of Four of a Kind, but I have to preserve it as the boss was weak to it, so it's charged Misdirection to the rescue for its time stop.  The Oni Mask is as erratic in RNG as Rangda Bangda due to the eyes being random.  I got one blue eye to Hado, but the other was not, so that's where Four of a Kind saves the day.
+
+Moriya Shrine 5: After a basically flawless Hado Rush, one final Four of a Kind dash to the end where (*gasp*) Sanae awaits.  The only slip up was anticipating the fist to stop on the first Hado attempt during the final boss phase which caused me to take damage and use a subtank to get another Hado shot in to beat the game.
