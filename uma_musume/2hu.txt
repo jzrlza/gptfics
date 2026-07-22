@@ -9,7 +9,7 @@ https://www.google.com/search?q=touhou+rock+maiden+x&rlz=1C1VDKB_enTH1084TH1084&
 
 secrets :
 
-cirno
+cirno (weak to remilia's weapon)
 - aya bottom pit near beginning (probably air dash)
 - heart need mech jump off of other mech for top platform near beginning (need mech)
 
@@ -18,7 +18,7 @@ rumia (weak to cirno's weapon)
 - nazrin top after the first (need to beat all 8 for hadouken)
 - heart off rail right bottom platform hidden
 
-patchouli
+patchouli (weak to flandre's weapon)
 - aya top left near after beginning (probably special weapon charger)
 - heart hidden right of falling vertical room
 
