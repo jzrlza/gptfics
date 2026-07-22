@@ -14,7 +14,7 @@ cirno
 - heart need mech jump off of other mech for top platform near beginning (need mech)
 
 rumia (weak to cirno's weapon)
-- nazrin top near beginning midway of rails
+- nazrin top near beginning midway of rails (item seeker)
 - nazrin top after the first (need to beat all 8 for hadouken)
 - heart off rail right bottom platform hidden
 
