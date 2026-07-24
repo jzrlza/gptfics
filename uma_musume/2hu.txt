@@ -19,7 +19,7 @@ rumia (weak to cirno's weapon)
 - heart off rail right bottom platform hidden
 
 patchouli (weak to flandre's weapon)
-- aya top left near after beginning (probably special weapon charger)
+- aya top left near after beginning (probably special weapon charger, not available as youmu)
 - heart hidden right of falling vertical room
 
 flandre (weak to rumia's weapon)
