@@ -9,35 +9,35 @@ https://www.google.com/search?q=touhou+rock+maiden+x&rlz=1C1VDKB_enTH1084TH1084&
 
 secrets :
 
-cirno (weak to remilia's weapon)
+cirno (weak to remilia's weapon, but weak to both flandre's and patchy's weapon as youmu)
 - aya bottom pit near beginning (probably air dash)
 - heart need mech jump off of other mech for top platform near beginning (need mech)
 
-rumia (weak to cirno's weapon)
+rumia (weak to cirno's weapon, same for as youmu)
 - nazrin top near beginning midway of rails (item seeker)
 - nazrin top after the first (need to beat all 8 for hadouken, death abuse 4 times)
 - heart off rail right bottom platform hidden
 
-patchouli (weak to flandre's weapon)
+patchouli (weak to flandre's weapon, but weak to remilia's weapon as youmu)
 - aya top left near after beginning (probably special weapon charger, not available as youmu)
 - heart hidden right of falling vertical room
 
-flandre (weak to rumia's weapon)
+flandre (weak to rumia's weapon, same for as youmu)
 - heart at left of hard wall during vertical go up room (need patchy's ability + weapon charger as reimu, meiling's weapon as youmu)
 - e-tank / suika guoad -> vertical fall section, very bottom left pit near death
 
-meiling (weak to patchy's weapon)
+meiling (weak to patchy's weapon, but no weaknesses as youmu)
 - heartat the very beginning spawn hidden top left of the sus wall
 - e-tank / suika guoad -> top left of stick platform pit near the end
 
-koakoma (weak to meiling's weapon)
+koakoma (weak to meiling's weapon, but no weaknesses as youmu)
 - e-tank / suika guoad -> bottom right of the area before mech, at death pit
 - heart at left far platform during mech suit (need mech and air dash)
 
-sakuya (weak to koakoma's weapon)
+sakuya (weak to koakoma's weapon, but weak to patchy's weapon as youmu)
 - heart left of spike platform room
 
-remilia (weak to sakuya's weapon)
+remilia (weak to sakuya's weapon, same for as youmu)
 - e-tank / suika guord -> near begiing far right wall (need air dash)
 - heart at half way far right wall (need air dash)
 
