@@ -1,4 +1,4 @@
-[rostor template as of early July 2026]
+[rostor template as of early Aug 2026]
 Cinderace
 Garchomp
 Gengar
@@ -88,6 +88,8 @@ Feraligatr
 Meganium
 Skeledirge
 Quaquaval
+Yvetal
+Palkia
 
 [data as of early July 2026]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
@@ -140,7 +142,7 @@ Sableye (-)
 Urshifu (1 BP skin, 1 Purple Animated skin)
 Dragapult (1 TC skin)
 Comfey (-)
-Zacian (1 BP skin)
+Zacian (2 BP skins)
 Goodra (-)
 Lapras (1 BP skin)
 Chandelure (-)
@@ -150,7 +152,7 @@ Inteleon (1 BP skin, 1 TC skin)
 Mewtwo (1 BP skin, 1 TC skin)
 Blaziken (1 BP skin)
 Mimikyu (1 BP skin, 2 TC skins)
-Meowscarada (1 BP skin)
+Meowscarada (1 BP skin, 1 TC skin)
 Metagross (1 Purple Animated skin)
 Gyarados (1 BP skin)
 Miraidon (1 TC skin)
@@ -181,6 +183,8 @@ Feraligatr (-)
 Meganium (-)
 Skeledirge (-)
 Quaquaval (-)
+Yvetal (-)
+Palkia (-)
 
 [evo stages as of early July 2026]
 Cinderace = 3
@@ -272,6 +276,8 @@ Feraligatr = 3
 Meganium = 3
 Skeledirge = 3
 Quaquaval = 3
+Yvetal = 1
+Palkia = 1
 
 wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
