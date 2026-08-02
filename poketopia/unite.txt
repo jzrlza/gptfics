@@ -91,7 +91,7 @@ Quaquaval
 Yvetal
 Palkia
 
-[data as of early July 2026]
+[data as of early Aug 2026]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
 TC = Treasure Chest Challenge
 Cinderace (1 BP skin, 1 TC skin, 1 Purple Animated skin)
@@ -186,7 +186,7 @@ Quaquaval (-)
 Yvetal (-)
 Palkia (-)
 
-[evo stages as of early July 2026]
+[evo stages as of early Aug 2026]
 Cinderace = 3
 Garchomp = 3
 Gengar = 3
@@ -278,6 +278,99 @@ Skeledirge = 3
 Quaquaval = 3
 Yvetal = 1
 Palkia = 1
+
+[data as of early Aug 2026]
+Cinderace = back/dive
+Garchomp = front
+Gengar = dive
+Cramorant = back/dive
+Alolan Ninetales = back
+Wigglytuff = front/dive
+Machamp = dive/front
+Absol = dive
+Slowbro = front
+Mr.Mime = front
+Venusaur = back/front
+Lucario = dive/front
+Talonflame = dive
+Eldegoss = back
+Greninja = dive
+Crustle = front/dive
+Snorlax = front
+Charizard = front/dive
+Pikachu = back
+Zeraora = dive
+Gardevoir = back
+Blissey = back/mid
+Blastoise = front
+Mamoswine = front
+Sylveon = mid/front
+Greedent = front/dive
+Decidueye = back
+Tsareena = front
+Dragonite = front/mid
+Trevenant = front
+Aegislash = front/dive
+Hoopa = back/mid
+Duraludon = back
+Azumarill = front
+Espeon = back
+Delphox = back
+Glaceon = mid/dive
+Buzzwole = front
+Tyranitar = front
+Mew = back
+Dodrio = dive
+Scizor = front/dive
+Clefable = front/mid
+Zoroark = dive
+Sableye = dive
+Urshifu = front/dive
+Dragapult = dive
+Comfey = back (attach only)
+Zacian = front
+Goodra = front
+Lapras = front
+Chandelure = back
+Umbreon = front
+Leafeon = dive/mid
+Inteleon = back
+Mewtwo = mid (Y), front (X)
+Blaziken = front/dive
+Mimikyu = dive/front
+Meowscarada = dive
+Metagross = front
+Gyarados = front/dive
+Miraidon = back/dive
+Falinks = front
+Ceruledge = dive/front
+Ho-Oh = mid/front
+Armarouge = back/front
+Darkrai = mid/dive
+Psyduck = front
+Tinkaton = front
+Galarian Rapidash = dive
+Suicune = mid
+Alolan Raichu = back
+Alcremie = back
+Latios = back
+Latias = back
+Pawmot = dive/front
+Empoleon = dive/front
+Dhelmise = front
+Vaporeon = front
+Meowth = dive
+Sirfetch'd = front/dive
+Zapdos = back
+Moltres = front
+Articuno = front
+Typlosion = dive
+Feraligatr = dive/front
+Meganium = mid/front
+Skeledirge = mid/back
+Quaquaval = front
+Yvetal = back
+Palkia = front
 
 wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
