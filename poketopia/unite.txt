@@ -378,7 +378,7 @@ Quaquaval = front
 Yvetal = back
 Palkia = front
 Reshiram = mid/dive
-Solgaleo = dive
+Solgaleo = front/dive
 
 wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
