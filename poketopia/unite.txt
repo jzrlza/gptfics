@@ -1,4 +1,4 @@
-[rostor template as of early Aug 2026]
+[rostor template as of late Aug 2026]
 Cinderace
 Garchomp
 Gengar
@@ -90,6 +90,8 @@ Skeledirge
 Quaquaval
 Yvetal
 Palkia
+Reshiram
+Solgaleo
 
 [data as of early Aug 2026]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
@@ -146,7 +148,7 @@ Zacian (2 BP skins)
 Goodra (-)
 Lapras (1 BP skin)
 Chandelure (-)
-Umbreon (1 BP skin)
+Umbreon (1 BP skin) {{{{{another BP is upcoming}}}}}
 Leafeon (1 BP skin)
 Inteleon (1 BP skin, 1 TC skin)
 Mewtwo (1 BP skin, 1 TC skin, 1 Purple Animated skin (which is a stupidly recolor of 1st BP skin))
@@ -185,6 +187,8 @@ Skeledirge (-)
 Quaquaval (-)
 Yvetal (-)
 Palkia (-)
+Reshiram (-)
+Solgaleo (-)
 
 [evo stages as of early Aug 2026]
 Cinderace = 3
@@ -278,6 +282,8 @@ Skeledirge = 3
 Quaquaval = 3
 Yvetal = 1
 Palkia = 1
+Reshiram = 1
+Solgaleo = 3
 
 [data as of early Aug 2026]
 Cinderace = back/dive
@@ -371,6 +377,8 @@ Skeledirge = mid/back
 Quaquaval = front
 Yvetal = back
 Palkia = front
+Reshiram = mid/dive
+Solgaleo = dive
 
 wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
