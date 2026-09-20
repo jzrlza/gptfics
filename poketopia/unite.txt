@@ -1,4 +1,4 @@
-[rostor template as of late Aug 2026]
+[data as of mid Sep 2026]
 Cinderace
 Garchomp
 Gengar
@@ -92,8 +92,9 @@ Yvetal
 Palkia
 Reshiram
 Solgaleo
+Morpeko
 
-[data as of early Aug 2026]
+[data as of mid Sep 2026]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
 TC = Treasure Chest Challenge
 Cinderace (1 BP skin, 1 TC skin, 1 Purple Animated skin)
@@ -123,8 +124,8 @@ Mamoswine (-)
 Sylveon (1 BP skin, 1 TC skin, 1 Purple Animated skin (which is a stupidly recolor of 1st BP skin))
 Greedent (-)
 Decidueye (-)
-Tsareena (-)
-Dragonite (1 BP skin)
+Tsareena (1 TC skin)
+Dragonite (1 BP skin) {{{{{another BP is upcoming}}}}}
 Trevenant (-)
 Aegislash (-)
 Hoopa (-)
@@ -148,7 +149,7 @@ Zacian (2 BP skins)
 Goodra (-)
 Lapras (1 BP skin)
 Chandelure (-)
-Umbreon (1 BP skin) {{{{{another BP is upcoming}}}}}
+Umbreon (2 BP skins) 
 Leafeon (1 BP skin)
 Inteleon (1 BP skin, 1 TC skin)
 Mewtwo (1 BP skin, 1 TC skin, 1 Purple Animated skin (which is a stupidly recolor of 1st BP skin))
@@ -159,7 +160,7 @@ Metagross (1 Purple Animated skin)
 Gyarados (1 BP skin)
 Miraidon (1 TC skin)
 Falinks (-)
-Ceruledge (1 BP skin, 1 TC skin)
+Ceruledge (1 BP skin, 2 TC skins)
 Ho-Oh (1 BP skin, 1 TC skin)
 Armarouge (1 BP skin)
 Darkrai (1 BP skin, 1 TC skin)
@@ -189,8 +190,9 @@ Yvetal (-)
 Palkia (-)
 Reshiram (-)
 Solgaleo (-)
+Morpeko (-)
 
-[evo stages as of early Aug 2026]
+[data as of mid Sep 2026]
 Cinderace = 3
 Garchomp = 3
 Gengar = 3
@@ -284,8 +286,9 @@ Yvetal = 1
 Palkia = 1
 Reshiram = 1
 Solgaleo = 3
+Morpeko = 1
 
-[data as of early Aug 2026]
+[data as of mid Sep 2026]
 Cinderace = back/dive
 Garchomp = front
 Gengar = dive
@@ -379,6 +382,7 @@ Yvetal = back
 Palkia = front
 Reshiram = mid/dive
 Solgaleo = dive
+Morpeko = dive
 
 wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
