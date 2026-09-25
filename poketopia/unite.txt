@@ -93,6 +93,9 @@ Palkia
 Reshiram
 Solgaleo
 Morpeko
+Toxicitry
+Jolteon (upcoming)
+Flareon (upcoming)
 
 [data as of mid Sep 2026]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
@@ -191,6 +194,9 @@ Palkia (-)
 Reshiram (-)
 Solgaleo (-)
 Morpeko (-)
+Toxicitry (-)
+Jolteon (upcoming)
+Flareon (upcoming)
 
 [data as of mid Sep 2026]
 Cinderace = 3
@@ -287,6 +293,9 @@ Palkia = 1
 Reshiram = 1
 Solgaleo = 3
 Morpeko = 1
+Toxicitry = 1
+Jolteon = 2 (upcoming)
+Flareon = 2 (upcoming)
 
 [data as of mid Sep 2026]
 Cinderace = back/dive
@@ -383,6 +392,9 @@ Palkia = front
 Reshiram = mid/dive
 Solgaleo = dive
 Morpeko = dive
+Toxicitry = mid
+Jolteon = dive (upcoming)
+Flareon = front (upcoming)
 
 wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
