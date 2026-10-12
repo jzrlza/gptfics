@@ -13,8 +13,11 @@ Ctrl + E = Move mode
 Ctrl + R = Rotate mode
 Ctrl + T = Scale mode
 Ctrl + D = Duplicate on place (better than Copy and Paste in same level copy)
+Ctrl + G = Gizmo toggle between world space and object space
 Ctrl + C and then Ctrl + V in another level = Import something those cannot be created by right click
-Hold Shift = Snap Object movements, especially Crates, to grid
+Hold Shift = Snap Object movements to grid, especially Crates, to grid
+Hold Alt = Automatic crate snapping
+F2 = rename selected objects
 
 
 rule 9 wtf, if bad apple in phoenix sc wasnt enough already
