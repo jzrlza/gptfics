@@ -20,6 +20,7 @@ Hold Alt = Automatic crate snapping
 
 Note to future self for NST maker:
 - Life crate when outlined is bugged, not outline after die and respawn
+- ***Still no tutorial how to make death route or gem route with proper music change yet, the level, for example, Li Nivel (flood egypt) while playable, the death route transition still needs to improve, despite overall solid level, this is the part I need to research and make tutorials to help improve level quality, as this feature easily CRASH the level (black out after load)
 
 
 rule 9 wtf, if bad apple in phoenix sc wasnt enough already
