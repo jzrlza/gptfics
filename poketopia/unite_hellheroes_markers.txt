@@ -149,11 +149,19 @@ needs level 6 spike, mid in lane (lane strength on par with Blaziken) : jolteon,
 
 If eevees got jobs in Palworld :
 Kindling = Flareon
+[chef / blacksmith]
 Planting + Gathering = Leafeon
+[farmer / co-gardener]
 Watering = Vaporeon
+[miller / co-gardener]
 Cooling = Glaceon
+[food preserver]
 Electric Generation = Jolteon
+[eletrical engineer]
 (the first five are clear elementals)
 Lumbering + Mining = Umbreon (tanky with physical works and physical stats, can also work at night)
+[lumberjack / miner]
 Handiwork + Transport = Espeon (telekenesis power)
+[logisticalist / inventor]
 Medicine Production + Ranch = Sylveon (what a fairy gonna do? fairy essence?)
+[pharmacist]
