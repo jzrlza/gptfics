@@ -146,3 +146,14 @@ strongest in lane (lane strength on par with Snorlax) : espeon, umbreon, vaporeo
 do solid in lane but less invincible (lane strength on par with Alolan Ninetales) : leafeon, sylveon
 high risk high reward in lane (lane strength on par with likes of Tsareena) : flareon
 needs level 6 spike, mid in lane (lane strength on par with Blaziken) : jolteon, glaceon
+
+If eevees got jobs in Palworld :
+Kindling = Flareon
+Planting + Gathering = Leafeon
+Watering = Vaporeon
+Cooling = Glaceon
+Electric Generation = Jolteon
+(the first five are clear elementals)
+Lumbering + Mining = Umbreon (tanky with physical works and physical stats, can also work at night)
+Handiwork + Transport = Espeon (telekenesis power)
+Medicine Production + Ranch = Sylveon (what a fairy gonna do? fairy essence?)
