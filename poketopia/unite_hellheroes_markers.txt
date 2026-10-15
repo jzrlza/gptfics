@@ -176,6 +176,6 @@ Leafeon => Razor Leaf (is male in unite, Leaf man)
 Vaporeon => Hydro Pump (is female in unite, Vapor woman)
 Jolteon => Volt Switch (is male in unite, Jolt man)
 Flareon => Flare Blitz (is male in unite, Flare man)
-Weaknesses
+counter Weaknesses
 Sylvy -> Umbrum -> Esper -> Sylvy
 Jolt -> Vapor -> Flare -> Glacier -> Leaf -> Jolt
