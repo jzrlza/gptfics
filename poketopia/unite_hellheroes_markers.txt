@@ -165,3 +165,14 @@ Handiwork + Transport = Espeon (telekenesis power)
 [logisticalist / inventor]
 Medicine Production + Ranch = Sylveon (what a fairy gonna do? fairy essence?)
 [pharmacist]
+
+if eevees are robot masters or mavericks (also use moves those strong and in-types from Unite and true to physical or special in-unite)
+ability gets
+Sylveon => Draining Kiss
+Espeon => Psyshock
+Glaceon => Icy Wind
+Umbreon => Foul Play
+Leafeon => Razor Leaf
+Vaporeon => Hydro Pump
+Jolteon => Volt Switch
+Flareon => Flare Blitz
