@@ -1,4 +1,4 @@
-[data as of mid Sep 2026]
+[data as of mid Oct 2026]
 Cinderace
 Garchomp
 Gengar
@@ -94,10 +94,10 @@ Reshiram
 Solgaleo
 Morpeko
 Toxicitry
-Jolteon (upcoming)
-Flareon (upcoming)
+Jolteon
+Flareon
 
-[data as of mid Sep 2026]
+[data as of mid Oct 2026]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
 TC = Treasure Chest Challenge
 Cinderace (1 BP skin, 1 TC skin, 1 Purple Animated skin)
@@ -195,10 +195,10 @@ Reshiram (-)
 Solgaleo (-)
 Morpeko (-)
 Toxicitry (-)
-Jolteon (upcoming)
-Flareon (upcoming)
+Jolteon (-)
+Flareon (-)
 
-[data as of mid Sep 2026]
+[data as of mid Oct 2026]
 Cinderace = 3
 Garchomp = 3
 Gengar = 3
@@ -294,10 +294,10 @@ Reshiram = 1
 Solgaleo = 3
 Morpeko = 1
 Toxicitry = 1
-Jolteon = 2 (upcoming)
-Flareon = 2 (upcoming)
+Jolteon = 2
+Flareon = 2
 
-[data as of mid Sep 2026]
+[data as of mid Oct 2026]
 Cinderace = back/dive
 Garchomp = front
 Gengar = dive
@@ -393,8 +393,8 @@ Reshiram = mid/dive
 Solgaleo = dive
 Morpeko = dive
 Toxicitry = mid
-Jolteon = dive (upcoming)
-Flareon = front (upcoming)
+Jolteon = dive
+Flareon = front/dive
 
 wishlists box login (for offline play with skins only):
 [gindytesttest@gmail.com]
