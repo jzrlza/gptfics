@@ -151,9 +151,9 @@ If eevees got jobs in Palworld :
 Kindling = Flareon
 [chef / blacksmith]
 Planting + Gathering = Leafeon
-[farmer / co-gardener]
+[farmer]
 Watering = Vaporeon
-[miller / co-gardener]
+[miller / garden hydrator]
 Cooling = Glaceon
 [food preserver]
 Electric Generation = Jolteon
