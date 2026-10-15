@@ -155,7 +155,7 @@ Planting + Gathering = Leafeon
 Watering = Vaporeon
 [miller / garden hydrator]
 Cooling = Glaceon
-[food preserver]
+[food preserving engineer]
 Electric Generation = Jolteon
 [eletrical engineer]
 (the first five are clear elementals)
