@@ -1,0 +1,19 @@
+coco in wonderland level
+- deco
+  - mushroom
+  - tree
+  -
+- hazard
+  - spike
+  -
+- enemies
+  - frog
+  - piranha plant
+  - flytrap floor plant
+  - knight
+  -
+- routes
+  - bonus
+    - 
+  - death route
+    - 
