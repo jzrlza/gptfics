@@ -5,15 +5,27 @@ coco in wonderland level
   -
 - hazard
   - spike
-  -
+  - ostrich
+  - 
 - enemies
   - frog
   - piranha plant
   - flytrap floor plant
   - knight
-  -
+  - moles
+  - hunter
+  - hammer guy
 - routes
   - bonus
     - 
   - death route
     - 
+prolly should rewatch the wonderland movies first
+
+
+coco in cocoon castle
+- deco
+  - paintings
+  - 
+- enemies
+  - spiders
