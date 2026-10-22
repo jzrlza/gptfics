@@ -101,6 +101,7 @@ https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/203
 
 City Slicker - C3 Custom Level
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/204
+===
 [extension of C3 future levels, fair and balanced, espeically humbling OP C3 powerups, nice]
 {so far I like this one the most, but ironically, despite more efforts into this, it has less views than my less effort frog kiss level...}
 
@@ -114,6 +115,7 @@ https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/212
 Spinning Webs - Crash Bandicoot NST Warped custom level
 (fucking camera, but very unique level)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/214
+===
 [beautiful but too difficulty brutal in chase sections (fix by increase max aku to 2 in checkpoints, and add aku collectibles before chase)]
 
 Flood Time
@@ -122,6 +124,7 @@ https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/230
 Gem Jamboree
 (has death route music transition for sure, but lack of checkpoint at the end of it sucks)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/235
+===
 [beautiful but too difficulty brutal in death route (fix by adding checkpoints and remove death count in death route platform)]
 
 Night City
