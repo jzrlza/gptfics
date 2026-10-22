@@ -97,10 +97,11 @@ to learn next:
   - sand levels
   - etc.
 - craetivity with pushable crates
-- creativity with balancing crash 3 powerups
+- creativity with balancing crash 3 powerups (good example is in City Slicker level, slippery surfaces hard counter death tornado and bazooka)
 - creativity with bouncing iron bound crates
 - Bonus Route transition
 - slippery surfaces, even those never been slippery (example in City Slicker level)
+- how to do pity checkpoint (good example is in City Slicker level)
 - level elevators transitions
 - SLot Crate Nitro
 - Rolling Stones
