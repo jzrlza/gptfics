@@ -34,16 +34,19 @@ Amber Rush
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/196
 City Slicker - C3 Custom Level
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/204
+[extension of C3 future levels, fair and balanced]
 Rug 'N Roll
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/207
 Spinning Webs - Crash Bandicoot NST Warped custom level
 (fucking camera, but very unique level)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/214
+[beautiful but too difficulty brutal in chase sections (fix by increase max aku to 2 in checkpoints, and add aku collectibles before chase)]
 Flood Time
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/230
 Gem Jamboree
 (has death route music transition for sure, but lack of checkpoint at the end of it sucks)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/235
+[beautiful but too difficulty brutal in death route (fix by adding checkpoints and remove death count in death route platform)]
 Night City
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/236
 Scorching Sand
