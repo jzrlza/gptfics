@@ -48,3 +48,28 @@ Night City
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/236
 Scorching Sand
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/237
+
+how to nst editor
+basics and shortcuts
+https://www.youtube.com/watch?v=K4SmZ1dNieI&t=32s
+camera
+https://www.youtube.com/watch?v=tDTyOPaxOe0
+"!" switch
+https://www.youtube.com/watch?v=NYWuQTaKwq8
+upcoming series
+https://www.youtube.com/playlist?list=PLLwiaCwTVPp8
+
+
+Shortcuts
+Ctrl + E = Move mode
+Ctrl + R = Rotate mode
+Ctrl + T = Scale mode
+Ctrl + D = Duplicate on place (better than Copy and Paste in same level copy)
+Ctrl + G = Gizmo toggle between world space and object space
+Ctrl + C and then Ctrl + V in another level = Import something those cannot be created by right click
+Hold Shift = Snap Object movements to grid, especially Crates, to grid
+Hold Alt = Automatic crate snapping
+
+Note to future self for NST maker:
+- Life crate when outlined is bugged, not outline after die and respawn
+- ***Still no tutorial how to make death route or gem route with proper music change yet, the level, for example, Li Nivel (flood egypt) while playable, the death route transition still needs to improve, despite overall solid level, this is the part I need to research and make tutorials to help improve level quality, as this feature easily CRASH the level (black out after load)
