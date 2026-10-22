@@ -79,6 +79,36 @@ Tips:
 example is in Gem Jamoree level mod
 Music transition copied from Cold Hard Crash Death Route
 Can upload custom music, cannot rename .igz file however
-- Death Route forgiving after checkpoint:
+- Death Route forgiving after checkpoint and death after:
 example is in Gem Jamoree level mod
 delete the death coute component, and now it is forgiving
+
+to learn next:
+- infinite platform spawners (Gem Jamoree has it in death route)
+- infinite enemy spawners (Gem Jamoree has it in death route)
+- flip flop platforms and moving platforms ((Gem Jamoree has it in entire level))
+- creativity with fixed terrians
+  - also includes the monkey bars
+- creativity with decorative environments
+  - flood levels (easy)
+  - pitfall levels
+  - lava levels
+  - acid levels
+  - sand levels
+  - etc.
+- craetivity with pushable crates
+- creativity with balancing crash 3 powerups
+- creativity with bouncing iron bound crates
+- Bonus Route transition
+- level elevators transitions
+- SLot Crate Nitro
+- Rolling Stones
+- Chase level/section
+- jetboard level/section
+- model modification
+- bear/tiger ride level/section
+- spiders and crushers indicators
+- moving objects for those usually do not move in vanilla
+- futuristic merry-go-round
+
+
