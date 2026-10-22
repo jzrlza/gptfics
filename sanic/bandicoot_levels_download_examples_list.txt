@@ -1,56 +1,82 @@
 The Hard Bridge
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/109
+
 Crash Pain N. The Bandicoot - 9 Level Pack
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/107
+
 Persian Peaks
+(the one with sonic music bonus open world)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/120
+
 Jungle Beginning
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/129
+
 Level 9 - Tropical Escape
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/132
+
 Dark Garden Towers
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/137
+
 Old Song Village
 (has frogs)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/138
+[reskin of Toad Village, a bit too easy]
+
 Level 1 - Jungle Cliff
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/164
+
 Florence and the Machinery
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/167
+
 Level 2 - Crash's Landing
 (has frogs)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/171
+
 Sands of Time - Crash Bandicoot NST C3 Custom Level
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/180
+
 All-Knighter - Custom Crash NST level
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/184
+
 Level 1 - Crushing Bones -
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/189
+
 Metropolis Highway
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/186
+
 Level 3 - Terrible lizards
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/193
+
 Amber Rush
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/196
+
 City Slicker - C3 Custom Level
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/204
-[extension of C3 future levels, fair and balanced]
+[extension of C3 future levels, fair and balanced, espeically humbling OP C3 powerups, nice]
+
 Rug 'N Roll
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/207
+
 Spinning Webs - Crash Bandicoot NST Warped custom level
 (fucking camera, but very unique level)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/214
 [beautiful but too difficulty brutal in chase sections (fix by increase max aku to 2 in checkpoints, and add aku collectibles before chase)]
+
 Flood Time
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/230
+
 Gem Jamboree
 (has death route music transition for sure, but lack of checkpoint at the end of it sucks)
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/235
 [beautiful but too difficulty brutal in death route (fix by adding checkpoints and remove death count in death route platform)]
+
 Night City
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/236
+
 Scorching Sand
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/237
+
+
 
 how to nst editor
 basics and shortcuts
