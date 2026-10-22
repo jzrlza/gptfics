@@ -100,7 +100,7 @@ to learn next:
 - creativity with balancing crash 3 powerups
 - creativity with bouncing iron bound crates
 - Bonus Route transition
-- slippery surfaces, even those never been slippery
+- slippery surfaces, even those never been slippery (example in City Slicker level)
 - level elevators transitions
 - SLot Crate Nitro
 - Rolling Stones
