@@ -162,7 +162,7 @@ Why: Runs on pure hype, enthusiasm, and throwing herself entirely into entertain
 The Party & Meme Energy Bomb: Daitaku Helios
 Why: Pure high-octane hype, slang-filled party energy, and a constant drive to turn every event into a giant festival/dance party.
 
-Turf=A, Dirt=A
+Turf=A, Dirt=B
 Sprint=A, Mile=A, Medium=B, Long=F
 Front=E, Pace=C, Late=A, End=A
 Speed=+10%, Stamina=+10%, Power=+10%
