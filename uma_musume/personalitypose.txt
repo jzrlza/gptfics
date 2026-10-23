@@ -117,6 +117,8 @@ Why: Relies on theory, precise race logic, and Intellect checks over raw instinc
 The Idolizing Star-Pupil / Simp: Special Week
 Why: Completely mirrors Twilight's starry-eyed fangirling over Princess Celestia—just like Special Week's overwhelming, starry-eyed reverence for Symboli Rudolf and her drive to make her mentor proud above all else.
 
+(smart with idolizing nature)
+
 Turf=A, Dirt=G
 Sprint=F, Mile=C, Medium=A, Long=A
 Front=F, Pace=A, Late=B, End=B
@@ -132,12 +134,31 @@ Why: Mirrors Dash's impulsive, front-running instinct to sprint at 100% capacity
 The Supreme Cocky Speedster: Sakura Bakushin O
 Why: Unapologetically confident, completely convinced of her own legendary status, and believes "speed solves literally every problem in existence."
 
+(egoistic tomboy speedster)
+
 Turf=A, Dirt=F
 Sprint=A, Mile=A, Medium=A, Long=C
 Front=A, Pace=B, Late=C, End=F
 Speed=+20%, Stamina=+10%
 
-3. Applejack
+3. Fluttershy
+The Timid Softie with Scary Stamina: Rice Shower
+Why: Soft-spoken, polite, easily frightened, and prone to self-doubt, but holds massive inner endurance when pushed.
+The Nurturing Caregiver: Super Creek
+Why: Reflects Fluttershy's caring, gentle nature toward small animals and anyone in need of comfort.
+The Soft, Non-Confrontational Introvert: Nice Nature
+Why: Quiet, gentlehearted disposition that dislikes high-stress conflict and prefers a calm pace.
+The Overpolite, Anxiety-Prone Sweetheart: Meisho Doto
+Why: Captures Fluttershy’s "sorry for existing" anxiety, perpetual timidness, and fear of messing up around loud personalities, combined with a deeply gentle, soft heart.
+
+(timid but hide massive endurance and hearts)
+
+Turf=A, Dirt=E
+Sprint=G, Mile=D, Medium=A, Long=A
+Front=C, Pace=A, Late=F, End=G
+Stamina=+20%, Power=+10%
+
+4. Applejack
 The Country Powerhouse: Oguri Cap
 Why: Rural origins, massive physical strength, huge appetite, and an unyielding work ethic on heavy tracks.
 The Unapologetic Rustic Girl: Yukino Bijin
@@ -147,25 +168,12 @@ Why: No-nonsense attitude, fierce loyalty, and relentless stamina under pressure
 The Western / Ranch Aesthetic: Taiki Shuttle
 Why: Perfectly matches Applejack's visual exterior and farm/ranch motif, bringing authentic country flavor and a warm, reliable presence (even if Taiki's inner energy leans hyperactive).
 
+(food, country, and down to dirt)
+
 Turf=A, Dirt=A
 Sprint=B, Mile=A, Medium=A, Long=D
 Front=C, Pace=B, Late=A, End=A
 Speed=+10%, Power=+20%
-
-4. Pinkie Pie
-The Fourth-Wall Breaking Chaos Gremlin: Gold Ship
-Why: Unpredictable energy, ignores conventional logic, and causes harmless, unhinged chaos wherever she goes.
-The Pure Hyperactive Optimist: Haru Urara
-Why: Boundless, unstoppable positivity, loves making everyone happy, and never lets a loss break her cheerful spirit.
-The Fan-Devoted Party Host: Agnes Digital
-Why: Runs on pure hype, enthusiasm, and throwing herself entirely into entertaining others.
-The Party & Meme Energy Bomb: Daitaku Helios
-Why: Pure high-octane hype, slang-filled party energy, and a constant drive to turn every event into a giant festival/dance party.
-
-Turf=A, Dirt=B
-Sprint=A, Mile=A, Medium=B, Long=F
-Front=E, Pace=C, Late=A, End=A
-Speed=+10%, Stamina=+10%, Power=+10%
 
 5. Rarity
 The Pristine High-Society Lady: Mejiro McQueen
@@ -177,25 +185,29 @@ Why: Demands to be #1 at all times, hates getting dirty, and brings dramatic fla
 The Guarded Romantic / High Standards: Mejiro Dober
 Why: Mirrors Rarity's dramatic romanticism paired with her sharp, defensive distrust/critique of men (like Spike's clumsy courting or Blueblood's failed charm), hiding a sensitive, artistic soul behind high standards.
 
+(glamour with expectations of males)
+
 Turf=A, Dirt=G
 Sprint=G, Mile=A, Medium=A, Long=B
 Front=A, Pace=A, Late=D, End=G
 Stamina=+10%, Power=+10%, Wit=+10%
 
-6. Fluttershy
-The Timid Softie with Scary Stamina: Rice Shower
-Why: Soft-spoken, polite, easily frightened, and prone to self-doubt, but holds massive inner endurance when pushed.
-The Nurturing Caregiver: Super Creek
-Why: Reflects Fluttershy's caring, gentle nature toward small animals and anyone in need of comfort.
-The Soft, Non-Confrontational Introvert: Nice Nature
-Why: Quiet, gentlehearted disposition that dislikes high-stress conflict and prefers a calm pace.
-The Overpolite, Anxiety-Prone Sweetheart: Meisho Doto
-Why: Captures Fluttershy’s "sorry for existing" anxiety, perpetual timidness, and fear of messing up around loud personalities, combined with a deeply gentle, soft heart.
+6. Pinkie Pie
+The Fourth-Wall Breaking Chaos Gremlin: Gold Ship
+Why: Unpredictable energy, ignores conventional logic, and causes harmless, unhinged chaos wherever she goes.
+The Pure Hyperactive Optimist: Haru Urara
+Why: Boundless, unstoppable positivity, loves making everyone happy, and never lets a loss break her cheerful spirit.
+The Fan-Devoted Party Host: Agnes Digital
+Why: Runs on pure hype, enthusiasm, and throwing herself entirely into entertaining others.
+The Party & Meme Energy Bomb: Daitaku Helios
+Why: Pure high-octane hype, slang-filled party energy, and a constant drive to turn every event into a giant festival/dance party.
 
-Turf=A, Dirt=E
-Sprint=G, Mile=D, Medium=A, Long=A
-Front=C, Pace=A, Late=F, End=G
-Stamina=+20%, Power=+10%
+(party extrovert, chaotic all-rounder)
+
+Turf=A, Dirt=B
+Sprint=A, Mile=A, Medium=B, Long=F
+Front=E, Pace=C, Late=A, End=A
+Speed=+10%, Stamina=+10%, Power=+10%
 
 More mares:
 - Trixie <-> TM Opera O + Smart Falcon
