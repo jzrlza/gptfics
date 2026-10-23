@@ -100,6 +100,9 @@ Nene - Matikanetannhauser
 Tsukasa - TM Opera O
 Rui - Agnes Tachyon
 
+Turf=?, Dirt=?
+Sprint=?, Mile=?, Medium=?, Long=?
+Front=?, Pace=?, Late=?, End=?
 
 
 1:Many Mapping (1 Pony $\rightarrow$ Multiple Umas)[ PONY ] ──────────► [ PERSONALITY FACET ] ──────────► [ MATCHED UMA MUSUME ]
@@ -112,6 +115,11 @@ Why: As Princess Celestia's star pupil and future ruler, she mirrors Rudolf’s 
 The Overthinking Theorist: Biwa Hayahide
 Why: Relies on theory, precise race logic, and Intellect checks over raw instinct.
 
+Turf=A, Dirt=F
+Sprint=G, Mile=C, Medium=A, Long=A
+Front=F, Pace=A, Late=B, End=B
+Speed=+15%, Wit=+15% 
+
 2. Rainbow Dash
 The Short, Fierce, High-Ego Speedster: Tamamo Cross
 Why: Small size, huge mouth, intense competitive drive, and explosive acceleration. Tamamo thrives on rivalry and hates losing more than anything—exact Rainbow Dash energy.
@@ -119,6 +127,11 @@ The Proud, Tomboyish Competitor: Vodka
 Why: Captures Dash's swagger, athletic arrogance, cool posture, and stubborn refusal to yield to rivals.
 The High-Speed Early Burnout: Twin Turbo
 Why: Mirrors Dash's impulsive, front-running instinct to sprint at 100% capacity straight out of the gate.
+
+Turf=A, Dirt=E
+Sprint=C, Mile=A, Medium=A, Long=C
+Front=A, Pace=B, Late=C, End=F
+Speed=+20%, Stamina=+10%
 
 3. Applejack
 The Country Powerhouse: Oguri Cap
@@ -130,6 +143,11 @@ Why: No-nonsense attitude, fierce loyalty, and relentless stamina under pressure
 The Western / Ranch Aesthetic: Taiki Shuttle
 Why: Perfectly matches Applejack's visual exterior and farm/ranch motif, bringing authentic country flavor and a warm, reliable presence (even if Taiki's inner energy leans hyperactive).
 
+Turf=A, Dirt=A
+Sprint=B, Mile=A, Medium=A, Long=D
+Front=C, Pace=B, Late=A, End=A
+Speed=+10%, Power=+20%
+
 4. Pinkie Pie
 The Fourth-Wall Breaking Chaos Gremlin: Gold Ship
 Why: Unpredictable energy, ignores conventional logic, and causes harmless, unhinged chaos wherever she goes.
@@ -138,6 +156,11 @@ Why: Boundless, unstoppable positivity, loves making everyone happy, and never l
 The Fan-Devoted Party Host: Agnes Digital
 Why: Runs on pure hype, enthusiasm, and throwing herself entirely into entertaining others.
 
+Turf=A, Dirt=A
+Sprint=A, Mile=A, Medium=B, Long=F
+Front=E, Pace=C, Late=A, End=A
+Speed=+10%, Stamina=+10%, Power=+10%
+
 5. Rarity
 The Pristine High-Society Lady: Mejiro McQueen
 Why: Elite grace, high etiquette, and an absolute obsession with maintaining elegance under pressure.
@@ -145,6 +168,11 @@ The Working Fashion Model: Gold City
 Why: Directly mirrors Rarity balancing her high-fashion industry career with her racing duties.
 The High-Maintenance Diva: Daiwa Scarlet
 Why: Demands to be #1 at all times, hates getting dirty, and brings dramatic flair to every event.
+
+Turf=A, Dirt=G
+Sprint=G, Mile=A, Medium=A, Long=B
+Front=A, Pace=A, Late=D, End=G
+Stamina=+10%, Power=+10%, Wit=+10%
 
 6. Fluttershy
 The Timid Softie with Scary Stamina: Rice Shower
@@ -155,6 +183,11 @@ The Soft, Non-Confrontational Introvert: Nice Nature
 Why: Quiet, gentlehearted disposition that dislikes high-stress conflict and prefers a calm pace.
 The Overpolite, Anxiety-Prone Sweetheart: Meisho Doto
 Why: Captures Fluttershy’s "sorry for existing" anxiety, perpetual timidness, and fear of messing up around loud personalities, combined with a deeply gentle, soft heart.
+
+Turf=A, Dirt=D
+Sprint=G, Mile=D, Medium=A, Long=A
+Front=C, Pace=A, Late=F, End=G
+Stamina=+20%, Power=+10%
 
 More mares:
 - Trixie
