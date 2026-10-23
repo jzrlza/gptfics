@@ -210,7 +210,7 @@ Front=E, Pace=C, Late=A, End=A
 Speed=+10%, Stamina=+10%, Power=+10%
 
 More mares:
-- Trixie <-> TM Opera O + Smart Falcon
+- Trixie <-> TM Opera O + Smart Falcon + King Halo
 - Starlight Glimmer <-> Agnes Tachyon + Sweep Tosho
 - Sunset Shimmer <-> Hishi Amazon + Sirius Symboli
 - Cheerilee <-> Super Creek + Tazuna (lol)
