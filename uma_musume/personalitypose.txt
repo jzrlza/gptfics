@@ -198,10 +198,10 @@ Front=C, Pace=A, Late=F, End=G
 Stamina=+20%, Power=+10%
 
 More mares:
-- Trixie
-- Starlight Glimmer
-- Sunset Shimmer
-- Cheerilee
-- Coco Pommel
-- Derpy Hooves
-- Maud Pie
+- Trixie <-> TM Opera O + Smart Falcon
+- Starlight Glimmer <-> Agnes Tachyon + Sweep Tosho
+- Sunset Shimmer <-> Hishi Amazon + Sirius Symboli
+- Cheerilee <-> Super Creek + Tazuna
+- Coco Pommel <-> Nishino Flower + Eishin Flash + Curren Chan
+- Derpy Hooves <-> Meisho Doto + Haru Urara
+- Cherry Jubilee <-> Seeking the Pearl
