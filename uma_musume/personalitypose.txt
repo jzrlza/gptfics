@@ -115,10 +115,10 @@ Why: As Princess Celestia's star pupil and future ruler, she mirrors Rudolf’s 
 The Overthinking Theorist: Biwa Hayahide
 Why: Relies on theory, precise race logic, and Intellect checks over raw instinct.
 The Idolizing Star-Pupil / Simp: Special Week
-Why: Completely mirrors Twilight's starry-eyed fanboying over Princess Celestia—just like Special Week's overwhelming, starry-eyed reverence for Symboli Rudolf and her drive to make her mentor proud above all else.
+Why: Completely mirrors Twilight's starry-eyed fangirling over Princess Celestia—just like Special Week's overwhelming, starry-eyed reverence for Symboli Rudolf and her drive to make her mentor proud above all else.
 
-Turf=A, Dirt=F
-Sprint=G, Mile=C, Medium=A, Long=A
+Turf=A, Dirt=G
+Sprint=F, Mile=C, Medium=A, Long=A
 Front=F, Pace=A, Late=B, End=B
 Speed=+15%, Wit=+15% 
 
@@ -132,8 +132,8 @@ Why: Mirrors Dash's impulsive, front-running instinct to sprint at 100% capacity
 The Supreme Cocky Speedster: Sakura Bakushin O
 Why: Unapologetically confident, completely convinced of her own legendary status, and believes "speed solves literally every problem in existence."
 
-Turf=A, Dirt=E
-Sprint=C, Mile=A, Medium=A, Long=C
+Turf=A, Dirt=F
+Sprint=A, Mile=A, Medium=A, Long=C
 Front=A, Pace=B, Late=C, End=F
 Speed=+20%, Stamina=+10%
 
@@ -192,7 +192,7 @@ Why: Quiet, gentlehearted disposition that dislikes high-stress conflict and pre
 The Overpolite, Anxiety-Prone Sweetheart: Meisho Doto
 Why: Captures Fluttershy’s "sorry for existing" anxiety, perpetual timidness, and fear of messing up around loud personalities, combined with a deeply gentle, soft heart.
 
-Turf=A, Dirt=D
+Turf=A, Dirt=E
 Sprint=G, Mile=D, Medium=A, Long=A
 Front=C, Pace=A, Late=F, End=G
 Stamina=+20%, Power=+10%
