@@ -114,6 +114,8 @@ The Student Council Leader / Royal Pupil: Symboli Rudolf
 Why: As Princess Celestia's star pupil and future ruler, she mirrors Rudolf’s dignified student council presidency and high expectations.
 The Overthinking Theorist: Biwa Hayahide
 Why: Relies on theory, precise race logic, and Intellect checks over raw instinct.
+The Idolizing Star-Pupil / Simp: Special Week
+Why: Completely mirrors Twilight's starry-eyed fanboying over Princess Celestia—just like Special Week's overwhelming, starry-eyed reverence for Symboli Rudolf and her drive to make her mentor proud above all else.
 
 Turf=A, Dirt=F
 Sprint=G, Mile=C, Medium=A, Long=A
@@ -127,6 +129,8 @@ The Proud, Tomboyish Competitor: Vodka
 Why: Captures Dash's swagger, athletic arrogance, cool posture, and stubborn refusal to yield to rivals.
 The High-Speed Early Burnout: Twin Turbo
 Why: Mirrors Dash's impulsive, front-running instinct to sprint at 100% capacity straight out of the gate.
+The Supreme Cocky Speedster: Sakura Bakushin O
+Why: Unapologetically confident, completely convinced of her own legendary status, and believes "speed solves literally every problem in existence."
 
 Turf=A, Dirt=E
 Sprint=C, Mile=A, Medium=A, Long=C
@@ -155,6 +159,8 @@ The Pure Hyperactive Optimist: Haru Urara
 Why: Boundless, unstoppable positivity, loves making everyone happy, and never lets a loss break her cheerful spirit.
 The Fan-Devoted Party Host: Agnes Digital
 Why: Runs on pure hype, enthusiasm, and throwing herself entirely into entertaining others.
+The Party & Meme Energy Bomb: Daitaku Helios
+Why: Pure high-octane hype, slang-filled party energy, and a constant drive to turn every event into a giant festival/dance party.
 
 Turf=A, Dirt=A
 Sprint=A, Mile=A, Medium=B, Long=F
@@ -168,6 +174,8 @@ The Working Fashion Model: Gold City
 Why: Directly mirrors Rarity balancing her high-fashion industry career with her racing duties.
 The High-Maintenance Diva: Daiwa Scarlet
 Why: Demands to be #1 at all times, hates getting dirty, and brings dramatic flair to every event.
+The Guarded Romantic / High Standards: Mejiro Dober
+Why: Mirrors Rarity's dramatic romanticism paired with her sharp, defensive distrust/critique of men (like Spike's clumsy courting or Blueblood's failed charm), hiding a sensitive, artistic soul behind high standards.
 
 Turf=A, Dirt=G
 Sprint=G, Mile=A, Medium=A, Long=B
