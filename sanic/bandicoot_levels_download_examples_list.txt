@@ -177,7 +177,7 @@ Can upload custom music, cannot rename .igz file however
 example is in Gem Jamoree level mod
 delete the death coute component, and now it is forgiving
 - Making normally killable Enemies invincible
-example is ine Spinning Webs level
+example is ine Spinning Webs level (the giant spider that chase you)
 check out booleans that made them killable (spinning, jumping on, bazooka, aku damage)
 
 to learn next:
