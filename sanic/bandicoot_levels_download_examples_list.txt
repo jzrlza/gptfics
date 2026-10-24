@@ -176,6 +176,9 @@ Can upload custom music, cannot rename .igz file however
 - Death Route forgiving after checkpoint and death after:
 example is in Gem Jamoree level mod
 delete the death coute component, and now it is forgiving
+- Making normally killable Enemies invincible
+example is ine Spinning Webs level
+check out booleans that made them killable (spinning, jumping on, bazooka, aku damage)
 
 to learn next:
 - infinite platform spawners (Gem Jamoree has it in death route)
