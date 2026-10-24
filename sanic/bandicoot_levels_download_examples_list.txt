@@ -133,6 +133,10 @@ https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/236
 Scorching Sand
 https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/237
 
+Back In Jungle Time
+(has mechanics where enemies dont blow up)
+https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/242
+
 
 
 how to nst editor
@@ -198,5 +202,5 @@ to learn next:
 - spiders and crushers indicators
 - moving objects for those usually do not move in vanilla
 - futuristic merry-go-round
-
+- enemys dont blow up challenges (Back In Jungle Time is example)
 
