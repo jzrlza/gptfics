@@ -6,6 +6,8 @@ Frogger's Wonderland
 - Coco in Alice skin is recommended
 - infinitely spawning platforms are needed (study this first in test level before continue)
   - spawn leaf, logs, stones, even jumping crocs
+  - also infenitely spawning cars and future ufos those are unkillable
+- should resonate frogger game enough
 
 Dreadmill Frenzy 3D
 - normal route
