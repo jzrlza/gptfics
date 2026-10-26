@@ -1,1 +1,11 @@
-...
+Dreadmill Wonderland
+- normal route
+- death route (with green gem, only nitro and proxy crates)
+- bonus route
+- set in future city but mixed with fairy tale stuffs
+- mainly a conveyer belt running you backwards (the blue one)
+- 3d version of my past BIT level Dreadmill Frenzy
+  - minus the timed red outlines from Crash 4, cannot do that here
+  - minus twinsanity detonator too
+  - I can still make locked crate at tail end of conveyor with iron outlines
+
