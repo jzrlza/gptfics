@@ -1,4 +1,11 @@
-Dreadmill Wonderland
+Frogger's Wonderland
+- normal route
+- death route (with blue gem, only nitro and proxy crates)
+- set in a big lake with invincible frogs and lily pads
+- has aku invincibility sections but also air-hanging locked crates to counter this
+- Coco in Alice skin is recommended
+
+Dreadmill Frenzy 3D
 - normal route
 - death route (with green gem, only nitro and proxy crates)
 - bonus route
