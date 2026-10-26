@@ -8,6 +8,7 @@ Frogger's Wonderland
   - spawn leaf, logs, stones, even jumping crocs
   - also infenitely spawning cars and future ufos those are unkillable
 - should resonate frogger game enough
+- also crossy road
 
 Dreadmill Frenzy 3D
 - normal route
