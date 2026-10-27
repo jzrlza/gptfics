@@ -101,6 +101,7 @@ Flareon
 [final data]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
 TC = Treasure Chest Challenge
+(bots cannot use them before EOS announcement, now they can until the game die)
 Cinderace (1 BP skin, 1 TC skin, 1 Purple Animated skin)
 Garchomp (1 TC skin)
 Gengar (1 BP skin, 2 TC skins)
