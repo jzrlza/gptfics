@@ -1,4 +1,4 @@
-[data as of mid Oct 2026]
+[final data]
 Cinderace
 Garchomp
 Gengar
@@ -97,7 +97,7 @@ Toxicitry
 Jolteon
 Flareon
 
-[data as of mid Oct 2026]
+[final data]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
 TC = Treasure Chest Challenge
 Cinderace (1 BP skin, 1 TC skin, 1 Purple Animated skin)
@@ -127,8 +127,8 @@ Mamoswine (-)
 Sylveon (1 BP skin, 1 TC skin, 1 Purple Animated skin (which is a stupidly recolor of 1st BP skin))
 Greedent (-)
 Decidueye (-)
-Tsareena (1 TC skin)
-Dragonite (2 BP skins)
+Tsareena (1 TC skin) [also the very last TC skin to be on gacha]
+Dragonite (2 BP skins) [last one is the final BP]
 Trevenant (-)
 Aegislash (-)
 Hoopa (-)
@@ -161,7 +161,7 @@ Mimikyu (1 BP skin, 2 TC skins)
 Meowscarada (1 BP skin, 1 TC skin)
 Metagross (1 Purple Animated skin)
 Gyarados (1 BP skin)
-Miraidon (1 TC skin)
+Miraidon (2 TC skins) [that last one was made by the time EOS is planned, therefore, upfront price from beginning to end]
 Falinks (-)
 Ceruledge (1 BP skin, 2 TC skins)
 Ho-Oh (1 BP skin, 1 TC skin)
@@ -198,7 +198,7 @@ Toxicitry (-)
 Jolteon (-)
 Flareon (-)
 
-[data as of mid Oct 2026]
+[final data]
 Cinderace = 3
 Garchomp = 3
 Gengar = 3
@@ -297,7 +297,7 @@ Toxicitry = 1
 Jolteon = 2
 Flareon = 2
 
-[data as of mid Oct 2026]
+[final data]
 Cinderace = back/dive
 Garchomp = front
 Gengar = dive
