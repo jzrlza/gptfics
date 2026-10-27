@@ -1,4 +1,5 @@
 [final data]
+[final count = 102]
 Cinderace
 Garchomp
 Gengar
