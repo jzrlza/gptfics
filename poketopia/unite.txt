@@ -98,7 +98,7 @@ Toxicitry
 Jolteon
 Flareon
 
-[final data]
+[final data of skins]
 BP = Battle Pass (Crisheoes in his main account almost always equip unless he hates the skin)
 TC = Treasure Chest Challenge
 (bots cannot use them before EOS announcement, now they can until the game die)
@@ -200,7 +200,7 @@ Toxicitry (-)
 Jolteon (-)
 Flareon (-)
 
-[final data]
+[final data of evo states]
 Cinderace = 3
 Garchomp = 3
 Gengar = 3
@@ -299,7 +299,7 @@ Toxicitry = 1
 Jolteon = 2
 Flareon = 2
 
-[final data]
+[final data of lines in battles]
 Cinderace = back/dive
 Garchomp = front
 Gengar = dive
