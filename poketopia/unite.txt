@@ -445,10 +445,10 @@ Dodrio = eject [solo mode exclusive]
 Scizor = eject [solo mode exclusive]
 Clefable = eject [solo mode exclusive]
 Zoroark = eject [solo mode exclusive]
-Sableye = ? [Ult Bot Anime Collab solo mode exclusive]
+Sableye = ? [Ult Bot Anime Collab solo mode exclusive] (but in solo mode one stage you are forced to pick it)
 Urshifu = full heal [solo mode exclusive]
 Dragapult = x atk [solo mode / dragon rush bot pool]
-Comfey = eject [solo mode exclusive ***infamous comfey bot even got this]
+Comfey = eject [solo mode exclusive ***infamous comfey bot even got this] (but in solo mode one stage you are forced to pick it)
 Zacian [none]
 Goodra = x atk [solo mode / dragon rush bot pool]
 Lapras = x atk [solo mode exclusive]
@@ -467,7 +467,7 @@ Falinks [none ***infamous comfey bot secondary pick]
 Ceruledge = eject [solo mode exclusive]
 Ho-Oh = eject [solo mode exclusive] it also uses leftovers...
 Armarouge [none]
-Darkrai [none]
+Darkrai [none] (but in solo mode one stage you are forced to pick it)
 Psyduck = eject [solo mode exclusive]
 Tinkaton = eject [solo mode exclusive]
 Galarian Rapidash = eject [solo mode exclusive]
