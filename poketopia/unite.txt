@@ -399,7 +399,7 @@ Jolteon = dive
 Flareon = front/dive
 
 [final data]
-[bot items]
+[bot items, i know nobody cares, but it is dead giveaway for identifying bots, TPC is idiot to fool us]
 Cinderace = eject [default bot pool]
 Garchomp = x atk [default bot pool]
 Gengar = eject [default bot pool]
