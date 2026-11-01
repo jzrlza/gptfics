@@ -463,7 +463,7 @@ Meowscarada = x atk [solo mode exclusive / Liko Bot Anime Collab solo mode]
 Metagross = x atk [solo mode exclusive]
 Gyarados = eject [solo mode / magikarp rush mode]
 Miraidon = x atk [solo mode / dragon rush bot pool]
-Falinks [none ***infamous comfey bot secondary pick]
+Falinks [none]
 Ceruledge = eject [solo mode exclusive]
 Ho-Oh = eject [solo mode exclusive] it also uses leftovers...
 Armarouge [none]
