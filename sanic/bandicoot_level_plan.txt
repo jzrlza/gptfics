@@ -9,6 +9,16 @@ Frogger's Wonderland
   - also infenitely spawning cars and future ufos those are unkillable
 - should resonate frogger game enough
 - also crossy road
+--====
+1. spawn
+- coco spawn in crash 3 portal, but frog kiss her immediately, the tiem she respawns you can make her dodge that in time
+
+
+
+
+
+
+
 
 Dreadmill Frenzy 3D
 - normal route
