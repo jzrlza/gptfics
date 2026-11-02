@@ -1,18 +1,15 @@
-Frogger's Wonderland
+Wonderland On The Run
 - normal route
 - death route (with blue gem, only nitro and proxy crates)
-- set in a big lake with invincible frogs and lily pads
 - has aku invincibility sections but also air-hanging locked crates to counter this
 - Coco in Alice skin is recommended
-- infinitely spawning platforms are needed (study this first in test level before continue)
-  - spawn leaf, logs, stones, even jumping crocs
-  - also infenitely spawning cars and future ufos those are unkillable
-- should resonate frogger game enough
-- also crossy road
+- has mushroom props a lot
+- better make it interesting
+=== the level is fast paced and give 3 aku aku every spawn ===
 --====
 1. spawn
 - coco spawn in crash 3 portal, but frog kiss her immediately, the tiem she respawns you can make her dodge that in time
-
+(all frogs are invincible but can still be killed by Aku invincibility)
 
 
 
