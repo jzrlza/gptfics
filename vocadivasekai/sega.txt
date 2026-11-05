@@ -16,19 +16,25 @@ Sanic Mobian-Vocaloid equivalents :
 Sonic - Miku
 Tails - Rin
 Knuckles - Meiko
+
 Amy - Kaito
 Cream - Len
+Big - Iroha
+
 Rouge - Luka
 Shadow - Teto
+
 Silver - Neru
 Blaze - Haku
-Big - Iroha
+
 Jet - Gumi
 Wave - Gakupo
 Storm - Una
+
 Vector - Big Al
 Espio - Yohio
 Charmy - Oliver
+
 Whisper - IA
 Tangle - V Flower
 
