@@ -483,7 +483,7 @@ Dhelmise [none]
 Vaporeon = x atk [solo mode / eevee o rama bot pool]
 Mega Lucario = eject [solo mode exclusive]
 Mega Charizard X [none]
-Mega Charizard X Y [none]
+Mega Charizard Y [none]
 Mega Gyarados [none]
 ---rift---
 Meowth [none]
