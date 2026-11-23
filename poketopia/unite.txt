@@ -401,7 +401,7 @@ Flareon = front/dive
 [final data]
 [bot items, i know nobody cares, but it is dead giveaway for identifying bots, TPC is idiot to fool us]
 Cinderace = eject [default bot pool]
-Garchomp = x atk [default bot pool / Cynthia bot in og solo mode]
+Garchomp = x atk [default bot pool / dragon rush bot pool / Cynthia bot in og solo mode]
 Gengar = eject [default bot pool]
 Cramorant = full heal [default bot pool]
 Alolan Ninetales = eject [default bot pool]
